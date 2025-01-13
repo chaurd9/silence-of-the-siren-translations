@@ -8,12 +8,8 @@
         </Contributors>
 
         <LocalizedStrings>
-            <!-- JB: notes for Urbik:
-            UNSC = UNSS SC = united nations of the solar system star catalog
-            Siren Star would have a number
-            And exoplanets are usually designated with a letter, fourth planet would be 'd' -->
             <GameDBLocalizedString>        <LocID>PLANET_EA_ID</LocID>                                                  <Text>UNSC 4298d</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>        <LocID>PLANET_EA_DESCRIPTION</LocID>                                         <Text><![CDATA[Четвёртая планета системы Сирен — это каменистый мир с пригодной для дыхания атмосферой, но в то же время чрезвычайно опасное место, практически никем не контролируемое. \n\nС другой стороны, она открывает множество возможностей для местных ополченцев и повстанцев, чтобы укрепить свои позиции. \n\nИз-за прошлого столкновения с блуждающей луной планета вращается очень быстро, и местный цикл дня и ночи состоит всего из четырех фаз.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>PLANET_EA_DESCRIPTION</LocID>                                         <Text><![CDATA[Четвёртая планета системы Сирен — это каменистый мир с пригодной для дыхания атмосферой, но в то же время чрезвычайно опасное место, практически никем не контролируемое.\n\nОднако, она открывает множество возможностей для местных ополченцев и повстанцев, чтобы укрепить свои позиции.\n\nИз-за столкновения с блуждающей луной планета вращается очень быстро. Цикл дня и ночи состоит из четырех фаз.]]></Text>  </GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>
