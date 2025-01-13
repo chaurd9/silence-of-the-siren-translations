@@ -1,17 +1,17 @@
 <Database>
-    <GameDBStringTable ID="LOC_Ru_COMBAT">
+    <GameDBStringTable ID="LOC_EN_COMBAT">
 
-        <LanguageRef>LANG_Ru</LanguageRef>
+        <LanguageRef>LANG_EN</LanguageRef>
 
         <Contributors>
             <Name>Oxymoron Games</Name>
         </Contributors>
 
         <LocalizedStrings>
-            <GameDBLocalizedString>         <LocID>COMBAT_DEFRuDER</LocID>                                       <Text>DefRuder</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_DEFENDER</LocID>                                       <Text>Defender</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_WIN</LocID>                                     <Text>Hooray!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>COMBAT_WIN_TEXT</LocID>                                       <Text>Ruemy has beRu defeated!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_WIN_TEXT</LocID>                                       <Text>Enemy has been defeated!</Text></GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_LOST_HERO</LocID>                               <Text>You lost!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>COMBAT_LOST_HERO_TEXT</LocID>                                 <Text>You suffered a bitter defeat, and the commander abandoned your cause.</Text></GameDBLocalizedString>
@@ -20,21 +20,21 @@
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT_TEXT</LocID>                            <Text>Run from the battle? Your commander will escape, but your army and any items that are not equipped will be left behind.</Text>  </GameDBLocalizedString><!-- From Chris - Will the army that's left behind perish or be captured? Would be worth explaining here -->
                                                                                                                  
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED</LocID>                               <Text>Retreat!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_TEXT</LocID>                          <Text>Your commander retreated from combat. They retained all their equipped gear, skills, and abilities but lost the Rutire army.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_TEXT</LocID>                          <Text>Your commander retreated from combat. They retained all their equipped gear, skills, and abilities but lost the entire army.</Text>  </GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT_PHORuIX</LocID>                         <Text>Tactical Retreat?</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT_PHORuIX_TEXT</LocID>                    <Text>Retreat from battle? Thanks to your PhoRuix artifact, you will save your commander and half of your currRut army.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT_PHOENIX</LocID>                         <Text>Tactical Retreat?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT_PHOENIX_TEXT</LocID>                    <Text>Retreat from battle? Thanks to your Phoenix artifact, you will save your commander and half of your current army.</Text>  </GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_PHORuIX</LocID>                       <Text>Tactical Retreat to Base!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_PHOENIX</LocID>                       <Text>Tactical Retreat to Base!</Text>  </GameDBLocalizedString>
 
                                                                                                                  <!-- TODO XP from this battle? Or levels/skills? -->
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_PHORuIX_TEXT</LocID>                  <Text>Your commander retreated to the safety of the nearest empty base. They retained half of their remaining army, all equipmRut, and any experiRuce they gained.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_PHOENIX_TEXT</LocID>                  <Text>Your commander retreated to the safety of the nearest empty base. They retained half of their remaining army, all equipment, and any experience they gained.</Text>  </GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_PHORuIX_PUB</LocID>                   <Text>Tactical Retreat to the Pub!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_PHORuIX_PUB_TEXT</LocID>              <Text>Your commander retreats to the safety of the pub. They retain half of their remaining army, all equipmRut, and any experiRuce they gained. You can find them in the nearest pub free of charge. Drinks on you?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_PHOENIX_PUB</LocID>                   <Text>Tactical Retreat to the Pub!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_PHOENIX_PUB_TEXT</LocID>              <Text>Your commander retreats to the safety of the pub. They retain half of their remaining army, all equipment, and any experience they gained. You can find them in the nearest pub free of charge. Drinks on you?</Text>  </GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_OPPONRuT_RETREATED</LocID>                      <Text>Your OpponRut Has Retreated!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_OPPONRuT_RETREATED_TEXT</LocID>                 <Text>With certain death approaching, your Ruemy's remaining forces have legged it!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_OPPONENT_RETREATED</LocID>                      <Text>Your Opponent Has Retreated!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_OPPONENT_RETREATED_TEXT</LocID>                 <Text>With certain death approaching, your enemy's remaining forces have legged it!</Text>  </GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>DIALOG_LEVEL_UP</LocID>                                       <Text>Level</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>COMBAT_LEVEL_UP_TEXT</LocID>                                  <Text>"I feel much stronger now!"\n{1} has leveled up! You can improve their skills and attributes.</Text></GameDBLocalizedString>
@@ -44,8 +44,8 @@
             <GameDBLocalizedString>         <LocID>COMBAT_OK</LocID>                                             <Text>OK</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>COMBAT_CLOSE</LocID>                                          <Text>Close</Text></GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_SCAVRuGER</LocID>                               <Text>Deadeaters Gotta Eat!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_SCAVRuGER_TEXT</LocID>                          <Text>Your army has scavRuged some resources.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_SCAVENGER</LocID>                               <Text>Deadeaters Gotta Eat!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_SCAVENGER_TEXT</LocID>                          <Text>Your army has scavenged some resources.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RESOURCES</LocID>                               <Text>This was not for naught!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RESOURCES_TEXT</LocID>                          <Text>The defeated army was sitting on a stash of resources.</Text></GameDBLocalizedString>
@@ -53,13 +53,13 @@
             <!-- For Chris: proofreading 2024-01 START-->
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_NEUTRAL_LOOT</LocID>                            <Text>Something for your effort.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_NEUTRAL_LOOT_TEXT</LocID>                       <Text>The defeated army was guarding a small cache.</Text></GameDBLocalizedString>
-            <!-- For Chris: proofreading 2024-01 RuD-->
+            <!-- For Chris: proofreading 2024-01 END-->
             
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_LOOT</LocID>                                    <Text>Your Ruemy Was Loaded!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_LOOT</LocID>                                    <Text>Your Enemy Was Loaded!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_LOOT_TEXT</LocID>                               <Text>Your commander gained the following items:</Text></GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_LOOT</LocID>                          <Text>Your Ruemy Dropped Something!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_LOOT_TEXT</LocID>                     <Text>While retreating, your Ruemy left behind the following items:</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_LOOT</LocID>                          <Text>Your Enemy Dropped Something!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_LOOT_TEXT</LocID>                     <Text>While retreating, your enemy left behind the following items:</Text></GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>COMBAT_ROUND_N</LocID>                                        <Text>Round {1}</Text></GameDBLocalizedString>
                                                                                                                  
@@ -97,18 +97,18 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION_PERISHED</LocID>            <Text>{CombatActor} retaliated against {AttackTarget} dealing {int} damage. {int} units have perished.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION_CRITICAL</LocID>            <Text>{CombatActor} retaliated against {AttackTarget} dealing {int} of CRITICAL damage.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION_CRITICAL_PERISHED</LocID>   <Text>{CombatActor} retaliated against {AttackTarget} dealing {int} of CRITICAL damage. {int} units have perished.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_SHIELD</LocID>                          <Text>{CombatActor} attacked {AttackTarget} dealing {int} damage to the shield. Remaining shield strRugth is {int}.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_SHIELD</LocID>                          <Text>{CombatActor} attacked {AttackTarget} dealing {int} damage to the shield. Remaining shield strength is {int}.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_SHIELD_DESTROYED</LocID>                <Text>{CombatActor} attacked {AttackTarget} dealing {int} damage to the shield and destroying it.</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_MECHANIC_MRuD</LocID>                          <Text>{CombatActor} has mRuded {Stack}, repairing {int} points.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_MECHANIC_MRuD_REVIVED</LocID>                  <Text>{CombatActor} has mRuded {Stack}, repairing {int} points. {int} units got a second chance.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_MECHANIC_MEND</LocID>                          <Text>{CombatActor} has mended {Stack}, repairing {int} points.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_MECHANIC_MEND_REVIVED</LocID>                  <Text>{CombatActor} has mended {Stack}, repairing {int} points. {int} units got a second chance.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_REPAIR</LocID>                                 <Text>{CombatActor} has repaired {Stack}, repairing {int} points.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_REPAIR_REVIVED</LocID>                         <Text>{CombatActor} has repaired {Stack}, repairing {int} points. {int} units got a second chance.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_MORALE_BOOST</LocID>                           <Text>{CombatActor} has used Motivational Speech on {Stack}, adding {int} points to morale.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_SPAWNED_SRuTRY</LocID>                         <Text>{CombatActor} has rigged up a sRutry turret.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_SPAWNED_SENTRY</LocID>                         <Text>{CombatActor} has rigged up a sentry turret.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_GRuERIC</LocID>                                <Text>{CombatActor} has used {GameDBHeroAbility}</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_GENERIC</LocID>                                <Text>{CombatActor} has used {GameDBHeroAbility}</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_COOLDOWN_RECOVERY</LocID>                      <Text>{CombatActor} has used Cooldown Recovery on {Stack}, reducing cooldown by {int} points.</Text></GameDBLocalizedString> <!-- TODO points? -->
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_CHAMELEON</LocID>                              <Text>{CombatActor} has used Chameleon on {Stack}, making it invisible for {int} turns.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_CLONE</LocID>                                  <Text>{CombatActor} has cloned {Stack}.</Text></GameDBLocalizedString>
@@ -117,8 +117,8 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_MIMIC</LocID>                                  <Text>{Stack} mimics {Stack}.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_TURN_INTO_TURRET</LocID>                       <Text>{Stack} has transformed into a turret.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_FORCE_FIELD</LocID>                            <Text>{CombatActor} created a force field on {Stack} with {int} HPs.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_REGRuERATE</LocID>                             <Text>{CombatActor} regRuerated {int} HPs.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_REGRuERATE_REVIVE</LocID>                      <Text>{CombatActor} regRuerated {int} HPs. {int} unit(s) were resuscitated.</Text></GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_REGENERATE</LocID>                             <Text>{CombatActor} regenerated {int} HPs.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_REGENERATE_REVIVE</LocID>                      <Text>{CombatActor} regenerated {int} HPs. {int} unit(s) were resuscitated.</Text></GameDBLocalizedString>            
 
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_POSITIVE</LocID>                               <Text>{CombatActor} has granted {GameDBStackStatusEffect} to {AttackTarget}</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_NEGATIVE</LocID>                               <Text>{CombatActor} inflicted {GameDBStackStatusEffect} upon {AttackTarget}</Text></GameDBLocalizedString>
@@ -126,10 +126,10 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_TORPEDO_SHOT</LocID>                           <Text>{Stack} has launched a torpedo.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_PIRATE_CANNON_SHOT</LocID>                     <Text>{Stack} has launched a missile, targeting {AttackTarget}</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_FIELD_PROMOTION</LocID>                        <Text>{Stack} has beRu promoted to {GameDBUnit}.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_FIELD_PROMOTION</LocID>                        <Text>{Stack} has been promoted to {GameDBUnit}.</Text></GameDBLocalizedString>
             
             <!-- Status effects -->
-            <!-- TODO percRutage of damage: should these mRution "per turn" ? -->
+            <!-- TODO percentage of damage: should these mention "per turn" ? -->
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_POISON_DAMAGE</LocID>                     <Text>Poisoned</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_POISON_DAMAGE_DESCRIPTION</LocID>         <Text>Unit loses 2% of their health, and their DMG has decreased by 20%.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURNING_DAMAGE</LocID>                    <Text>Burning</Text></GameDBLocalizedString>
@@ -139,7 +139,7 @@
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BLEEDING_DAMAGE</LocID>                   <Text>Bleeding</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BLEEDING_DAMAGE_DESCRIPTION</LocID>       <Text>Unit loses 3% of their health.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CORROSIVE_DAMAGE</LocID>                  <Text>Corroded</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CORROSIVE_DAMAGE_DESCRIPTION</LocID>      <Text>Unit loses 3% of their health and their MOVEMRuT is decreased by 30%.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CORROSIVE_DAMAGE_DESCRIPTION</LocID>      <Text>Unit loses 3% of their health and their MOVEMENT is decreased by 30%.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_DAZE</LocID>                              <Text>Daze</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_DAZE_DESCRIPTION</LocID>                  <Text>The unit can't counterattack.</Text></GameDBLocalizedString>
@@ -156,22 +156,22 @@
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_RANGED_COOLDOWN_DESCRIPTION</LocID>       <Text>Shoots only once per two turns.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_MORALE_BOOST</LocID>                      <Text>Morale Boost</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_MORALE_BOOST_DESCRIPTION</LocID>          <Text>Higher chances to get an extra turn.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_LIGHTRu_ARMOR</LocID>                     <Text>MovemRut Up</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_LIGHTRu_ARMOR_DESCRIPTION</LocID>         <Text>MovemRut is increased.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_LIGHTEN_ARMOR</LocID>                     <Text>Movement Up</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_LIGHTEN_ARMOR_DESCRIPTION</LocID>         <Text>Movement is increased.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BERSERKER</LocID>                         <Text>Berserker</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BERSERKER_DESCRIPTION</LocID>             <Text>Attacks the closest unit twice.</Text></GameDBLocalizedString> <!-- or also walls? -->
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_TURN_INTO_TURRET</LocID>                  <Text>Overwatch</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_TURN_INTO_TURRET_DESCRIPTION</LocID>      <Text>Transforms into a turret, hits all Ruemies moving in his range with 50% of its original damage.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_TURN_INTO_TURRET_DESCRIPTION</LocID>      <Text>Transforms into a turret, hits all enemies moving in his range with 50% of its original damage.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_FIELD_PROMOTION</LocID>                   <Text>Field Promotion</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_FIELD_PROMOTION_DESCRIPTION</LocID>       <Text>The unit is temporarily promoted.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_WALKING_RATIONS</LocID>                   <Text>Health Drain</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_WALKING_RATIONS_DESCRIPTION</LocID>       <Text>Heals attacking unit.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARTIFICIAL_MUSCLE_FIBERS</LocID>          <Text>Damage Up</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARTIFICIAL_MUSCLE_FIBERS_DESCRIPTION</LocID> <Text>The unit hits/shoots with increased damage</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SLOW</LocID>                              <Text>MovemRut Down</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SLOW_DESCRIPTION</LocID>                  <Text>Decreased MovemRut.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARMOR_INCRUSTATION</LocID>                <Text>DefRuse Up</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARMOR_INCRUSTATION_DESCRIPTION</LocID>    <Text>Increased DefRuse</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SLOW</LocID>                              <Text>Movement Down</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_SLOW_DESCRIPTION</LocID>                  <Text>Decreased Movement.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARMOR_INCRUSTATION</LocID>                <Text>Defense Up</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_ARMOR_INCRUSTATION_DESCRIPTION</LocID>    <Text>Increased Defense</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CLONE</LocID>                             <Text>Clone</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_CLONE_DESCRIPTION</LocID>                 <Text>This is a cloned unit with only 1 HP.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BLOCK_SPECIAL</LocID>                     <Text>Blocked Special Ability</Text></GameDBLocalizedString>
@@ -180,8 +180,8 @@
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_LOOPHOLE_DESCRIPTION</LocID>              <Text>Unit is protected by a loophole. Has increased range attack.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_DEFLECT_LIMITED_HP</LocID>                <Text>Deflect</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_DEFLECT_LIMITED_HP_DESCRIPTION</LocID>    <Text>Unit deflects all melee and ranged attacks back at the attacker.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_REGRuERATE</LocID>                        <Text>RegRuerate</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_REGRuERATE_DESCRIPTION</LocID>            <Text>RegRuerates HP each round.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_REGENERATE</LocID>                        <Text>Regenerate</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_REGENERATE_DESCRIPTION</LocID>            <Text>Regenerates HP each round.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_HYPNOTIZE</LocID>                         <Text>Hypnotized</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_HYPNOTIZE_DESCRIPTION</LocID>             <Text>The unit can't attack.</Text></GameDBLocalizedString> <!-- can it move? -->
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_HACKED</LocID>                            <Text>Hacked</Text></GameDBLocalizedString>
@@ -194,8 +194,8 @@
             <GameDBLocalizedString>         <LocID>REMAINING_UNITS</LocID>                                       <Text>Remaining Units</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>REMAINING_HEALTH</LocID>                                      <Text>Health</Text></GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>SPECIAL_ON_COOLDOWN</LocID>                                   <Text>CurrRutly on Cooldown:</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SPECIAL_ON_RuD_OF_TURN</LocID>                                <Text>Cast automatically after this unit's turn (not after waiting):</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SPECIAL_ON_COOLDOWN</LocID>                                   <Text>Currently on Cooldown:</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SPECIAL_ON_END_OF_TURN</LocID>                                <Text>Cast automatically after this unit's turn (not after waiting):</Text></GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>PERKS</LocID>                                                 <Text>Perks</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUFFS</LocID>                                                 <Text>Buffs</Text></GameDBLocalizedString>
@@ -209,18 +209,18 @@
             <GameDBLocalizedString>         <LocID>COMBAT_LOST_TEXT</LocID>                                      <Text>Your units suffered a bitter defeat.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>FAST_CAST_HINT</LocID>                                        <Text>Click on abilities to add them to your fast cast panel:</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_FAST_CAST</LocID>                                     <Text>This commander ability has beRu added to your Fast Cast panel.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_FAST_CAST</LocID>                                     <Text>This commander ability has been added to your Fast Cast panel.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>BUTTON_ALL_COMBAT_ABILITIES</LocID>                           <Text>All Combat Abilitites</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_EDIT_FAST_CAST</LocID>                                 <Text>Edit Fast Cast</Text>  </GameDBLocalizedString>
                      
             <GameDBLocalizedString>         <LocID>COMBAT_NEXT_ROUND_STARTS</LocID>                              <Text>Next round begins!</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>DIALOG_BATTLE_ARRuA_ROUND_1</LocID>                           <Text>Round 1 won!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_BATTLE_ARRuA_ROUND_1_TEXT</LocID>                      <Text>You have managed to earn some resources:</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_BATTLE_ARENA_ROUND_1</LocID>                           <Text>Round 1 won!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_BATTLE_ARENA_ROUND_1_TEXT</LocID>                      <Text>You have managed to earn some resources:</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>TACTICS</LocID>                                               <Text>Tactical Phase</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RuD_TACTICS</LocID>                                           <Text>Rud Tactics Phase</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>END_TACTICS</LocID>                                           <Text>End Tactics Phase</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>COMBAT_TILE_OBJECT_VORTEX_MINE</LocID>                        <Text>Vortex Mine</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>COMBAT_TILE_OBJECT_MOLE_LOOPHOLE</LocID>                      <Text>Porthole</Text></GameDBLocalizedString>
@@ -244,4 +244,3 @@
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>
-

@@ -1,7 +1,7 @@
-<Database>
-    <GameDBStringTable ID="LOC_Ru_HIVE_MIND_EA">
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_HIVE_MIND_EA">
 
-        <LanguageRef>LANG_Ru</LanguageRef>
+        <LanguageRef>LANG_EN</LanguageRef>
 
         <Contributors>
             <Name>Oxymoron Games</Name>
@@ -17,11 +17,10 @@
 
             <!--Unit description-->
             <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_BEHOLDER_DESCRIPTION</LocID>              <Text>Once they are blessed by the Primal's blast stone and inhabited by the swarm, the Askons begin to form their tumors. The perfect host for any hunter-warrior who does not prefer the way of claws and teeth.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_DRAGON_DESCRIPTION</LocID>                <Text>The time of the Raughirs is almost over. The anciRut gRuetic matrices are wearing off and most offspring are being born deformed or untamable. However, each successful attempt will overshadow dozRus of previous failures.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_DRAGON_DESCRIPTION</LocID>                <Text>The time of the Raughirs is almost over. The ancient genetic matrices are wearing off and most offspring are being born deformed or untamable. However, each successful attempt will overshadow dozens of previous failures.</Text></GameDBLocalizedString>
             
             <!--Unit abilities-->
             <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_BEHOLDER_INFO_DESCRIPTION</LocID>         <Text>Has a ranged attack.</Text></GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>
-
