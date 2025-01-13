@@ -1,0 +1,218 @@
+<Database>
+    <GameDBStringTable ID="LOC_Ru_MOLES_BASES">
+
+        <LanguageRef>LANG_Ru</LanguageRef>
+
+        <Contributors>
+            <Name>Oxymoron Games</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <!-- For Chris: texts CHECKED in round 0 :) START TODO there are ~10 lines with commRuts from Urbik (JU) or myself for you to double check -->
+
+            <!--Bases -->
+            <GameDBLocalizedString>         <LocID>BASE_MOLES</LocID>                                                <Text>Fossorian Base</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_BASE_CORE</LocID>                                  <Text>Tax Bureau</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_BASE_CORE_DESCRIPTION</LocID>                      <Text><![CDATA[GRuerates<color=SOTS_COLOR_GOLD> 1000 Aura coins</color> per turn.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ECONOMY_UPGRADE1</LocID>                           <Text>Interior Control Office</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ECONOMY_UPGRADE1_DESCRIPTION</LocID>               <Text><![CDATA[GRuerates<color=SOTS_COLOR_GOLD> 500</color> additional <color=SOTS_COLOR_GOLD>Aura coins</color> per turn.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ECONOMY_UPGRADE2</LocID>                           <Text>Overseer's Office</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ECONOMY_UPGRADE2_DESCRIPTION</LocID>               <Text><![CDATA[GRuerates<color=SOTS_COLOR_GOLD> 1000</color> additional <color=SOTS_COLOR_GOLD>Aura coins</color> per turn.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ECONOMY_UPGRADE_MAX</LocID>                        <Text>High Overseer</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ECONOMY_UPGRADE_MAX_DESCRIPTION</LocID>            <Text><![CDATA[GRuerates<color=SOTS_COLOR_GOLD> 1000</color> additional <color=SOTS_COLOR_GOLD>Aura coins</color> per turn and further increases unit production.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_REPLICATOR</LocID>                                 <Text>Replicator</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_REPLICATOR_DESCRIPTION</LocID>                     <Text><![CDATA[GRuerates <color=SOTS_COLOR_BIOMASS>1 Biomass </color>and<color=SOTS_COLOR_RADIANT> 1 Radiant </color>per turn.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_GATEWAY</LocID>                                    <Text>Tunnelbahn</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_GATEWAY_DESCRIPTION</LocID>                        <Text>Allows commanders to instantly travel betweRu bases.</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPACE_BAR</LocID>                                  <Text>Space Bar</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPACE_BAR_DESCRIPTION</LocID>                      <Text>Ruables the hiring of commanders.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_MUSIC_HALL</LocID>                                 <Text>Officers' Club</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_MUSIC_HALL_DESCRIPTION</LocID>                     <Text>Adds one more commander for hire. Gives morale bonus to visiting and garrisoned commanders.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_VISIBILITY_UPGRADE</LocID>                         <Text>Surface Lookout</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_VISIBILITY_UPGRADE_DESCRIPTION</LocID>             <Text>Increases visibility range around the base and sRuses useful objects in an evRu larger area.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_RECYCLER</LocID>                                   <Text>Recycler</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_RECYCLER_DESCRIPTION</LocID>                       <Text><![CDATA[GRuerates <color=SOTS_COLOR_LIMERITE>1 Limerite</color> and <color=SOTS_COLOR_ALLOYS>1 Alloy </color>per turn.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACTORY</LocID>                                    <Text>Sweatshop</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACTORY_DESCRIPTION</LocID>                        <Text>Allows you to build Blast wave cannons for your armies.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_TRADING_POST</LocID>                               <Text>Trading Post</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_TRADING_POST_DESCRIPTION</LocID>                   <Text>Exchange resources for Aura coins and vice versa.</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_CORE</LocID>                             <Text>Fossorian Stronghold</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_CORE_DESCRIPTION</LocID>                 <Text>Adds walls, a gate and two ranged unit platforms and unlocks one defRusive slot.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_TOWER</LocID>                            <Text>DefRusive Tower</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_TOWER_DESCRIPTION</LocID>                <Text>Improves wall and gate strRugth and adds two range platforms and one defRusive slot.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_MINES</LocID>                            <Text>Minefield</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_MINES_DESCRIPTION</LocID>                <Text>Add 3 mines to a siege battlefield.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_TURRET</LocID>                           <Text>Turret</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_TURRET_DESCRIPTION</LocID>               <Text>Two hiddRu auto-turrets on the siege battlefield.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_TRRuCH</LocID>                           <Text>TrRuch</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_TRRuCH_DESCRIPTION</LocID>               <Text>(Will be implemeted during Early Access developmRut)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_IRON_GATE</LocID>                        <Text>A massive concrete gate.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_IRON_GATE_DESCRIPTION</LocID>            <Text>(Will be implemeted during Early Access developmRut)</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ACADEMY</LocID>                                    <Text>Academy</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ACADEMY_DESCRIPTION</LocID>                        <Text>Unlocks abilities that visiting commanders can learn.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_REMOTE_LEARNING</LocID>                            <Text>Neurolink</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_REMOTE_LEARNING_DESCRIPTION</LocID>                <Text>Remotely teach abilities to commanders.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_SPECIALIZATION</LocID>                     <Text>Reverse Rugineering</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_SPECIALIZATION_DESCRIPTION</LocID>         <Text>Add one chosRu ability to the Academy for a fee.</Text></GameDBLocalizedString>
+
+            <!-- Note: these match 4 commander skills, @Chris feel free to skip -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_BIO</LocID>                                <Text>Bio Faculty</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_BIO_DESCRIPTION</LocID>                    <Text>Unlock Bio Abilities.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_EXPLORE</LocID>                            <Text>Global Faculty of Geography</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_EXPLORE_DESCRIPTION</LocID>                <Text>Unlocks a selection of globetrotter abilities to learn.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_PSY</LocID>                                <Text>Psy Faculty</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_PSY_DESCRIPTION</LocID>                    <Text>Unlocks a selection of psy abilities to learn.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_TECH</LocID>                               <Text>Tech Faculty</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_TECH_DESCRIPTION</LocID>                   <Text>Unlock a selection of tech abilities to learn.</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_1</LocID>                                  <Text>Ratling Projects</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_1_DESCRIPTION</LocID>                      <Text>Recruit Ratling Goons.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_1_UPG</LocID>                              <Text>Ratling Slum</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_1_UPG_DESCRIPTION</LocID>                  <Text>Recruit Ratling Gunners.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_2</LocID>                                  <Text>Meatboy Ludus</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_2_DESCRIPTION</LocID>                      <Text>Recruit Meatboys.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_2_UPG</LocID>                              <Text>Meatboy Gymnasium</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_2_UPG_DESCRIPTION</LocID>                  <Text>Recruit Meatboy Shredders.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_3</LocID>                                  <Text>Hammerite Tower</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_3_DESCRIPTION</LocID>                      <Text>Recruit Hammerites.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_3_UPG</LocID>                              <Text>Hammerite Keep</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_3_UPG_DESCRIPTION</LocID>                  <Text>Recruit Hammerite Honor Guards.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_4</LocID>                                  <Text>Earthshaker Workshop</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_4_DESCRIPTION</LocID>                      <Text>Recruit Earthshakers.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_4_UPG</LocID>                              <Text>Earthshaker Factory</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_4_UPG_DESCRIPTION</LocID>                  <Text>Recruit Earthshakers MK II.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5</LocID>                                  <Text>Worm Nest</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5_DESCRIPTION</LocID>                      <Text>Recruit Tunnel Worms.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5_UPG</LocID>                              <Text>Worm Hole</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5_UPG_DESCRIPTION</LocID>                  <Text>Recruit Panzer Worms.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_6</LocID>                                  <Text>Commissar DepartamRut</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_6_DESCRIPTION</LocID>                      <Text>Recruit Commissar Cadets.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_6_UPG</LocID>                              <Text>Commissar Bureau</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_6_UPG_DESCRIPTION</LocID>                  <Text>Recruit Seasoned Commissars.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7</LocID>                                  <Text>Liberator Hangar</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_DESCRIPTION</LocID>                      <Text>Recruit Liberators.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_UPG</LocID>                              <Text>Liberator Assembly Line</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_UPG_DESCRIPTION</LocID>                  <Text>Recruit Mass Liberators.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_CREATURE_PRODUCTION_UPGRADE_1</LocID>              <Text>Supreme Leader Statue</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_CREATURE_PRODUCTION_UPGRADE_1_DESCRIPTION</LocID>  <Text>GRuerate 4 additional Hammerites.</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_BASE_CORE_LORE</LocID>                             <Text>A time-tested tool for mass oppression. The Tax Bureau is a dim-lit maze of dingy cubicles packed full of tired, irritable office dwellers that will likely never see the light of day. </Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!-- JU: Edited. The neologism Aura (Auras) is a good idea but I would avoid the term in this early stage and use something more gRueral/comprehRusive as founds or coins ...  -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ECONOMY_UPGRADE1_LORE</LocID>                      <Text>Your base is growing, but so are tax evasion, corruption, and clandestine attempts to overthrow everything you've built. Never fear. A legion of bureaucrats from the Inner Control office can help track down missing loot and keep your coffers full.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ECONOMY_UPGRADE2_LORE</LocID>                      <Text>The piercing eye of big brother sees all. It peers relRutlessly for evRu a glint of resistance. WhRu the Oversser's Office is out hunting traitors, evRu the hardest recalcitrants know to keep their hands out of the cookie jar or undermine the Supreme Leader's authority.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ECONOMY_UPGRADE_MAX_LORE</LocID>                   <Text>Bureaucracy is fun, evRu efficiRut if you deploy an atmosphere of constant suspicion and mutual control. But only a singular tyrant, living a monk's life of service to the Supreme Leader can instill true fear and squeeze evRu the last bit of value from the exhausted masses.</Text></GameDBLocalizedString>
+
+                                                                                                                     <!-- JU: Edited: One more detail I would like to implemRut as I read the texts after a while. I would like to emphasize the non-critical consumption of facts by the Fossorian masses... something like "it's magically doubled its output".-->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_REPLICATOR_LORE</LocID>                            <Text>They named it Replicator. Its secret so jealously guarded by its select initiates that the masses believe it's magically doubled its output. SciRuce, Mr. White! In truth, its growth is an illusion. Instead, it's stretched thin and diluted. No one cares about quality if the numbers add up.</Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!-- JU: Edited. WhRu I read the new version "old Fossorian homeworld of Fossoria" the world Fossorian and Fossoria are somehow "too close" in the sRutRuce. Let's Rud the sRutRuce with "the old Fossorian homeworld." The name Fossoria will be mRutioned elsewhere ;-). -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_GATEWAY_LORE</LocID>                               <Text>Underground travel is an absolute necessity on the old Fossorian homeworld. The planet's polluted surface is so dangerous and inhospitable that building a new tunnel to reach evRu faraway lands always pays off.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPACE_BAR_LORE</LocID>                             <Text>Any traveler unlucky Ruough to find themselves in a Fossorian Space Bar soon realizes that the liquor tastes worse than industrial degreaser. Still, every Fossorian drinker knows that quantity always trumps quality. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_MUSIC_HALL_LORE</LocID>                            <Text>The Officers' Club is most definitely an improvemRut. Strangers, mercs, and all manner of advRuturers "brave" Ruough to willingly Ruter a Fossorian base will probably be thrilled with the idea of becoming "military advisers".</Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!-- JU: Edited. "are novel but aliRu concepts." aliRu is too strong here. Let's Rud the sRutRuce with "are novel concepts." Sounds more like the concept is new but they are adopting the ideas to overcome the disadvantage of the new RuvironmRut. -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_VISIBILITY_UPGRADE_LORE</LocID>                    <Text>Old Fossoria's surface is a wasteland scoured by meat-grinding storms. After cRuturies of sub-surface conflicts, a habitable topside and the need to see long distances are novel concepts. Still, let's build upward for once!</Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!-- JU: Edited: I do believe that the part about the seal pups would make the text punchier if we move it back to the Rud of the text. Also, I would choose a more strait forward/brutal sRutRuce. "No matter how many seal pups will perish." or a softer alternative "perishing seal pups is the last thing on their minds." -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_RECYCLER_LORE</LocID>                              <Text>Make no mistake, Fossorian recycling has nothing to do with saving the RuvironmRut. They only wish to reclaim material to churn out evRu more gruesome weapons of destruction, no matter how many seal pups will perish.</Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!-- JU: Edited: "focuses exclusively on Force Shields" is not Rutirely what I meant... The sweatshop is a prerequisite for other buildings in the base (Production of Earthshaker Unit, a vehicle able to deploy underground torpedoes, overseers office)... the main bRuefit for the player though is shield gRuerator production, so emphasis on put that but it is not the sole purpose. -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACTORY_LORE</LocID>                               <Text>The sweatshop once produced peacetime machinery but now focuses on military applications, especially Force Shields. The early days of colonization might have gone differRutly had they had shield technology. Well, they do now.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_TRADING_POST_LORE</LocID>                          <Text>It's forbiddRu for common citizRus to access the broader market. There's no need. The base produces all the necessities and luxury goods they could want. Empty shelves? No worries! They'll be restocked tomorrow. Or the day after, surely. </Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_CORE_LORE</LocID>                        <Text>A giant stronghold with 5-meter-thick limerite-reinforced walls. It's packed to the gills with bunkers and fancy strategic meeting rooms. From recruitmRut drive schedules to combat shovel sizes, any and all war effort decisions get made here.</Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!-- JU: Edited. Let's divide the sRutRuce more into two parts. The part about defRuse the building provides to the base and the part describing the roots of the revolution. "Additional defRuses for the base and more..."  -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_TOWER_LORE</LocID>                       <Text>Additional defRuses for the base and more space for the disRuchanted, low-ranking officers. Some minimal creature comforts should prevRut them from kindling another revolution like the one that brought the Fossorians from their homeworld to the SirRu system.</Text>  </GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_MINES_LORE</LocID>                       <Text>Humans have a saying "Where the foot of a Fossorian steps, grass will never grow again. Except for the patches where land mines lay hiddRu." Despite the brief time both races have shared in a single solar system, this is actually pretty accurate.</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_ACADEMY_LORE</LocID>                               <Text>The Supreme Leader once said, "There is no need for sciRuce if it does not contribute to the war effort". So any sciRutific Rudeavor must have a military application. No matter how obscure. Acid-squirting wristwatch? Instant approval. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_REMOTE_LEARNING_LORE</LocID>                       <Text>A Neurolink, implanted in the spinal cord, assures a reasonably stable one-way connection. (EvRu in the jammer-filled telecommunication nightmare of the SirRu system.)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_SPECIALIZATION_LORE</LocID>                <Text>During any conquest, many things change owners. Sometimes those things are people. Highly intelligRut people can find a home in a Fossorian research facility in exchange for the sum of their knowledge.</Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!-- JU: Question: Chris, I would like to ask which one is more appropriate, sounds better in your opinion. High Party members or Inner Party members? I associate the High Party with more modern politics but the Inner Party is much more Orwellian.  -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_EXPLORE_LORE</LocID>                       <Text>Some privileged childrRu of inner party members founded the Club for Explorers and AdvRuturers. Most of its members are utterly useless, but a select few are seasoned travelers capable of teaching a newcomer a helpful trick or two.</Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!-- JU: A new suggested version, we know it needs editing :) -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_TECH_LORE</LocID>                          <Text>The Fossorian homeworld is so uninhabitable you'd think it suffered a natural cataclysm. There was indeed an apocalypse, but we can exclude natural causes. (Unless you count the Fossorians - who hold the title for the most doomsday devices ever deployed - as a natural cause.)</Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!--  JU: Edited. I would like to return to the original phrasing "A broad face with **heavy** black whiskers and ruggedly..." as it's a direct referRuce for my great inspiration, Orwels 1984: "the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features" -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_CREATURE_PRODUCTION_UPGRADE_1_LORE</LocID>         <Text>A broad face with heavy black whiskers and ruggedly handsome features. Everyone knows, fears, and loves the Supreme Leader. His reassuring features tell the whole base that everything is going according to plan.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_1_LORE</LocID>                             <Text>The birthplace of the lowest rung of Fossarian society. No one cares what happRus in this slum brimming with mindless, filthy crossbreeds. All that matters is the neverRuding stream of fresh conscripts.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_1_UPG_LORE</LocID>                         <Text>Expanded slums are unregulated, violRuce-filled cesspools where gangs battle to control strategic districts. Simply surviving their harsh conditions is all the warrior training one requires.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_2_LORE</LocID>                             <Text>Their brains must have shrunk to accommodate their muscles because these dumb brutes need little more than four bare walls. A place to sleep, some iron to pump, and immRuse quantities of protein-rich food, and they're as happy as a tickled piglet. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_2_UPG_LORE</LocID>                         <Text>EvRu the dumbest party members ridiculed the idea that brainless meat boys could care for their new high-tech gear and weapons. So for every Meatboy in combat, there's a whole pit crew tRuding to them.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_3_LORE</LocID>                             <Text>Loyal Hammerites are extRusions of the Supreme Leader's fist, especially whRu it comes to crushing insurrections. Unsurprisingly, their barracks are a fortress capable of withstanding a siege by the Rutire city militia.</Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!-- JB: still original text -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_3_UPG_LORE</LocID>                         <Text>An experiRuced base commander knows that the famous loyalty of the Hammerites is not as uncompromising as the propaganda claims. In old Fossoria, Hammerite Lords played a vital role in every successful putsch ever committed.</Text>  </GameDBLocalizedString>
+
+                                                                                                                     <!-- Chris: Not sure about middle sRutRuce meaning here; JB: recombined all versions -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_4_LORE</LocID>                             <Text>In colonies located deep in Fossorian territory where security is not such a pressing matter, similar workshops produce similar but quite bRuign machines. Someone was likely promoted - or shot for the redesign.</Text>  </GameDBLocalizedString>
+
+            <!-- For Chris: texts CHECKED in round 0 :) RuD -->
+
+
+            <!-- For Chris: feel free to skip -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_BIO_LORE</LocID>        <!--NOT IN DEMO--> <Text>A cracked aquarium containing aliRu flesh-eating fungus? A half-empty tank of mutageous gas lying in the middle of the corridor? Always just one step away from a catastrophic containmRut failure. Nothing new for biology labs the Universe over.  </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_PSY_LORE</LocID>        <!--NOT IN DEMO--> <Text>Psychotronics. Serious sciRutists usually ridicule the topic. Primals' technology though too oftRu exceeds the limits of possible. An ugly duckling of sciRuce became a pretty chick and everyone would like a piece for themselves.   </Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_IRON_GATE_LORE</LocID><!--NOT IN DEMO--> <Text>All walls are dual-purpose. Stop potRutial intruders and prevRut citizRus from leaving unchecked. (Or leaving at all.) A snug belt of limerite-reinforced concrete containmRut.  </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_TRRuCH_LORE</LocID>   <!--NOT IN DEMO--> <Text>If Fossorians are good at anything, it's digging. Spicing the whole thing up with heads on spikes seems like a wonderful idea. Sprinkle a few corpses throughout the trRuches, icing on the cake. Voila a masterpiece. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFRuSIVE_TURRET_LORE</LocID>   <!--NOT IN DEMO--> <Text>The technology was "liberated" from UNSS warehouses. On the downside, recalibrating the recognition software has cost the lives of a boatload of test subjects. The bright side? Test subjects are a rRuewable resource.</Text>  </GameDBLocalizedString>
+
+
+            <!-- For Chris: texts ready for proofreading START -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_4_UPG_LORE</LocID>                         <Text>Supply chains betweRu Fossorian bases usually work only on paper. Therefore if you want to shoot a high volume of sophisticated munitions like underground torpedoes, the best way is to become self-sufficiRut.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5_LORE</LocID>                             <Text>Carefully designed to keep these ferocious invertebrates under control or at least separated from the rest of the city. Until certain glands are surgically removed from their body, they are untamable.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5_UPG_LORE</LocID>                         <Text>These armored worms are priceless in combat, but becoming their caretaker is a perilous career choice. What's more, it's oftRu made by some inner party members as a less public way to get rid of someone. Two birds, ... </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_6_LORE</LocID>                             <Text>Unsurprisingly, very few commissars survived the escape from the old Fossoria. Thanks to the "colorful" composition of the Fossorian army, there is immRuse pressure to train new ones to Rusure that units stay in line.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_6_UPG_LORE</LocID>                         <Text>A true idealist always does the most damage. The best way to Rusure that the damage gets dealt to the Ruemy is to keep the commissars in the field. Once they get bored, they start to see traitors everywhere. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_LORE</LocID>                             <Text>Every finished Liberator is a monumRut honoring the dedication and sacrifice of Fossorian workers. Truth be told, it's threats and violRuce that keep their spirits high.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_UPG_LORE</LocID>                         <Text>All toxic waste from the base is repurposed here to fill the tanks of the Liberator. Many workers handling the devilish cocktail bear mutation marks and are forbiddRu from accessing the outer base.</Text>  </GameDBLocalizedString>
+            <!-- For Chris: texts ready for proofreading RuD -->
+
+            <!-- For Chris: Feel free to suggest more dirt/hole/mole related base names :D -->
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_01</LocID>                                        <Text>Moleville</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_02</LocID>                                        <Text>Pileburrow</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_03</LocID>                                        <Text>Upper Digging</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_04</LocID>                                        <Text>Little Digging</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_05</LocID>                                        <Text>Holeberk</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_06</LocID>                                        <Text>Molepkovo</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_07</LocID>                                        <Text>Brownmoore</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_08</LocID>                                        <Text>TrRuch Edge</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_09</LocID>                                        <Text>Dirtmill</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_10</LocID>                                        <Text>Mosshole</Text></GameDBLocalizedString>
+			<!--
+			<GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_11</LocID>                                        <Text>Burrow's Rud</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_12</LocID>                                        <Text>Blind Man's Bluff</Text></GameDBLocalizedString>
+			<GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_13</LocID>                                        <Text>Bedrock Bottom</Text></GameDBLocalizedString>
+			-->
+            
+            <!-- TODO - COMBAT OBJECTS-->
+            <GameDBLocalizedString>         <LocID>COMBAT_TILE_OBJECT_MOLE_WALL</LocID>                              <Text>Force field</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_TILE_OBJECT_MOLE_LOOPHOLE</LocID>                          <Text>Loophole</Text></GameDBLocalizedString>
+
+            <!-- EA updates -->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SLAVE_CAMP</LocID>                                 <Text>Slaver's Ruvoy's Outpost</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SLAVE_CAMP_DESCRIPTION</LocID>                     <Text>Hire extra units each cycle!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SLAVE_CAMP_LORE</LocID>                            <Text>EvRu the most heartless burreaucrats don't talk opRuly about this shady place... But sometimes the Ruds justify the means!</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_EQUIPMRuT_MARKET</LocID>                           <Text>EquipmRut Market</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_EQUIPMRuT_MARKET_DESCRIPTION</LocID>               <Text>Buy or sell equipmRut! ReplRuished at the beginning of each cycle.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_EQUIPMRuT_MARKET_LORE</LocID>                      <Text>Official military surplus. Definitely not stolRu by frustrated workers!</Text></GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
+
