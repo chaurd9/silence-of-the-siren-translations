@@ -1,0 +1,274 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_TC_EXPLORATION_MAP_OBJECTS">
+
+        <LanguageRef>LANG_TC</LanguageRef>
+
+        <Contributors>
+            <Name>Oxymoron Games</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+            
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BIOFARM_01</LocID>                                          <Text>MAPOBJ_BIOFARM_01</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BIOFARM_01_DESCRIPTION</LocID>                              <Text><![CDATA[MAPOBJ_BIOFARM_01_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_FIBERALLOYMILL_LVL1</LocID>                                 <Text>MAPOBJ_FIBERALLOYMILL_LVL1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_FIBERALLOYMILL_LVL1_DESCRIPTION</LocID>                     <Text><![CDATA[MAPOBJ_FIBERALLOYMILL_LVL1_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_LIMERITMINE_LVL1</LocID>                                    <Text>MAPOBJ_LIMERITMINE_LVL1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_LIMERITMINE_LVL1_DESCRIPTION</LocID>                        <Text><![CDATA[MAPOBJ_LIMERITMINE_LVL1_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_NANO_COMPOUND_MINE</LocID>                                  <Text>MAPOBJ_NANO_COMPOUND_MINE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_NANO_COMPOUND_MINE_DESCRIPTION</LocID>                      <Text><![CDATA[MAPOBJ_NANO_COMPOUND_MINE_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GOLD_MINE</LocID>                                           <Text>MAPOBJ_GOLD_MINE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GOLD_MINE_DESCRIPTION</LocID>                               <Text><![CDATA[MAPOBJ_GOLD_MINE_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+                                                                                                                      
+            <GameDBLocalizedString>         <LocID>MAPOBJ_WATCHTOWER_01</LocID>                                       <Text>MAPOBJ_WATCHTOWER_01</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_WATCHTOWER_01_DESCRIPTION</LocID>                           <Text>MAPOBJ_WATCHTOWER_01_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                      
+            <GameDBLocalizedString>         <LocID>MAPOBJ_AURA_COIN_STORAGE</LocID>                                   <Text>MAPOBJ_AURA_COIN_STORAGE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_AURA_COIN_STORAGE_DESCRIPTION</LocID>                       <Text><![CDATA[MAPOBJ_AURA_COIN_STORAGE_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SMUGGLERS_DEN</LocID>                                       <Text>MAPOBJ_SMUGGLERS_DEN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SMUGGLERS_DEN_DESCRIPTION</LocID>                           <Text><![CDATA[MAPOBJ_SMUGGLERS_DEN_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SLAVECAMP</LocID>                                           <Text>MAPOBJ_SLAVECAMP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SLAVECAMP_DESCRIPTION</LocID>                               <Text><![CDATA[MAPOBJ_SLAVECAMP_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DOJO</LocID>                                                <Text>MAPOBJ_DOJO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DOJO_DESCRIPTION</LocID>                                    <Text><![CDATA[MAPOBJ_DOJO_DESCRIPTION]]></Text>  </GameDBLocalizedString> <!--Mojo restoring Dojo, that leads to -->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BROTHEL</LocID>                                             <Text>MAPOBJ_BROTHEL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BROTHEL_DESCRIPTION</LocID>                                 <Text><![CDATA[MAPOBJ_BROTHEL_DESCRIPTION]]></Text>  </GameDBLocalizedString> <!--TODO put bac once brothel is fixed Each commander can use this building once per cycle.-->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TOMB_OF_SWORDMASTER</LocID>                                 <Text>MAPOBJ_TOMB_OF_SWORDMASTER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TOMB_OF_SWORDMASTER_DESCRIPTION</LocID>                     <Text><![CDATA[MAPOBJ_TOMB_OF_SWORDMASTER_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+                                                                                                                      
+            <GameDBLocalizedString>         <LocID>MAPOBJ_ENERGYNODE_SMALL</LocID>                                    <Text>MAPOBJ_ENERGYNODE_SMALL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_ENERGYNODE_SMALL_DESCRIPTION</LocID>                        <Text><![CDATA[MAPOBJ_ENERGYNODE_SMALL_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+                                                                                                                      
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_SKILL_ACADEMY</LocID>                           <Text>MAPOBJ_EXPLORATION_SKILL_ACADEMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_SKILL_ACADEMY_DESCRIPTION</LocID>               <Text>MAPOBJ_EXPLORATION_SKILL_ACADEMY_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_TECH_ABILITY_ACADEMY</LocID>                    <Text>MAPOBJ_EXPLORATION_TECH_ABILITY_ACADEMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_TECH_ABILITY_ACADEMY_DESCRIPTION</LocID>        <Text><![CDATA[MAPOBJ_EXPLORATION_TECH_ABILITY_ACADEMY_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+           
+            <!-- Map objects - upgrades  DEMO revision -->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINE_A_PRODUCTION_UPGRADE</LocID>                           <Text><![CDATA[MAPOBJ_MINE_A_PRODUCTION_UPGRADE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINE_B_PRODUCTION_UPGRADE</LocID>                           <Text><![CDATA[MAPOBJ_MINE_B_PRODUCTION_UPGRADE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINE_C_PRODUCTION_UPGRADE</LocID>                           <Text><![CDATA[MAPOBJ_MINE_C_PRODUCTION_UPGRADE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINE_D_PRODUCTION_UPGRADE</LocID>                           <Text><![CDATA[MAPOBJ_MINE_D_PRODUCTION_UPGRADE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINE_CASH_PRODUCTION_UPGRADE</LocID>                        <Text><![CDATA[MAPOBJ_MINE_CASH_PRODUCTION_UPGRADE]]></Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <GameDBLocalizedString>         <LocID>MAPOBJ_WATCHTOWER_VISIBILITY_UPGRADE</LocID>                       <Text>MAPOBJ_WATCHTOWER_VISIBILITY_UPGRADE</Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <!-- Map objects - TREASURES  DEMO  revision -->                                                         
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST</LocID>                                               <Text>MAPOBJ_CHEST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_DESCRIPTION</LocID>                                   <Text><![CDATA[MAPOBJ_CHEST_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_ITEM</LocID>                                          <Text>MAPOBJ_CHEST_ITEM</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_ITEM_DESCRIPTION</LocID>                              <Text><![CDATA[MAPOBJ_CHEST_ITEM_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_RESOURCES</LocID>                                     <Text>MAPOBJ_CHEST_RESOURCES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_RESOURCES_DESCRIPTION</LocID>                         <Text><![CDATA[MAPOBJ_CHEST_RESOURCES_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_A</LocID>                                          <Text><![CDATA[MAPOBJ_RESOURCE_A]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_A_DESCRIPTION</LocID>                              <Text><![CDATA[MAPOBJ_RESOURCE_A_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_B</LocID>                                          <Text><![CDATA[MAPOBJ_RESOURCE_B]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_B_DESCRIPTION</LocID>                              <Text><![CDATA[MAPOBJ_RESOURCE_B_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_C</LocID>                                          <Text><![CDATA[MAPOBJ_RESOURCE_C]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_C_DESCRIPTION</LocID>                              <Text><![CDATA[MAPOBJ_RESOURCE_C_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_D</LocID>                                          <Text><![CDATA[MAPOBJ_RESOURCE_D]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_D_DESCRIPTION</LocID>                              <Text><![CDATA[MAPOBJ_RESOURCE_D_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CASH</LocID>                                                <Text><![CDATA[MAPOBJ_CASH]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CASH_DESCRIPTION</LocID>                                    <Text><![CDATA[MAPOBJ_CASH_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_FUSION_CORE</LocID>                                <Text><![CDATA[MAPOBJ_RESOURCE_FUSION_CORE]]></Text>  </GameDBLocalizedString>
+
+            <!-- For Chris: texts ready for proofreading 2024-01 START -->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SHUTTLE_WRECKAGE</LocID>                                    <Text>MAPOBJ_SHUTTLE_WRECKAGE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SHUTTLE_WRECKAGE_DESCRIPTION</LocID>                        <Text><![CDATA[MAPOBJ_SHUTTLE_WRECKAGE_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+
+            <!--Text updated 27.02 after reward update-->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BEAST_NEST</LocID>                                          <Text>MAPOBJ_BEAST_NEST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BEAST_NEST_DESCRIPTION</LocID>                              <Text><![CDATA[MAPOBJ_BEAST_NEST_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+
+            <!-- Related to: Biotic skill of commanders -->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_BIO_ABILITY_ACADEMY</LocID>                     <Text>MAPOBJ_EXPLORATION_BIO_ABILITY_ACADEMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_BIO_ABILITY_ACADEMY_DESCRIPTION</LocID>         <Text><![CDATA[MAPOBJ_EXPLORATION_BIO_ABILITY_ACADEMY_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+
+            <!-- Related to: Globetrotter skill of commanders -->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_EXPLO_ABILITY_ACADEMY</LocID>                   <Text>MAPOBJ_EXPLORATION_EXPLO_ABILITY_ACADEMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_EXPLO_ABILITY_ACADEMY_DESCRIPTION</LocID>       <Text><![CDATA[MAPOBJ_EXPLORATION_EXPLO_ABILITY_ACADEMY_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BOOT_CAMP</LocID>                                           <Text>MAPOBJ_BOOT_CAMP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BOOT_CAMP_DESCRIPTION</LocID>                               <Text><![CDATA[MAPOBJ_BOOT_CAMP_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_BOOT_CAMP_UPGRADE_TEXT</LocID>                         <Text><![CDATA[EXPLORATION_BOOT_CAMP_UPGRADE_TEXT]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_BOOT_CAMP_NO_UPGRADE_TEXT</LocID>                      <Text><![CDATA[EXPLORATION_BOOT_CAMP_NO_UPGRADE_TEXT]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MARKET</LocID>                                              <Text>MAPOBJ_MARKET</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MARKET_DESCRIPTION</LocID>                                  <Text><![CDATA[MAPOBJ_MARKET_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_MARKET_TEXT</LocID>                                    <Text><![CDATA[EXPLORATION_MARKET_TEXT]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_ITEM_STORE</LocID>                                         <Text>HEADING_ITEM_STORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_MARKET_NOTHING_TO_SELL</LocID>                         <Text>EXPLORATION_MARKET_NOTHING_TO_SELL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_MARKET_NOTHING_TO_BUY</LocID>                          <Text>EXPLORATION_MARKET_NOTHING_TO_BUY</Text>  </GameDBLocalizedString>
+           
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TRAINING_GROUND</LocID>                                     <Text>MAPOBJ_TRAINING_GROUND</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TRAINING_GROUND_DESCRIPTION</LocID>                         <Text><![CDATA[MAPOBJ_TRAINING_GROUND_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BATTLE_ARENA</LocID>                                        <Text>MAPOBJ_BATTLE_ARENA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BATTLE_ARENA_DESCRIPTION</LocID>                            <Text><![CDATA[MAPOBJ_BATTLE_ARENA_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>TOOLTIP_HEADING_TRAIN</LocID>                                      <Text>TOOLTIP_HEADING_TRAIN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_CAN_TRAIN</LocID>                                          <Text>TOOLTIP_CAN_TRAIN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_TRAIN_LOST</LocID>                                         <Text><![CDATA[TOOLTIP_TRAIN_LOST]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_NOT_ENOUGH_TO_TRAIN</LocID>                           <Text><![CDATA[TOOLTIP_UNIT_NOT_ENOUGH_TO_TRAIN]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_EXPLORATION_SHUTTLE_WRECKAGE</LocID>                        <Text>DIALOG_EXPLORATION_SHUTTLE_WRECKAGE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_SHUTTLE_WRECKAGE_PICKUP</LocID>                        <Text>EXPLORATION_SHUTTLE_WRECKAGE_PICKUP</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINE_CASH</LocID>                                           <Text>MAPOBJ_MINE_CASH</Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TOXIC_CLOUD</LocID>                                         <Text>MAPOBJ_TOXIC_CLOUD</Text>  </GameDBLocalizedString><!--UPDATED 29.4-->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_FORCE_SHIELD</LocID>                                        <Text>MAPOBJ_FORCE_SHIELD</Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <GameDBLocalizedString>         <LocID>MAPOBJ_ACADEMY</LocID>                                             <Text>MAPOBJ_ACADEMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_ACADEMY_DESCRIPTION</LocID>                                 <Text>MAPOBJ_ACADEMY_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <!-- Upgrades -->                                                                                        
+            <GameDBLocalizedString>         <LocID>RESOURCE_GENERATION</LocID>                                        <Text><![CDATA[RESOURCE_GENERATION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GARRISON_UPGRADE</LocID>                                           <Text><![CDATA[GARRISON_UPGRADE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>VISIBILITY_UPGRADE</LocID>                                         <Text><![CDATA[VISIBILITY_UPGRADE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACTIVATION_UPGRADE</LocID>                                         <Text><![CDATA[ACTIVATION_UPGRADE]]></Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINE_A_DEFENSIVE_UPGRADE</LocID>                            <Text>MAPOBJ_MINE_A_DEFENSIVE_UPGRADE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GARRISON_UPGRADE_SMALL</LocID>                              <Text><![CDATA[MAPOBJ_GARRISON_UPGRADE_SMALL]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SMUGGLERS_DEN_DISABLED</LocID>                              <Text>MAPOBJ_SMUGGLERS_DEN_DISABLED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SMUGGLERS_DEN_VISITED</LocID>                               <Text>MAPOBJ_SMUGGLERS_DEN_VISITED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SLAVE_CAMP_DISABLED</LocID>                                 <Text>MAPOBJ_SLAVE_CAMP_DISABLED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SLAVE_CAMP_VISITED</LocID>                                  <Text>MAPOBJ_SLAVE_CAMP_VISITED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SPAWNER_UPGRADE</LocID>                                     <Text>MAPOBJ_SPAWNER_UPGRADE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_AURA_COIN_VISITED</LocID>                                   <Text>MAPOBJ_AURA_COIN_VISITED</Text>  </GameDBLocalizedString>
+            <!-- For Chris: texts ready for proofreading 2024-01 END -->                                             
+                                                                                                                     
+            <!-- For Chris: texts ready for proofreading 2024-02 START -->                                           
+            <GameDBLocalizedString>         <LocID>DIALOG_EXPLORATION_BEAST_NEST</LocID>                              <Text>DIALOG_EXPLORATION_BEAST_NEST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_BEAST_NEST_PICKUP</LocID>                              <Text>EXPLORATION_BEAST_NEST_PICKUP</Text></GameDBLocalizedString>
+            <!-- For Chris: texts ready for proofreading 2024-02 END -->
+
+
+            <!-- For Chris: texts ready for proofreading 2024-08 START -->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BIOFARM_VEIN</LocID>                                        <Text>MAPOBJ_BIOFARM_VEIN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BIOFARM_VEIN_DESCRIPTION</LocID>                            <Text>MAPOBJ_BIOFARM_VEIN_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_FIBER_ALLOY_VEIN</LocID>                                    <Text>MAPOBJ_FIBER_ALLOY_VEIN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_FIBER_ALLOY_VEIN_DESCRIPTION</LocID>                        <Text>MAPOBJ_FIBER_ALLOY_VEIN_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_LIMERIT_VEIN</LocID>                                        <Text>MAPOBJ_LIMERIT_VEIN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_LIMERIT_VEIN_DESCRIPTION</LocID>                            <Text>MAPOBJ_LIMERIT_VEIN_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_NANO_COMPOUND_VEIN</LocID>                                  <Text>MAPOBJ_NANO_COMPOUND_VEIN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_NANO_COMPOUND_VEIN_DESCRIPTION</LocID>                      <Text>MAPOBJ_NANO_COMPOUND_VEIN_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GOLD_VEIN</LocID>                                           <Text>MAPOBJ_GOLD_VEIN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GOLD_VEIN_DESCRIPTION</LocID>                               <Text>MAPOBJ_GOLD_VEIN_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <GameDBLocalizedString>         <LocID>MAPOBJ_ALTAR_OF_CLEAN_SLATE</LocID>                                <Text>MAPOBJ_ALTAR_OF_CLEAN_SLATE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_ALTAR_OF_CLEAN_SLATE_DESCRIPTION</LocID>                    <Text>MAPOBJ_ALTAR_OF_CLEAN_SLATE_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CORPSE</LocID>                                              <Text>MAPOBJ_CORPSE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CORPSE_DESCRIPTION</LocID>                                  <Text>MAPOBJ_CORPSE_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TELEPORT</LocID>                                            <Text>MAPOBJ_TELEPORT</Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <GameDBLocalizedString>         <LocID>MAPOBJ_HERO_WASH</LocID>                                           <Text>MAPOBJ_HERO_WASH</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_HERO_WASH_DESCRIPTION</LocID>                               <Text>MAPOBJ_HERO_WASH_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <GameDBLocalizedString>         <LocID>MAPOBJ_UNDER_CONSTRUCTION</LocID>                                  <Text>MAPOBJ_UNDER_CONSTRUCTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_UNDER_CONSTRUCTION_DESCRIPTION</LocID>                      <Text>MAPOBJ_UNDER_CONSTRUCTION_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BUILDING_ZONE</LocID>                                       <Text>MAPOBJ_BUILDING_ZONE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BUILDING_ZONE_DESCRIPTION</LocID>                           <Text>MAPOBJ_BUILDING_ZONE_DESCRIPTION</Text>  </GameDBLocalizedString>
+
+            
+            <!-- ==================================== GAMMA building ==================================== -->
+
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SIDE_QUEST</LocID>                                          <Text>MAPOBJ_SIDE_QUEST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SIDE_QUEST_DESCRIPTION</LocID>                              <Text>MAPOBJ_SIDE_QUEST_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <GameDBLocalizedString>         <LocID>MAPOBJ_COSMOPORT_UP</LocID>                                        <Text>MAPOBJ_COSMOPORT_UP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_COSMOPORT_DOWN</LocID>                                      <Text>MAPOBJ_COSMOPORT_DOWN</Text>  </GameDBLocalizedString>
+                                                                                                                     
+            <!--NEW JULY-->                                                                                          
+            <GameDBLocalizedString>         <LocID>MAPOBJ_XENOSLIME_STRAIGHT</LocID>                                  <Text>MAPOBJ_XENOSLIME_STRAIGHT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_XENOSLIME_RIGHT</LocID>                                     <Text>MAPOBJ_XENOSLIME_RIGHT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_XENOSLIME_LEFT</LocID>                                      <Text>MAPOBJ_XENOSLIME_LEFT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_XENOSLIME_DESCRIPTION</LocID>                               <Text>MAPOBJ_XENOSLIME_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <!--NEW JULY-->
+
+            <!-- NEW 22/07/2024 -->
+            <GameDBLocalizedString>         <LocID>DIALOG_EXPLORATION_WISHING_WELL</LocID>                            <Text>DIALOG_EXPLORATION_WISHING_WELL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_EXPLORATION_WISHING_WELL_PICKUP</LocID>                     <Text>DIALOG_EXPLORATION_WISHING_WELL_PICKUP</Text></GameDBLocalizedString>
+            <!-- NEW 22/07/2024 -->
+
+            <!--Updated 22/07/24-->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_ENERGYNODE</LocID>                                          <Text>MAPOBJ_ENERGYNODE</Text>  </GameDBLocalizedString>
+            <!--Updated 22/07/24-->
+
+            <!--NEW 22/07/24-->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_WISHING_WELL_DESCRIPTION</LocID>                            <Text><![CDATA[MAPOBJ_WISHING_WELL_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <!--NEW 22/07/24-->
+
+            <!--NEW AUGUST-->                                                                                        
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_STRAIGHT_LOCKED</LocID>                                <Text>MAPOBJ_GATE_STRAIGHT_LOCKED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_STRAIGHT_UNLOCKED</LocID>                              <Text>MAPOBJ_GATE_STRAIGHT_UNLOCKED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_RIGHT_LOCKED</LocID>                                   <Text>MAPOBJ_GATE_RIGHT_LOCKED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_RIGHT_UNLOCKED</LocID>                                 <Text>MAPOBJ_GATE_RIGHT_UNLOCKED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_LEFT_LOCKED</LocID>                                    <Text>MAPOBJ_GATE_LEFT_LOCKED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_LEFT_UNLOCKED</LocID>                                  <Text>MAPOBJ_GATE_LEFT_UNLOCKED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_DESCRIPTION</LocID>                                    <Text>MAPOBJ_GATE_DESCRIPTION</Text>  </GameDBLocalizedString>
+
+            <!-- Objects from the BUILDER skill -->                                                               
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TURRET_SMALL</LocID>                                        <Text>MAPOBJ_TURRET_SMALL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TURRET_SMALL_DESCRIPTION</LocID>                            <Text>MAPOBJ_TURRET_SMALL_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TURRET_BIG</LocID>                                          <Text>MAPOBJ_TURRET_BIG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TURRET_BIG_DESCRIPTION</LocID>                              <Text>MAPOBJ_TURRET_BIG_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DRONE_DOG</LocID>                                           <Text>MAPOBJ_DRONE_DOG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DRONE_DOG_UPG</LocID>                                       <Text>MAPOBJ_DRONE_DOG_UPG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DRONE_DOG_DESCRIPTION</LocID>                               <Text>MAPOBJ_DRONE_DOG_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DRONE_DOG_UPG_DESCRIPTION</LocID>                           <Text>MAPOBJ_DRONE_DOG_UPG_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINING_PROBE</LocID>                                        <Text>MAPOBJ_MINING_PROBE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINING_PROBE_DESCRIPTION</LocID>                            <Text><![CDATA[MAPOBJ_MINING_PROBE_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINING_PROBE_UPG</LocID>                                    <Text>MAPOBJ_MINING_PROBE_UPG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINING_PROBE_UPG_DESCRIPTION</LocID>                        <Text><![CDATA[MAPOBJ_MINING_PROBE_UPG_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINING_PROBE_PRODUCES_ONLY</LocID>                          <Text>MAPOBJ_MINING_PROBE_PRODUCES_ONLY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINING_PROBE_VEIN</LocID>                                   <Text>MAPOBJ_MINING_PROBE_VEIN</Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_OUTPOST</LocID>                                             <Text>MAPOBJ_OUTPOST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_OUTPOST_DESCRIPTION</LocID>                                 <Text><![CDATA[MAPOBJ_OUTPOST_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_OUTPOST_UPG</LocID>                                         <Text>MAPOBJ_OUTPOST_UPG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_OUTPOST_UPG_DESCRIPTION</LocID>                             <Text><![CDATA[MAPOBJ_OUTPOST_UPG_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_COMMANDER_TRAP</LocID>                                      <Text>MAPOBJ_COMMANDER_TRAP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_COMMANDER_TRAP_DESCRIPTION</LocID>                          <Text>MAPOBJ_COMMANDER_TRAP_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TURRET_SMALL_ACTIVATION</LocID>                             <Text>MAPOBJ_TURRET_SMALL_ACTIVATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TURRET_BIG_ACTIVATION</LocID>                               <Text>MAPOBJ_TURRET_BIG_ACTIVATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DRONE_DOG_ACTIVATION</LocID>                                <Text>MAPOBJ_DRONE_DOG_ACTIVATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MINING_PROBE_ACTIVATION</LocID>                             <Text>MAPOBJ_MINING_PROBE_ACTIVATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_OUTPOST_ACTIVATION</LocID>                                  <Text>MAPOBJ_OUTPOST_ACTIVATION</Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <!-- Environment hazards -->                                                                          
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TOXIC_FOG</LocID>                                           <Text>MAPOBJ_TOXIC_FOG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TOXIC_FOG_DESCRIPTION</LocID>                               <Text>MAPOBJ_TOXIC_FOG_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GIANT_MUSHROOM</LocID>                                      <Text>MAPOBJ_GIANT_MUSHROOM</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GIANT_MUSHROOM_2</LocID>                                    <Text>MAPOBJ_GIANT_MUSHROOM_2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GIANT_MUSHROOM_3</LocID>                                    <Text>MAPOBJ_GIANT_MUSHROOM_3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GIANT_MUSHROOM_DESCRIPTION</LocID>                          <Text>MAPOBJ_GIANT_MUSHROOM_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CARNIVOROUS_TREE</LocID>                                    <Text>MAPOBJ_CARNIVOROUS_TREE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CARNIVOROUS_TREE_2</LocID>                                  <Text>MAPOBJ_CARNIVOROUS_TREE_2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CARNIVOROUS_TREE_3</LocID>                                  <Text>MAPOBJ_CARNIVOROUS_TREE_3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CARNIVOROUS_TREE_DESCRIPTION</LocID>                        <Text>MAPOBJ_CARNIVOROUS_TREE_DESCRIPTION</Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DANGEROUS_AREA_IDLE</LocID>                                 <Text><![CDATA[MAPOBJ_DANGEROUS_AREA_IDLE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DANGEROUS_AREA_TRIGGERED</LocID>                            <Text><![CDATA[MAPOBJ_DANGEROUS_AREA_TRIGGERED]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DANGEROUS_AREA_ACTIVATED</LocID>                            <Text><![CDATA[MAPOBJ_DANGEROUS_AREA_ACTIVATED]]></Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DANGEROUS_AREA_STATUS_EFFECTS</LocID>                       <Text>MAPOBJ_DANGEROUS_AREA_STATUS_EFFECTS</Text>  </GameDBLocalizedString>
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BRIDGE_START</LocID>                                        <Text>MAPOBJ_BRIDGE_START</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BRIDGE_START_DESCRIPTION</LocID>                            <Text><![CDATA[MAPOBJ_BRIDGE_START_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <!-- For Chris: texts ready for proofreading 2024-08 END -->
+
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CONSUMABLE_DESCRIPTION</LocID>                              <Text>MAPOBJ_CONSUMABLE_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_MANUAL</LocID>                                              <Text><![CDATA[COMBAT_MANUAL]]></Text>  </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

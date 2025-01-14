@@ -1,7 +1,7 @@
 <Database>
     <GameDBStringTable ID="LOC_TC_BASES">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_TC</LanguageRef>
 
         <Contributors>
             <Name>Oxymoron Games</Name>

@@ -1,0 +1,116 @@
+<Database>
+    <GameDBStringTable ID="LOC_TC_HERO_ABILITIES_EXPLORATION">
+
+        <LanguageRef>LANG_TC</LanguageRef>
+
+        <Contributors>
+            <Name>Oxymoron Games</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_RUSH</LocID>                              <Text>ABILITY_HERO_EXPLORATION_RUSH</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_RUSH_DESCRIPTION</LocID>                  <Text><![CDATA[ABILITY_HERO_EXPLORATION_RUSH_DESCRIPTION]]></Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_RUSH_DESCRIPTION_LVL1</LocID>             <Text><![CDATA[ABILITY_HERO_EXPLORATION_RUSH_DESCRIPTION_LVL1]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_RUSH_DESCRIPTION_LVL2</LocID>             <Text><![CDATA[ABILITY_HERO_EXPLORATION_RUSH_DESCRIPTION_LVL2]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_RUSH_DESCRIPTION_LVL3</LocID>             <Text><![CDATA[ABILITY_HERO_EXPLORATION_RUSH_DESCRIPTION_LVL3]]></Text></GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK</LocID>                        <Text>ABILITY_HERO_EXPLORATION_DEATH_MARK</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION</LocID>            <Text><![CDATA[ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL1</LocID>       <Text><![CDATA[ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL1]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL2</LocID>       <Text><![CDATA[ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL2]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL3</LocID>       <Text><![CDATA[ABILITY_HERO_EXPLORATION_DEATH_MARK_DESCRIPTION_LVL3]]></Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_DEATH_MARK</LocID>                                   <Text><![CDATA[STATUS_EFFECT_DEATH_MARK]]></Text>  </GameDBLocalizedString>
+
+            
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_BATTLE_CRY</LocID>                        <Text>ABILITY_HERO_EXPLORATION_BATTLE_CRY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_BATTLE_CRY_DESCRIPTION</LocID>            <Text>ABILITY_HERO_EXPLORATION_BATTLE_CRY_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_BATTLE_CRY_DESCRIPTION_LVL1</LocID>       <Text>ABILITY_HERO_EXPLORATION_BATTLE_CRY_DESCRIPTION_LVL1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_BATTLE_CRY_DESCRIPTION_LVL2</LocID>       <Text>ABILITY_HERO_EXPLORATION_BATTLE_CRY_DESCRIPTION_LVL2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_BATTLE_CRY_DESCRIPTION_LVL3</LocID>       <Text>ABILITY_HERO_EXPLORATION_BATTLE_CRY_DESCRIPTION_LVL3</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_BATTLE_CRY_1</LocID>                                 <Text><![CDATA[STATUS_EFFECT_BATTLE_CRY_1]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_BATTLE_CRY_2</LocID>                                 <Text><![CDATA[STATUS_EFFECT_BATTLE_CRY_2]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_BATTLE_CRY_3</LocID>                                 <Text><![CDATA[STATUS_EFFECT_BATTLE_CRY_3]]></Text></GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES</LocID>                    <Text>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION</LocID>        <Text>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL1</LocID>   <Text>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL1</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL2</LocID>   <Text>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL3</LocID>   <Text>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL3</Text></GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_TREASURES</LocID>                    <Text>ABILITY_HERO_EXPLORATION_SHOW_TREASURES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_TREASURES_DESCRIPTION</LocID>        <Text>ABILITY_HERO_EXPLORATION_SHOW_TREASURES_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_TREASURES_DESCRIPTION_LVL1</LocID>   <Text>ABILITY_HERO_EXPLORATION_SHOW_TREASURES_DESCRIPTION_LVL1</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_TREASURES_DESCRIPTION_LVL2</LocID>   <Text>ABILITY_HERO_EXPLORATION_SHOW_TREASURES_DESCRIPTION_LVL2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_TREASURES_DESCRIPTION_LVL3</LocID>   <Text>ABILITY_HERO_EXPLORATION_SHOW_TREASURES_DESCRIPTION_LVL3</Text></GameDBLocalizedString>
+
+            
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_BARBARIAN_HORDE</LocID>                   <Text>ABILITY_HERO_EXPLORATION_BARBARIAN_HORDE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_BARBARIAN_HORDE_DESCRIPTION</LocID>       <Text>ABILITY_HERO_EXPLORATION_BARBARIAN_HORDE_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_BARBARIAN_HORDE_DESCRIPTION_LVL2</LocID>  <Text>ABILITY_HERO_EXPLORATION_BARBARIAN_HORDE_DESCRIPTION_LVL2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_BARBARIAN_HORDE_DESCRIPTION_LVL3</LocID>  <Text>ABILITY_HERO_EXPLORATION_BARBARIAN_HORDE_DESCRIPTION_LVL3</Text></GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EASY_PREY</LocID>                         <Text>ABILITY_HERO_EXPLORATION_EASY_PREY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EASY_PREY_DESCRIPTION</LocID>             <Text>ABILITY_HERO_EXPLORATION_EASY_PREY_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EASY_PREY_DESCRIPTION_LVL2</LocID>        <Text>ABILITY_HERO_EXPLORATION_EASY_PREY_DESCRIPTION_LVL2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EASY_PREY_DESCRIPTION_LVL3</LocID>        <Text>ABILITY_HERO_EXPLORATION_EASY_PREY_DESCRIPTION_LVL3</Text></GameDBLocalizedString>
+
+            
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_INVISIBILITY</LocID>                      <Text>ABILITY_HERO_EXPLORATION_INVISIBILITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_INVISIBILITY_DESCRIPTION</LocID>          <Text>ABILITY_HERO_EXPLORATION_INVISIBILITY_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_INVISIBILITY_DESCRIPTION_LVL2</LocID>     <Text>ABILITY_HERO_EXPLORATION_INVISIBILITY_DESCRIPTION_LVL2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_INVISIBILITY_DESCRIPTION_LVL3</LocID>     <Text>ABILITY_HERO_EXPLORATION_INVISIBILITY_DESCRIPTION_LVL3</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_INVISIBILITY_2</LocID>                               <Text><![CDATA[STATUS_EFFECT_INVISIBILITY_2]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_INVISIBILITY_3</LocID>                               <Text><![CDATA[STATUS_EFFECT_INVISIBILITY_3]]></Text></GameDBLocalizedString>
+
+            
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_PROTECTIVE_FIELD</LocID>                  <Text>ABILITY_HERO_EXPLORATION_PROTECTIVE_FIELD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_PROTECTIVE_FIELD_DESCRIPTION</LocID>      <Text>ABILITY_HERO_EXPLORATION_PROTECTIVE_FIELD_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_PROTECTIVE_FIELD_DESCRIPTION_LVL2</LocID> <Text>ABILITY_HERO_EXPLORATION_PROTECTIVE_FIELD_DESCRIPTION_LVL2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_PROTECTIVE_FIELD_DESCRIPTION_LVL3</LocID> <Text>ABILITY_HERO_EXPLORATION_PROTECTIVE_FIELD_DESCRIPTION_LVL3</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_PROTECTIVE_FIELD</LocID>                             <Text><![CDATA[STATUS_EFFECT_PROTECTIVE_FIELD]]></Text></GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_REINFORCEMENT</LocID>                     <Text>ABILITY_HERO_EXPLORATION_REINFORCEMENT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_REINFORCEMENT_DESCRIPTION</LocID>         <Text>ABILITY_HERO_EXPLORATION_REINFORCEMENT_DESCRIPTION</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_ABILITY_REINFORCEMENT</LocID>                               <Text>DIALOG_ABILITY_REINFORCEMENT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_ABILITY_REINFORCEMENT_TEXT</LocID>                          <Text><![CDATA[DIALOG_ABILITY_REINFORCEMENT_TEXT]]></Text>  </GameDBLocalizedString>
+
+      
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE</LocID>                         <Text>ABILITY_HERO_EXPLORATION_EAGLE_EYE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION</LocID>             <Text>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION</Text></GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD</LocID>                       <Text>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION</LocID>           <Text>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_SUPERCHARGED_CLOUD_DAMAGE</LocID>                    <Text><![CDATA[STATUS_EFFECT_SUPERCHARGED_CLOUD_DAMAGE]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_ELECTRONIC_EQUIPMENT_DISABLED</LocID>                <Text><![CDATA[STATUS_EFFECT_ELECTRONIC_EQUIPMENT_DISABLED]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ELECTRONIC_EQUIPMENT_DISABLED</LocID>                              <Text><![CDATA[ELECTRONIC_EQUIPMENT_DISABLED]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION</LocID>                        <Text>ABILITY_HERO_EXPLORATION_EVACUATION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION</LocID>            <Text>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION</Text></GameDBLocalizedString>
+
+            
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_MIMIC</LocID>                             <Text>ABILITY_HERO_EXPLORATION_MIMIC</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_MIMIC_DESCRIPTION</LocID>                 <Text>ABILITY_HERO_EXPLORATION_MIMIC_DESCRIPTION</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_MIMIC</LocID>                                                 <Text>HERO_MIMIC</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_ROOTS</LocID>                                        <Text><![CDATA[STATUS_EFFECT_ROOTS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MUSHROOM_SPORES</LocID>                              <Text><![CDATA[STATUS_EFFECT_MUSHROOM_SPORES]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_IN_TRAINING</LocID>                                  <Text><![CDATA[STATUS_EFFECT_IN_TRAINING]]></Text>  </GameDBLocalizedString>
+            
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

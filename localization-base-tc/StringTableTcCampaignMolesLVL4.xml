@@ -1,7 +1,7 @@
 <Database>
     <GameDBStringTable ID="LOC_TC_CAMPAIGN_MOLES_LVL_4">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_TC</LanguageRef>
 
         <Contributors>
             <Name>Oxymoron Games</Name>
