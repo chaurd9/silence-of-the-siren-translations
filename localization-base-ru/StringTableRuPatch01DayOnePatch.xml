@@ -1,10 +1,10 @@
 <Database>
-    <GameDBStringTable ID="LOC_EN_PATCH_01">
+    <GameDBStringTable ID="LOC_RU_PATCH_01">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GNERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -15,12 +15,13 @@
             
             <GameDBLocalizedString>        <LocID>OPTION_GRAPHICS_RESOLUTION_SCALE</LocID>                              <Text>Resolution scale (map)</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>        <LocID>HEADING_OBJECTIVES_CAMPAIGN</LocID>                                   <Text>What lies ahead:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>HEADING_OBJECTIVES_CAMPAIGN</LocID>                                   <Text>Что вас ожидает:</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>        <LocID>COOLDOWN</LocID>                                                      <Text>Cooldown</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>        <LocID>COOLDOWN_ROUNDS</LocID>                                               <Text>rounds</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>        <LocID>MAIN_MENU_EARLY_ACESS</LocID>                                         <Text>Thanks for playing the Early Access version of Silence of the Siren! \n\nWe appreciate your support for the game before its full release and we hope you'll have a lot of fun with the included content. \n\nWe're looking forward to reciving your feedback and bug reports and we're working hard on improving the game based on the community input. \n\nLinks to the bug reporting section on the Steam forum and to our Discord are below.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>MAIN_MENU_EARLY_ACESS</LocID>                                         <Text>Спасибо, что играете в версию раннего доступа Silence of the Siren!\n\n
+Мы благодарны за вашу поддержку игры до её полного релиза и надеемся, что вам понравится контент, который уже доступен.\n\nМы с нетерпением ждём ваших отзывов и отчётов о багах, усердно работаем над улучшением игры на основе обратной связи от сообщества.\n\nСсылки на раздел отчётов о багах на форуме Steam и наш Discord находятся ниже.</Text>  </GameDBLocalizedString>
 
             <!--_______________MAP_BRIDGES_TOO_FAR__________________________-->
             <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_ID</LocID>                                        <Text>Bridges too far</Text>  </GameDBLocalizedString>

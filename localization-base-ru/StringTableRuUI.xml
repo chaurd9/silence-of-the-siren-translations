@@ -4,7 +4,7 @@
         <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>GNERWA Team</Name>
+            <Name>GNERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -64,13 +64,13 @@
             <GameDBLocalizedString>         <LocID>BUY_FOR</LocID>                                          <Text>Buy for</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SELL_FOR</LocID>                                         <Text>Sell for</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>LOAD_LOC</LocID>                                         <Text>LOAD</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOAD_LOC_SMALL</LocID>                                   <Text>Load</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOAD_LOC</LocID>                                         <Text>ЗАГРУЗИТЬ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOAD_LOC_SMALL</LocID>                                   <Text>Загрузить</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>LOAD_GAME_LOC</LocID>                                    <Text>Загрузить игру</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>LOAD_CORRUPTED_SAVE</LocID>                              <Text>Save file is corrupted</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SAVE_LOC</LocID>                                         <Text>СОХРАНИТЬ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SAVE_LOC_SMALL</LocID>                                   <Text>Сохранить</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>START_LOC</LocID>                                        <Text>START</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>START_LOC</LocID>                                        <Text>Начать</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SCENARIOS_LOC</LocID>                                    <Text>Пользов. сценарии</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CONQUEST</LocID>                                         <Text>ПОТАСОВКА</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_PLAYERS</LocID>                                  <Text>Игроки</Text>  </GameDBLocalizedString>

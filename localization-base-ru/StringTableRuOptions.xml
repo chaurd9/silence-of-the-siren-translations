@@ -4,7 +4,7 @@
         <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>GNERWA Team</Name>
+            <Name>GNERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -74,7 +74,7 @@
 
             <GameDBLocalizedString>         <LocID>AUDIO_OPTIONS</LocID>                                    <Text>Звук</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_AUDIO_MUSIC</LocID>                               <Text>Громкость музыки</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OPTION_AUDIO_UI</LocID>                                  <Text>SFX громкость</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_AUDIO_UI</LocID>                                  <Text>Общая громкость</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>OPTION_SHOW_ITEM_PICKUP_DIALOG</LocID>                   <Text>Показ. инф о подобранном предмете в диалог.окне</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_SHOW_FUSION_CORE_PICKUP_DIALOG</LocID>            <Text>Показ. инф о выбранном ядре слияния в диалог.окне</Text>  </GameDBLocalizedString>
@@ -86,23 +86,23 @@
 
             <!-- Option choices -->
             <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_TEXTURES</LocID>                         <Text>Качество текстур (нужна перезагр.)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TEXTURES_HD</LocID>                                      <Text>HD (выс.)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TEXTURES_HD</LocID>                                      <Text>HD (Высокое.)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TEXTURES_4K</LocID>                                      <Text>4K (ультра)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_ANTIALIASING</LocID>                     <Text>Antialiasing</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ANTIALIASING_OFF</LocID>                                 <Text>Off</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ANTIALIASING_2X</LocID>                                  <Text>2x</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ANTIALIASING_4X</LocID>                                  <Text>4x</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_SHADOWS</LocID>                          <Text>Тени</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_SHADOWS</LocID>                          <Text>Качество теней</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SHADOWS_OFF</LocID>                                      <Text>Выкл</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SHADOWS_LOW</LocID>                                      <Text>Низ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SHADOWS_HIGH</LocID>                                     <Text>Выс</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_VSYNC</LocID>                            <Text>Вертикальная синхронизация</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SHADOWS_LOW</LocID>                                      <Text>Низкое</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SHADOWS_HIGH</LocID>                                     <Text>Высокое</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_VSYNC</LocID>                            <Text>Вертикальная синхроНизкоеация</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VSYNC_OFF</LocID>                                        <Text>Выкл</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VSYNC_ON</LocID>                                         <Text>Вкл</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VSYNC_LIMIT_60</LocID>                                   <Text>Выкл, 60 FPS</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_TERRAIN_QUALITY</LocID>                  <Text>Качество ландшафта</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TERRAIN_QUALITY_LOW</LocID>                              <Text>Низ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TERRAIN_QUALITY_HIGH</LocID>                             <Text>Выс</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TERRAIN_QUALITY_LOW</LocID>                              <Text>Низкое</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TERRAIN_QUALITY_HIGH</LocID>                             <Text>Высокое</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_UNIT_QUALITY</LocID>                     <Text>Существа на карте</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_QUALITY_STATIC</LocID>                              <Text>Статичные</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_QUALITY_ANIMATED</LocID>                            <Text>Анимир.</Text>  </GameDBLocalizedString>
