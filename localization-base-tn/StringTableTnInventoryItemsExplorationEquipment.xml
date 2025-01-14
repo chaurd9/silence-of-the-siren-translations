@@ -1,0 +1,86 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_TN_INVENTORY_ITEMS_EXPLORATION_EQUIPMENT">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>         <LocID>ITEM_ACTIVATION_COST</LocID>                             <Text>ITEM_ACTIVATION_COST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ITEM_ACTIVATION_COST_ENERGY</LocID>                      <Text><![CDATA[ITEM_ACTIVATION_COST_ENERGY]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ITEM_ACTIVATION_NO_ENERGY</LocID>                        <Text>ITEM_ACTIVATION_NO_ENERGY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ITEM_ACTIVATION_NO_DUPLICATES</LocID>                    <Text>ITEM_ACTIVATION_NO_DUPLICATES</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_DATAPAD</LocID>                                <Text>EQUIPMENT_DATAPAD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_DATAPAD_DESCRIPTION</LocID>                    <Text><![CDATA[EQUIPMENT_DATAPAD_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_DATAPAD_LORE</LocID>                           <Text>EQUIPMENT_DATAPAD_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BAIT_FLAG</LocID>                              <Text>EQUIPMENT_BAIT_FLAG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BAIT_FLAG_DESCRIPTION</LocID>                  <Text>EQUIPMENT_BAIT_FLAG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BAIT_FLAG_LORE</LocID>                         <Text>EQUIPMENT_BAIT_FLAG_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_HOLO_SCARECROW</LocID>                         <Text>EQUIPMENT_HOLO_SCARECROW</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_HOLO_SCARECROW_DESCRIPTION</LocID>             <Text>EQUIPMENT_HOLO_SCARECROW_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_HOLO_SCARECROW_LORE</LocID>                    <Text>EQUIPMENT_HOLO_SCARECROW_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_KINETIC_GENERATOR</LocID>                      <Text>EQUIPMENT_KINETIC_GENERATOR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_KINETIC_GENERATOR_DESCRIPTION</LocID>          <Text><![CDATA[EQUIPMENT_KINETIC_GENERATOR_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_KINETIC_GENERATOR_LORE</LocID>                 <Text>EQUIPMENT_KINETIC_GENERATOR_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_NAVICOMP</LocID>                               <Text>EQUIPMENT_NAVICOMP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_NAVICOMP_DESCRIPTION</LocID>                   <Text><![CDATA[EQUIPMENT_NAVICOMP_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_NAVICOMP_LORE</LocID>                          <Text>EQUIPMENT_NAVICOMP_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_TAX_COLLECTORS_WHIP</LocID>                    <Text>EQUIPMENT_TAX_COLLECTORS_WHIP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_TAX_COLLECTORS_WHIP_DESCRIPTION</LocID>        <Text><![CDATA[EQUIPMENT_TAX_COLLECTORS_WHIP_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_TAX_COLLECTORS_WHIP_LORE</LocID>               <Text>EQUIPMENT_TAX_COLLECTORS_WHIP_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_PARADE_BANNER</LocID>                          <Text>EQUIPMENT_PARADE_BANNER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_PARADE_BANNER_DESCRIPTION</LocID>              <Text>EQUIPMENT_PARADE_BANNER_DESCRIPTION</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_PARADE_BANNER_LORE</LocID>                     <Text>EQUIPMENT_PARADE_BANNER_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_ENCOURAGEMENT_WHIP</LocID>                     <Text>EQUIPMENT_ENCOURAGEMENT_WHIP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_ENCOURAGEMENT_WHIP_DESCRIPTION</LocID>         <Text><![CDATA[EQUIPMENT_ENCOURAGEMENT_WHIP_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_ENCOURAGEMENT_WHIP_LORE</LocID>                <Text>EQUIPMENT_ENCOURAGEMENT_WHIP_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_AUXILIARY_GENERATOR</LocID>                    <Text>EQUIPMENT_AUXILIARY_GENERATOR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_AUXILIARY_GENERATOR_DESCRIPTION</LocID>        <Text><![CDATA[EQUIPMENT_AUXILIARY_GENERATOR_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_AUXILIARY_GENERATOR_LORE</LocID>               <Text>EQUIPMENT_AUXILIARY_GENERATOR_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_FUEL_ADDITIVES</LocID>                         <Text>EQUIPMENT_FUEL_ADDITIVES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_FUEL_ADDITIVES_DESCRIPTION</LocID>             <Text><![CDATA[EQUIPMENT_FUEL_ADDITIVES_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_FUEL_ADDITIVES_LORE</LocID>                    <Text>EQUIPMENT_FUEL_ADDITIVES_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_TURRET_JAMMER</LocID>                          <Text>EQUIPMENT_TURRET_JAMMER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_TURRET_JAMMER_DESCRIPTION</LocID>              <Text>EQUIPMENT_TURRET_JAMMER_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_TURRET_JAMMER_LORE</LocID>                     <Text>EQUIPMENT_TURRET_JAMMER_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_HAZMAT_GEAR</LocID>                            <Text>EQUIPMENT_HAZMAT_GEAR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_HAZMAT_GEAR_DESCRIPTION</LocID>                <Text>EQUIPMENT_HAZMAT_GEAR_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_HAZMAT_GEAR_LORE</LocID>                       <Text>EQUIPMENT_HAZMAT_GEAR_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_LOCKPICKER</LocID>                             <Text>EQUIPMENT_LOCKPICKER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_LOCKPICKER_DESCRIPTION</LocID>                 <Text><![CDATA[EQUIPMENT_LOCKPICKER_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_LOCKPICKER_LORE</LocID>                        <Text>EQUIPMENT_LOCKPICKER_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_RECON_DRONE</LocID>                            <Text>EQUIPMENT_RECON_DRONE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_RECON_DRONE_DESCRIPTION</LocID>                <Text>EQUIPMENT_RECON_DRONE_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_RECON_DRONE_LORE</LocID>                       <Text>EQUIPMENT_RECON_DRONE_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_LURE</LocID>                                   <Text>EQUIPMENT_LURE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_LURE_DESCRIPTION</LocID>                       <Text><![CDATA[EQUIPMENT_LURE_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_LURE_LORE</LocID>                              <Text>EQUIPMENT_LURE_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_DEEP_SCANNER</LocID>                           <Text>EQUIPMENT_DEEP_SCANNER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_DEEP_SCANNER_DESCRIPTION</LocID>               <Text><![CDATA[EQUIPMENT_DEEP_SCANNER_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_DEEP_SCANNER_LORE</LocID>                      <Text>EQUIPMENT_DEEP_SCANNER_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_PROSPECTOR_DATABANK</LocID>                    <Text>EQUIPMENT_PROSPECTOR_DATABANK</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_PROSPECTOR_DATABANK_DESCRIPTION</LocID>        <Text><![CDATA[EQUIPMENT_PROSPECTOR_DATABANK_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_PROSPECTOR_DATABANK_LORE</LocID>               <Text>EQUIPMENT_PROSPECTOR_DATABANK_LORE</Text>  </GameDBLocalizedString>
+       
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,94 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_TN_CRUSADERS">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <GameDBLocalizedString>         <LocID>FACTION_CRUSADERS</LocID>                    <Text>FACTION_CRUSADERS</Text></GameDBLocalizedString>
+
+            <!--Unit names-->
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_MECHANIC</LocID>              <Text>UNIT_CRUSADERS_MECHANIC</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_MECHANIC_UPG</LocID>          <Text>UNIT_CRUSADERS_MECHANIC_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CRUSADER</LocID>              <Text>UNIT_CRUSADERS_CRUSADER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CRUSADER_UPG</LocID>          <Text>UNIT_CRUSADERS_CRUSADER_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_LASER_CANNON</LocID>          <Text>UNIT_CRUSADERS_LASER_CANNON</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_LASER_CANNON_UPG</LocID>      <Text>UNIT_CRUSADERS_LASER_CANNON_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_KNIGHT</LocID>                <Text>UNIT_CRUSADERS_KNIGHT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_KNIGHT_UPG</LocID>            <Text>UNIT_CRUSADERS_KNIGHT_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_UNIVERSAL</LocID>             <Text>UNIT_CRUSADERS_UNIVERSAL</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_UNIVERSAL_UPG</LocID>         <Text>UNIT_CRUSADERS_UNIVERSAL_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CENTIPEDE</LocID>             <Text>UNIT_CRUSADERS_CENTIPEDE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CENTIPEDE_UPG</LocID>         <Text>UNIT_CRUSADERS_CENTIPEDE_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_ANGEL</LocID>                 <Text>UNIT_CRUSADERS_ANGEL</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_ANGEL_UPG</LocID>             <Text>UNIT_CRUSADERS_ANGEL_UPG</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_WAR_MACHINE_SHIELD_BLOCK_UNITS</LocID>                 <Text>LocID</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_WAR_MACHINE_SHIELD_BLOCK_UNITS_DESCRIPTION</LocID>     <Text><![CDATA[UNIT_CRUSADERS_WAR_MACHINE_SHIELD_BLOCK_UNITS_DESCRIPTION]]></Text></GameDBLocalizedString>
+
+            <!--Unit description-->
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_MECHANIC_DESCRIPTION</LocID>              <Text>UNIT_CRUSADERS_MECHANIC_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_MECHANIC_UPG_DESCRIPTION</LocID>          <Text>UNIT_CRUSADERS_MECHANIC_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CRUSADER_DESCRIPTION</LocID>              <Text>UNIT_CRUSADERS_CRUSADER_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CRUSADER_UPG_DESCRIPTION</LocID>          <Text>UNIT_CRUSADERS_CRUSADER_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_LASER_CANNON_DESCRIPTION</LocID>          <Text>UNIT_CRUSADERS_LASER_CANNON_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_LASER_CANNON_UPG_DESCRIPTION</LocID>      <Text>UNIT_CRUSADERS_LASER_CANNON_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_KNIGHT_DESCRIPTION</LocID>                <Text>UNIT_CRUSADERS_KNIGHT_DESCRIPTION</Text></GameDBLocalizedString> <!-- TODO creed obedience? Cavalry? Religious ...?-->
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_KNIGHT_UPG_DESCRIPTION</LocID>            <Text>UNIT_CRUSADERS_KNIGHT_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_UNIVERSAL_DESCRIPTION</LocID>             <Text>UNIT_CRUSADERS_UNIVERSAL_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_UNIVERSAL_UPG_DESCRIPTION</LocID>         <Text>UNIT_CRUSADERS_UNIVERSAL_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CENTIPEDE_DESCRIPTION</LocID>             <Text>UNIT_CRUSADERS_CENTIPEDE_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CENTIPEDE_UPG_DESCRIPTION</LocID>         <Text>UNIT_CRUSADERS_CENTIPEDE_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_ANGEL_DESCRIPTION</LocID>                 <Text>UNIT_CRUSADERS_ANGEL_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_ANGEL_UPG_DESCRIPTION</LocID>             <Text>UNIT_CRUSADERS_ANGEL_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <!--Unit abilities-->
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_LASER_CANNON_SPECIAL</LocID>             <Text>ABILITY_UNIT_LASER_CANNON_SPECIAL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_UNIVERSAL_SPECIAL</LocID>                <Text>ABILITY_UNIT_UNIVERSAL_SPECIAL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_ANGEL_SPECIAL</LocID>                    <Text>ABILITY_UNIT_ANGEL_SPECIAL</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_MECHANIC_PASSIVE_INFO_DESCRIPTION</LocID>        <Text>UNIT_CRUSADERS_MECHANIC_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CRUSADER_PASSIVE_INFO_DESCRIPTION</LocID>        <Text>UNIT_CRUSADERS_CRUSADER_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CRUSADER_UPG_PASSIVE_INFO_DESCRIPTION</LocID>    <Text>UNIT_CRUSADERS_CRUSADER_UPG_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_LASSE_CANNON_PASSIVE_INFO_DESCRIPTION</LocID>    <Text>UNIT_CRUSADERS_LASSE_CANNON_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_KNIGHT_PASSIVE_INFO_DESCRIPTION</LocID>          <Text>UNIT_CRUSADERS_KNIGHT_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_KNIGHT_UPG_PASSIVE_INFO_DESCRIPTION</LocID>      <Text>UNIT_CRUSADERS_KNIGHT_UPG_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_UNIVERSAL_PASSIVE_INFO_DESCRIPTION</LocID>       <Text>UNIT_CRUSADERS_UNIVERSAL_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CENTIPEDE_PASSIVE_INFO_DESCRIPTION</LocID>       <Text>UNIT_CRUSADERS_CENTIPEDE_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_CENTIPEDE_UPG_PASSIVE_INFO_DESCRIPTION</LocID>   <Text>UNIT_CRUSADERS_CENTIPEDE_UPG_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_ANGEL_PASSIVE_INFO_DESCRIPTION</LocID>           <Text>UNIT_CRUSADERS_ANGEL_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+
+            <!--Hero names-->
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_1</LocID>     <Text>HERO_ROBO_CRUSADER_1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_2</LocID>     <Text>HERO_ROBO_CRUSADER_2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_3</LocID>     <Text>HERO_ROBO_CRUSADER_3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_4</LocID>     <Text>HERO_ROBO_CRUSADER_4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_5</LocID>     <Text>HERO_ROBO_CRUSADER_5</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_6</LocID>     <Text>HERO_ROBO_CRUSADER_6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_7</LocID>     <Text>HERO_ROBO_CRUSADER_7</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_8</LocID>     <Text>HERO_ROBO_CRUSADER_8</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_9</LocID>     <Text>HERO_ROBO_CRUSADER_9</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_10</LocID>    <Text>HERO_ROBO_CRUSADER_10</Text>  </GameDBLocalizedString>   
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_11</LocID>    <Text>HERO_ROBO_CRUSADER_11</Text>  </GameDBLocalizedString>   
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_12</LocID>    <Text>HERO_ROBO_CRUSADER_12</Text>  </GameDBLocalizedString>  
+
+            <!--Hero description-->
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_1_DESCRIPTION</LocID>                 <Text>HERO_ROBO_CRUSADER_1_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_2_DESCRIPTION</LocID>                 <Text>HERO_ROBO_CRUSADER_2_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_3_DESCRIPTION</LocID>                 <Text>HERO_ROBO_CRUSADER_3_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_4_DESCRIPTION</LocID>                 <Text>HERO_ROBO_CRUSADER_4_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_5_DESCRIPTION</LocID>                 <Text>HERO_ROBO_CRUSADER_5_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_6_DESCRIPTION</LocID>                 <Text>HERO_ROBO_CRUSADER_6_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_7_DESCRIPTION</LocID>                 <Text>HERO_ROBO_CRUSADER_7_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_8_DESCRIPTION</LocID>                 <Text>HERO_ROBO_CRUSADER_8_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_9_DESCRIPTION</LocID>                 <Text>HERO_ROBO_CRUSADER_9_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_11_DESCRIPTION</LocID>                <Text>HERO_ROBO_CRUSADER_11_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_12_DESCRIPTION</LocID>                <Text>HERO_ROBO_CRUSADER_12_DESCRIPTION</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

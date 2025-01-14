@@ -1,0 +1,33 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_TN_INVENTORY_ITEMS_COMBAT_ARTIFACT">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <!-- For Chris: texts ready for proofreading START -->
+
+            <!-- Inventory items - Artifacts for DEMO revision-->
+            <GameDBLocalizedString>         <LocID>ARTIFACT_MACHINE_SPIRIT</LocID>                          <Text>ARTIFACT_MACHINE_SPIRIT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ARTIFACT_MACHINE_SPIRIT_DESCRIPTION</LocID>              <Text><![CDATA[ARTIFACT_MACHINE_SPIRIT_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ARTIFACT_MACHINE_SPIRIT_LORE</LocID>                     <Text>ARTIFACT_MACHINE_SPIRIT_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>ARTIFACT_BLOODTHIRSTY_SOUL</LocID>                       <Text>ARTIFACT_BLOODTHIRSTY_SOUL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ARTIFACT_BLOODTHIRSTY_SOUL_DESCRIPTION</LocID>           <Text>ARTIFACT_BLOODTHIRSTY_SOUL_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ARTIFACT_BLOODTHIRSTY_SOUL_LORE</LocID>                  <Text>ARTIFACT_BLOODTHIRSTY_SOUL_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>ARTIFACT_BLOODSHED_MURMUR</LocID>                       <Text>ARTIFACT_BLOODSHED_MURMUR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ARTIFACT_BLOODSHED_MURMUR_DESCRIPTION</LocID>           <Text>ARTIFACT_BLOODSHED_MURMUR_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ARTIFACT_BLOODSHED_MURMUR_LORE</LocID>                  <Text>ARTIFACT_BLOODSHED_MURMUR_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>ARTIFACT_DISTURBED_INCEPTION</LocID>                    <Text>ARTIFACT_DISTURBED_INCEPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ARTIFACT_DISTURBED_INCEPTION_DESCRIPTION</LocID>        <Text>ARTIFACT_DISTURBED_INCEPTION_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ARTIFACT_DISTURBED_INCEPTION_LORE</LocID>               <Text>ARTIFACT_DISTURBED_INCEPTION_LORE</Text>  </GameDBLocalizedString>
+
+            <!-- For Chris: texts ready for proofreading END -->
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

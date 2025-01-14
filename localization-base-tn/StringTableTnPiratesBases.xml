@@ -1,0 +1,176 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_TN_PIRATES_BASES">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <!--Bases -->
+            <GameDBLocalizedString>         <LocID>BASE_PIRATES</LocID>                                       <Text>BASE_PIRATES</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_BASE_CORE</LocID>                         <Text>BUILDING_PIRATES_BASE_CORE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_BASE_CORE_DESCRIPTION</LocID>             <Text>BUILDING_PIRATES_BASE_CORE_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ECONOMY_UPGRADE1</LocID>                  <Text>BUILDING_PIRATES_ECONOMY_UPGRADE1</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ECONOMY_UPGRADE1_DESCRIPTION</LocID>      <Text>BUILDING_PIRATES_ECONOMY_UPGRADE1_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ECONOMY_UPGRADE2</LocID>                  <Text>BUILDING_PIRATES_ECONOMY_UPGRADE2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ECONOMY_UPGRADE2_DESCRIPTION</LocID>      <Text>BUILDING_PIRATES_ECONOMY_UPGRADE2_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ECONOMY_UPGRADE_MAX</LocID>               <Text>BUILDING_PIRATES_ECONOMY_UPGRADE_MAX</Text></GameDBLocalizedString>
+                                                                                                              
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ECONOMY_UPGRADE_MAX_DESCRIPTION</LocID>     <Text><![CDATA[BUILDING_PIRATES_ECONOMY_UPGRADE_MAX_DESCRIPTION]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_REPLICATOR</LocID>                        <Text>BUILDING_PIRATES_REPLICATOR</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_REPLICATOR_DESCRIPTION</LocID>            <Text>BUILDING_PIRATES_REPLICATOR_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_GATEWAY</LocID>                           <Text>BUILDING_PIRATES_GATEWAY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_GATEWAY_DESCRIPTION</LocID>               <Text>BUILDING_PIRATES_GATEWAY_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPACE_BAR</LocID>                         <Text>BUILDING_PIRATES_SPACE_BAR</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPACE_BAR_DESCRIPTION</LocID>             <Text>BUILDING_PIRATES_SPACE_BAR_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_MUSIC_HALL</LocID>                        <Text>BUILDING_PIRATES_MUSIC_HALL</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_MUSIC_HALL_DESCRIPTION</LocID>            <Text>BUILDING_PIRATES_MUSIC_HALL_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_VISIBILITY_UPGRADE</LocID>                <Text>BUILDING_PIRATES_VISIBILITY_UPGRADE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_VISIBILITY_UPGRADE_DESCRIPTION</LocID>    <Text>BUILDING_PIRATES_VISIBILITY_UPGRADE_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_RECYCLER</LocID>                          <Text>BUILDING_PIRATES_RECYCLER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_RECYCLER_DESCRIPTION</LocID>              <Text>BUILDING_PIRATES_RECYCLER_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACTORY</LocID>                           <Text>BUILDING_PIRATES_FACTORY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACTORY_DESCRIPTION</LocID>               <Text>BUILDING_PIRATES_FACTORY_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_TRADING_POST</LocID>                      <Text>BUILDING_PIRATES_TRADING_POST</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_TRADING_POST_DESCRIPTION</LocID>          <Text>BUILDING_PIRATES_TRADING_POST_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_CORE</LocID>                    <Text>BUILDING_PIRATES_DEFENSIVE_CORE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_CORE_DESCRIPTION</LocID>        <Text>BUILDING_PIRATES_DEFENSIVE_CORE_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_TOWER</LocID>                   <Text>BUILDING_PIRATES_DEFENSIVE_TOWER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_TOWER_DESCRIPTION</LocID>       <Text>BUILDING_PIRATES_DEFENSIVE_TOWER_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_MINES</LocID>                   <Text>BUILDING_PIRATES_DEFENSIVE_MINES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_MINES_DESCRIPTION</LocID>       <Text>BUILDING_PIRATES_DEFENSIVE_MINES_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_TURRET</LocID>                  <Text>BUILDING_PIRATES_DEFENSIVE_TURRET</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_TURRET_DESCRIPTION</LocID>      <Text>BUILDING_PIRATES_DEFENSIVE_TURRET_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_TRENCH</LocID>                  <Text>BUILDING_PIRATES_DEFENSIVE_TRENCH</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_TRENCH_DESCRIPTION</LocID>      <Text>BUILDING_PIRATES_DEFENSIVE_TRENCH_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_FLYING_MINES</LocID>            <Text>BUILDING_PIRATES_DEFENSIVE_FLYING_MINES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_FLYING_MINES_DESCRIPTION</LocID><Text>BUILDING_PIRATES_DEFENSIVE_FLYING_MINES_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ACADEMY</LocID>                           <Text>BUILDING_PIRATES_ACADEMY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ACADEMY_DESCRIPTION</LocID>               <Text>BUILDING_PIRATES_ACADEMY_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_REMOTE_LEARNING</LocID>                   <Text>BUILDING_PIRATES_REMOTE_LEARNING</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_REMOTE_LEARNING_DESCRIPTION</LocID>       <Text>BUILDING_PIRATES_REMOTE_LEARNING_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_SPECIALIZATION</LocID>            <Text>BUILDING_PIRATES_FACULTY_SPECIALIZATION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_SPECIALIZATION_DESCRIPTION</LocID><Text>BUILDING_PIRATES_FACULTY_SPECIALIZATION_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_BIO</LocID>                       <Text>BUILDING_PIRATES_FACULTY_BIO</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_BIO_DESCRIPTION</LocID>           <Text>BUILDING_PIRATES_FACULTY_BIO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_EXPLORE</LocID>                   <Text>BUILDING_PIRATES_FACULTY_EXPLORE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_EXPLORE_DESCRIPTION</LocID>       <Text>BUILDING_PIRATES_FACULTY_EXPLORE_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_PSY</LocID>                       <Text>BUILDING_PIRATES_FACULTY_PSY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_PSY_DESCRIPTION</LocID>           <Text>BUILDING_PIRATES_FACULTY_PSY_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_TECH</LocID>                      <Text>BUILDING_PIRATES_FACULTY_TECH</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_TECH_DESCRIPTION</LocID>          <Text>BUILDING_PIRATES_FACULTY_TECH_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_1</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_1</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_1_DESCRIPTION</LocID>             <Text>BUILDING_PIRATES_SPAWNER_1_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_1_UPG</LocID>                     <Text>BUILDING_PIRATES_SPAWNER_1_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_1_UPG_DESCRIPTION</LocID>         <Text>BUILDING_PIRATES_SPAWNER_1_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_2</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_2_DESCRIPTION</LocID>             <Text>BUILDING_PIRATES_SPAWNER_2_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_2_UPG</LocID>                     <Text>BUILDING_PIRATES_SPAWNER_2_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_2_UPG_DESCRIPTION</LocID>         <Text>BUILDING_PIRATES_SPAWNER_2_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_3</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_3</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_3_DESCRIPTION</LocID>             <Text>BUILDING_PIRATES_SPAWNER_3_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_3_UPG</LocID>                     <Text>BUILDING_PIRATES_SPAWNER_3_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_3_UPG_DESCRIPTION</LocID>         <Text>BUILDING_PIRATES_SPAWNER_3_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_4</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_4</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_4_DESCRIPTION</LocID>             <Text>BUILDING_PIRATES_SPAWNER_4_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_4_UPG</LocID>                     <Text>BUILDING_PIRATES_SPAWNER_4_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_4_UPG_DESCRIPTION</LocID>         <Text>BUILDING_PIRATES_SPAWNER_4_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_5</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_5</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_5_DESCRIPTION</LocID>             <Text>BUILDING_PIRATES_SPAWNER_5_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_5_UPG</LocID>                     <Text>BUILDING_PIRATES_SPAWNER_5_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_5_UPG_DESCRIPTION</LocID>         <Text>BUILDING_PIRATES_SPAWNER_5_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_6</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_6</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_6_DESCRIPTION</LocID>             <Text>BUILDING_PIRATES_SPAWNER_6_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_6_UPG</LocID>                     <Text>BUILDING_PIRATES_SPAWNER_6_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_6_UPG_DESCRIPTION</LocID>         <Text>BUILDING_PIRATES_SPAWNER_6_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_7</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_7</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_7_DESCRIPTION</LocID>             <Text>BUILDING_PIRATES_SPAWNER_7_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_7_UPG</LocID>                     <Text>BUILDING_PIRATES_SPAWNER_7_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_7_UPG_DESCRIPTION</LocID>         <Text>BUILDING_PIRATES_SPAWNER_7_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_CREATURE_PRODUCTION_UPGRADE_1</LocID>     <Text>BUILDING_PIRATES_CREATURE_PRODUCTION_UPGRADE_1</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_CREATURE_PRODUCTION_UPGRADE_1_DESCRIPTION</LocID>     <Text>BUILDING_PIRATES_CREATURE_PRODUCTION_UPGRADE_1_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <!-- Lore description -->
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_BASE_CORE_LORE</LocID>                             <Text>BUILDING_PIRATES_BASE_CORE_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ECONOMY_UPGRADE1_LORE</LocID>                      <Text>BUILDING_PIRATES_ECONOMY_UPGRADE1_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ECONOMY_UPGRADE2_LORE</LocID>                      <Text>BUILDING_PIRATES_ECONOMY_UPGRADE2_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ECONOMY_UPGRADE_MAX_LORE</LocID>                   <Text>BUILDING_PIRATES_ECONOMY_UPGRADE_MAX_LORE</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_REPLICATOR_LORE</LocID>                            <Text>BUILDING_PIRATES_REPLICATOR_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_GATEWAY_LORE</LocID>                               <Text>BUILDING_PIRATES_GATEWAY_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPACE_BAR_LORE</LocID>                             <Text>BUILDING_PIRATES_SPACE_BAR_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_MUSIC_HALL_LORE</LocID>                            <Text>BUILDING_PIRATES_MUSIC_HALL_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_VISIBILITY_UPGRADE_LORE</LocID>                    <Text>BUILDING_PIRATES_VISIBILITY_UPGRADE_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_RECYCLER_LORE</LocID>                              <Text>BUILDING_PIRATES_RECYCLER_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACTORY_LORE</LocID>                               <Text>BUILDING_PIRATES_FACTORY_LORE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_TRADING_POST_LORE</LocID>                          <Text>BUILDING_PIRATES_TRADING_POST_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_CORE_LORE</LocID>                        <Text>BUILDING_PIRATES_DEFENSIVE_CORE_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_TOWER_LORE</LocID>                       <Text>BUILDING_PIRATES_DEFENSIVE_TOWER_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_MINES_LORE</LocID>                       <Text>BUILDING_PIRATES_DEFENSIVE_MINES_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_ACADEMY_LORE</LocID>                               <Text>BUILDING_PIRATES_ACADEMY_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_REMOTE_LEARNING_LORE</LocID>                       <Text>BUILDING_PIRATES_REMOTE_LEARNING_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_SPECIALIZATION_LORE</LocID>                <Text>BUILDING_PIRATES_FACULTY_SPECIALIZATION_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_EXPLORE_LORE</LocID>                       <Text>BUILDING_PIRATES_FACULTY_EXPLORE_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_TECH_LORE</LocID>                          <Text>BUILDING_PIRATES_FACULTY_TECH_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_BIO_LORE</LocID>                           <Text>BUILDING_PIRATES_FACULTY_BIO_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_CREATURE_PRODUCTION_UPGRADE_1_LORE</LocID>         <Text>BUILDING_PIRATES_CREATURE_PRODUCTION_UPGRADE_1_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_TRENCH_LORE</LocID>                      <Text>BUILDING_PIRATES_DEFENSIVE_TRENCH_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_TURRET_LORE</LocID>                      <Text>BUILDING_PIRATES_DEFENSIVE_TURRET_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_1_LORE</LocID>                             <Text>BUILDING_PIRATES_SPAWNER_1_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_1_UPG_LORE</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_1_UPG_LORE</Text>  </GameDBLocalizedString>
+            
+            <!-- Logic ?? -->
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_2_LORE</LocID>                             <Text>BUILDING_PIRATES_SPAWNER_2_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_2_UPG_LORE</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_2_UPG_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_3_LORE</LocID>                             <Text>BUILDING_PIRATES_SPAWNER_3_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_3_UPG_LORE</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_3_UPG_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_4_LORE</LocID>                             <Text>BUILDING_PIRATES_SPAWNER_4_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_4_UPG_LORE</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_4_UPG_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_5_LORE</LocID>                             <Text>BUILDING_PIRATES_SPAWNER_5_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_5_UPG_LORE</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_5_UPG_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_6_LORE</LocID>                             <Text>BUILDING_PIRATES_SPAWNER_6_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_6_UPG_LORE</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_6_UPG_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_7_LORE</LocID>                             <Text>BUILDING_PIRATES_SPAWNER_7_LORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SPAWNER_7_UPG_LORE</LocID>                         <Text>BUILDING_PIRATES_SPAWNER_7_UPG_LORE</Text>  </GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>PIRATES_BASE_NAME_01</LocID>                               <Text>PIRATES_BASE_NAME_01</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PIRATES_BASE_NAME_02</LocID>                               <Text>PIRATES_BASE_NAME_02</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PIRATES_BASE_NAME_03</LocID>                               <Text>PIRATES_BASE_NAME_03</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PIRATES_BASE_NAME_04</LocID>                               <Text>PIRATES_BASE_NAME_04</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PIRATES_BASE_NAME_05</LocID>                               <Text>PIRATES_BASE_NAME_05</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PIRATES_BASE_NAME_06</LocID>                               <Text>PIRATES_BASE_NAME_06</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PIRATES_BASE_NAME_07</LocID>                               <Text>PIRATES_BASE_NAME_07</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PIRATES_BASE_NAME_08</LocID>                               <Text>PIRATES_BASE_NAME_08</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PIRATES_BASE_NAME_09</LocID>                               <Text>PIRATES_BASE_NAME_09</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PIRATES_BASE_NAME_10</LocID>                               <Text>PIRATES_BASE_NAME_10</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SKILL_ACADEMY</LocID>                     <Text>BUILDING_PIRATES_SKILL_ACADEMY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SKILL_ACADEMY_DESCRIPTION</LocID>         <Text>BUILDING_PIRATES_SKILL_ACADEMY_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_SKILL_ACADEMY_LORE</LocID>                <Text>BUILDING_PIRATES_SKILL_ACADEMY_LORE</Text></GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

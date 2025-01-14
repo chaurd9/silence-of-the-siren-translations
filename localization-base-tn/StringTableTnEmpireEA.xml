@@ -1,0 +1,30 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_TN_EMPIRE_EA">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>         <LocID>FACTION_EMPIRE</LocID>               <Text>FACTION_EMPIRE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_EMPIRE_1</LocID>                <Text>HERO_EMPIRE_1</Text></GameDBLocalizedString>
+
+            <!--Unit names-->
+            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_SOLDIER</LocID>          <Text>UNIT_EMPIRE_SOLDIER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_BEAST</LocID>            <Text>UNIT_EMPIRE_BEAST</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_WARMACHINE</LocID>       <Text>UNIT_EMPIRE_WARMACHINE</Text></GameDBLocalizedString>
+
+            <!--Unit description-->
+            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_SOLDIER_DESCRIPTION</LocID>            <Text>UNIT_EMPIRE_SOLDIER_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_BEAST_DESCRIPTION</LocID>              <Text>UNIT_EMPIRE_BEAST_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_WARMACHINE_DESCRIPTION</LocID>         <Text>UNIT_EMPIRE_WARMACHINE_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <!--Unit abilities-->
+            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_SOLDIER_INFO_DESCRIPTION</LocID>       <Text>UNIT_EMPIRE_SOLDIER_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_WARMACHINE_INFO_DESCRIPTION</LocID>    <Text>UNIT_EMPIRE_WARMACHINE_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

@@ -1,0 +1,190 @@
+<Database>
+    <GameDBStringTable ID="LOC_TN_HEROES">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <!--Hero info shown in hero details panel-->
+            <GameDBLocalizedString>         <LocID>HERO_LEVEL</LocID>                                       <Text>HERO_LEVEL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_XP</LocID>                                          <Text><![CDATA[HERO_XP]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT</LocID>                            <Text>HERO_ATTRIBUTE_COMBAT</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT_DESCRIPTION</LocID>                <Text><![CDATA[HERO_ATTRIBUTE_COMBAT_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+                                                                                                           
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_INTELLIGENCE</LocID>                      <Text>HERO_ATTRIBUTE_INTELLIGENCE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_INTELLIGENCE_DESCRIPTION</LocID>          <Text><![CDATA[HERO_ATTRIBUTE_INTELLIGENCE_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+                                                                                                           
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_VISION</LocID>                            <Text>HERO_ATTRIBUTE_VISION</Text>  </GameDBLocalizedString>
+                                                                                                           
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT</LocID>                          <Text>HERO_ATTRIBUTE_MOVEMENT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_DESCRIPTION</LocID>              <Text><![CDATA[HERO_ATTRIBUTE_MOVEMENT_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+                                                                                                           
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MORALE</LocID>                            <Text><![CDATA[HERO_ATTRIBUTE_MORALE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MAX_ENERGY</LocID>                        <Text><![CDATA[HERO_ATTRIBUTE_MAX_ENERGY]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_ENERGY_REPLENISHED_BY_DAY</LocID>         <Text>HERO_ATTRIBUTE_ENERGY_REPLENISHED_BY_DAY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_POINTS</LocID>                   <Text><![CDATA[HERO_ATTRIBUTE_MOVEMENT_POINTS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MAX_MOVEMENT_POINTS</LocID>               <Text><![CDATA[HERO_ATTRIBUTE_MAX_MOVEMENT_POINTS]]></Text>  </GameDBLocalizedString>
+                                                                                                           
+            <GameDBLocalizedString>         <LocID>LEARN_SKILL</LocID>                                      <Text>LEARN_SKILL</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_PANEL_HERO_INFO</LocID>                             <Text>HERO_PANEL_HERO_INFO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PANEL_ABILITIES</LocID>                             <Text>HERO_PANEL_ABILITIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PANEL_BUFFS</LocID>                                 <Text>HERO_PANEL_BUFFS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PANEL_STATISTICS</LocID>                            <Text>HERO_PANEL_STATISTICS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_NO_ABILITIES</LocID>                                <Text>HERO_NO_ABILITIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_NO_BUFFS</LocID>                                    <Text>HERO_NO_BUFFS</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HEADING_EQUIPMENT</LocID>                                <Text>HEADING_EQUIPMENT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_INVENTORY</LocID>                                <Text>HEADING_INVENTORY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_CONSUMABLES</LocID>                              <Text>HEADING_CONSUMABLES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_SKILLS</LocID>                                   <Text>HEADING_SKILLS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_ABILITIES</LocID>                                <Text>HEADING_ABILITIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_ARMY</LocID>                                     <Text>HEADING_ARMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_USE_ABILITIES</LocID>                            <Text>HEADING_USE_ABILITIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_HERO_BUFFS</LocID>                               <Text>HEADING_HERO_BUFFS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_ARMY_BUFFS</LocID>                               <Text>HEADING_ARMY_BUFFS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_MAP_BUFFS</LocID>                                <Text>HEADING_MAP_BUFFS</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_ARTIFACTS</LocID>                       <Text>INVENTORY_FILTER_ARTIFACTS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_EQUIPMENT</LocID>                       <Text>INVENTORY_FILTER_EQUIPMENT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_CONSUMABLES</LocID>                     <Text>INVENTORY_FILTER_CONSUMABLES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_EXPLORATION</LocID>                     <Text>INVENTORY_FILTER_EXPLORATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_ALL</LocID>                             <Text>INVENTORY_FILTER_ALL</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>LEVEL_UP</LocID>                                         <Text>LEVEL_UP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LEVEL_UP_ATTRIBUTE</LocID>                               <Text>LEVEL_UP_ATTRIBUTE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LEVEL_UP_SKILL</LocID>                                   <Text>LEVEL_UP_SKILL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LEVEL_UP_NO_SKILL_AVAILABLE</LocID>                      <Text>LEVEL_UP_NO_SKILL_AVAILABLE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>LEARN</LocID>                                            <Text>LEARN</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>SKILL_LEVEL_1</LocID>                                    <Text>SKILL_LEVEL_1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_LEVEL_2</LocID>                                    <Text>SKILL_LEVEL_2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_LEVEL_3</LocID>                                    <Text>SKILL_LEVEL_3</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>NOT_ENOUGH_RESOURCES</LocID>                             <Text>NOT_ENOUGH_RESOURCES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NO_SPACE_IN_BASE</LocID>                                 <Text>NO_SPACE_IN_BASE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOO_MANY_HEROES</LocID>                                  <Text>TOO_MANY_HEROES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NO_MORE_HEROES</LocID>                                   <Text>NO_MORE_HEROES</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>HERO_NO_ABILITY_SKILLS</LocID>                           <Text>HERO_NO_ABILITY_SKILLS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_KNOWS_ABILITY</LocID>                               <Text>HERO_KNOWS_ABILITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_NEEDS_SKILL_TO_ABILITY</LocID>                      <Text>HERO_NEEDS_SKILL_TO_ABILITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_CAN_LEARN_ABILITY</LocID>                           <Text>HERO_CAN_LEARN_ABILITY</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>ABILITIES_AVAILABLE</LocID>                              <Text>ABILITIES_AVAILABLE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITIES_ALL</LocID>                                    <Text>ABILITIES_ALL</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MOVE_ALL_ITEMS</LocID>                           <Text>TOOLTIP_MOVE_ALL_ITEMS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_ARMY</LocID>                               <Text>TOOLTIP_MERGE_ARMY</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_ENGINEER</LocID>                  <Text>BUFF_CARD_SKILL_EFFECT_ENGINEER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_EXPLORER</LocID>                  <Text>BUFF_CARD_SKILL_EFFECT_EXPLORER</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BUILD</LocID>                       <Text>HERO_ACTION_SELECTOR_BUILD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BOOK</LocID>                        <Text>HERO_ACTION_SELECTOR_BOOK</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_VISIT</LocID>                       <Text>HERO_ACTION_SELECTOR_VISIT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_PARK_HERO</LocID>                   <Text>HERO_ACTION_SELECTOR_PARK_HERO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_UNPARK_HERO</LocID>                 <Text>HERO_ACTION_SELECTOR_UNPARK_HERO</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DISMISS_HERO</LocID>                                     <Text>DISMISS_HERO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_CURRENT_SKILLS</LocID>                           <Text>HEADING_CURRENT_SKILLS</Text>  </GameDBLocalizedString>
+
+            <!--Exploration skills-->
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORER</LocID>                              <Text>HERO_SKILL_EXPLORER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORER_DESCRIPTION</LocID>                  <Text><![CDATA[HERO_SKILL_EXPLORER_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER1</LocID>                           <Text><![CDATA[SKILL_EFFECT_EXPLORER1]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER2</LocID>                           <Text><![CDATA[SKILL_EFFECT_EXPLORER2]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER3</LocID>                           <Text><![CDATA[SKILL_EFFECT_EXPLORER3]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_ENGINEER</LocID>                              <Text>HERO_SKILL_ENGINEER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_ENGINEER_DESCRIPTION</LocID>                  <Text><![CDATA[HERO_SKILL_ENGINEER_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENGINEER1</LocID>                           <Text><![CDATA[SKILL_EFFECT_ENGINEER1]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENGINEER2</LocID>                           <Text><![CDATA[SKILL_EFFECT_ENGINEER2]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENGINEER3</LocID>                           <Text><![CDATA[SKILL_EFFECT_ENGINEER3]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_NEGOTIATOR</LocID>                            <Text>HERO_SKILL_NEGOTIATOR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_NEGOTIATOR_DESCRIPTION</LocID>                <Text>HERO_SKILL_NEGOTIATOR_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_NEGOTIATOR1</LocID>                         <Text>SKILL_EFFECT_NEGOTIATOR1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_NEGOTIATOR2</LocID>                         <Text>SKILL_EFFECT_NEGOTIATOR2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_NEGOTIATOR3</LocID>                         <Text><![CDATA[SKILL_EFFECT_NEGOTIATOR3]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_NEGOTIATOR3_TOOLTIP</LocID>                 <Text>SKILL_EFFECT_NEGOTIATOR3_TOOLTIP</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_BUILDER</LocID>                               <Text>HERO_SKILL_BUILDER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_BUILDER_DESCRIPTION</LocID>                   <Text><![CDATA[HERO_SKILL_BUILDER_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_CHEAPER_PRODUCTION_UPGRADES</LocID>         <Text><![CDATA[SKILL_EFFECT_CHEAPER_PRODUCTION_UPGRADES]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_CHEAPER_GARRISON_UPGRADES</LocID>           <Text><![CDATA[SKILL_EFFECT_CHEAPER_GARRISON_UPGRADES]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_BUILDER_DISCOUNT_PERCENT</LocID>            <Text><![CDATA[Building structures is discounted by <color=SOTS_COLOR_GOLD>{1}%</color>!]]> </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_TRACKER_DISCOUNT_PERCENT</LocID>            <Text><![CDATA[Breaking Xenoslimes costs <color=SOTS_COLOR_GOLD>{1}%</color> less!]]> </Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_SCOUT</LocID>                                 <Text>HERO_SKILL_SCOUT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_SCOUT_DESCRIPTION</LocID>                     <Text><![CDATA[HERO_SKILL_SCOUT_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SCOUT1</LocID>                              <Text><![CDATA[SKILL_EFFECT_SCOUT1]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SCOUT2</LocID>                              <Text><![CDATA[SKILL_EFFECT_SCOUT2]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SCOUT3</LocID>                              <Text><![CDATA[SKILL_EFFECT_SCOUT3]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SPY1</LocID>                                <Text><![CDATA[SKILL_EFFECT_SPY1]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SPY2</LocID>                                <Text><![CDATA[SKILL_EFFECT_SPY2]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SPY3</LocID>                                <Text><![CDATA[SKILL_EFFECT_SPY3]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_COLLECTOR</LocID>                             <Text>HERO_SKILL_COLLECTOR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_COLLECTOR_DESCRIPTION</LocID>                 <Text>HERO_SKILL_COLLECTOR_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_COLLECTOR1</LocID>                          <Text>SKILL_EFFECT_COLLECTOR1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_COLLECTOR2</LocID>                          <Text><![CDATA[SKILL_EFFECT_COLLECTOR2]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_COLLECTOR3</LocID>                          <Text><![CDATA[SKILL_EFFECT_COLLECTOR3]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_TRACKER</LocID>                               <Text>HERO_SKILL_TRACKER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_TRACKER_DESCRIPTION</LocID>                   <Text><![CDATA[HERO_SKILL_TRACKER_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_TERRAIN_COST_REDUCED</LocID>                <Text><![CDATA[SKILL_EFFECT_TERRAIN_COST_REDUCED]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SEE_ENEMY_PATHS_TILES</LocID>               <Text><![CDATA[SKILL_EFFECT_SEE_ENEMY_PATHS_TILES]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXTRA_MOVE_POINTS_FROM_CONSUMABLES</LocID>  <Text><![CDATA[SKILL_EFFECT_EXTRA_MOVE_POINTS_FROM_CONSUMABLES]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SCOUTING_BONUS</LocID>                      <Text>SKILL_EFFECT_SCOUTING_BONUS</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORATION_ABILITIES</LocID>                 <Text>HERO_SKILL_EXPLORATION_ABILITIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORATION_ABILITIES_DESCRIPTION</LocID>     <Text><![CDATA[HERO_SKILL_EXPLORATION_ABILITIES_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+
+            <!--Combat skills-->
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_BRAWLER</LocID>                               <Text>HERO_SKILL_BRAWLER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_BRAWLER_DESCRIPTION</LocID>                   <Text>HERO_SKILL_BRAWLER_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MELEE_DAMAGE_BONUS</LocID>                  <Text><![CDATA[SKILL_EFFECT_MELEE_DAMAGE_BONUS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MELEE_UNIT_MOVEMENT_BONUS</LocID>           <Text>SKILL_EFFECT_MELEE_UNIT_MOVEMENT_BONUS</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_SNIPER</LocID>                                <Text>HERO_SKILL_SNIPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_SNIPER_DESCRIPTION</LocID>                    <Text><![CDATA[HERO_SKILL_SNIPER_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_RANGED_DAMAGE_BONUS</LocID>                 <Text><![CDATA[SKILL_EFFECT_RANGED_DAMAGE_BONUS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_LONG_RANGE_PENALTY_REDUCTION</LocID>        <Text><![CDATA[SKILL_EFFECT_LONG_RANGE_PENALTY_REDUCTION]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_DEFENSIVE_SPECIALIST</LocID>                  <Text>HERO_SKILL_DEFENSIVE_SPECIALIST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_DEFENSIVE_SPECIALIST_DESCRIPTION</LocID>      <Text>HERO_SKILL_DEFENSIVE_SPECIALIST_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_DEFENSE_BOOST</LocID>                       <Text><![CDATA[SKILL_EFFECT_DEFENSE_BOOST]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SECOND_RETALIATION_CHANCE</LocID>           <Text>SKILL_EFFECT_SECOND_RETALIATION_CHANCE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_CHESS_MASTER</LocID>                          <Text>HERO_SKILL_CHESS_MASTER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_CHESS_MASTER_DESCRIPTION</LocID>              <Text>HERO_SKILL_CHESS_MASTER_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENABLE_TACTICS</LocID>                      <Text>SKILL_EFFECT_ENABLE_TACTICS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MORALE_BOOST</LocID>                        <Text><![CDATA[SKILL_EFFECT_MORALE_BOOST]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_INITIATIVE_BOOST</LocID>                    <Text>SKILL_EFFECT_INITIATIVE_BOOST</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_COMBAT_TECH_ABILITIES</LocID>                 <Text>HERO_SKILL_COMBAT_TECH_ABILITIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_COMBAT_TECH_ABILITIES_DESCRIPTION</LocID>     <Text><![CDATA[HERO_SKILL_COMBAT_TECH_ABILITIES_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_COMBAT_BIO_ABILITIES</LocID>                  <Text>HERO_SKILL_COMBAT_BIO_ABILITIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_COMBAT_BIO_ABILITIES_DESCRIPTION</LocID>      <Text><![CDATA[HERO_SKILL_COMBAT_BIO_ABILITIES_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_SCAVENGER</LocID>                             <Text>HERO_SKILL_SCAVENGER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_SCAVENGER_DESCRIPTION</LocID>                 <Text>HERO_SKILL_SCAVENGER_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SCAVENGE_RESOURCES</LocID>                  <Text>SKILL_EFFECT_SCAVENGE_RESOURCES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXTRA_COMBAT_XP_PERCENT</LocID>             <Text>SKILL_EFFECT_EXTRA_COMBAT_XP_PERCENT</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_FIELD_RESEARCH</LocID>                        <Text>HERO_SKILL_FIELD_RESEARCH</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_FIELD_RESEARCH_DESCRIPTION</LocID>            <Text>HERO_SKILL_FIELD_RESEARCH_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_LEARN_ABILITY_EACH_CYCLE</LocID>            <Text><![CDATA[SKILL_EFFECT_LEARN_ABILITY_EACH_CYCLE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_LEARN_USED_ABILITY_CHANCE</LocID>           <Text><![CDATA[SKILL_EFFECT_LEARN_USED_ABILITY_CHANCE]]></Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

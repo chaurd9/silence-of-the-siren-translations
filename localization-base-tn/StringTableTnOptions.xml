@@ -1,0 +1,131 @@
+<Database>
+    <GameDBStringTable ID="LOC_TN_OPTIONS">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>         <LocID>OPTIONS_LOC</LocID>                                      <Text>OPTIONS_LOC</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>COMBAT_OPTIONS</LocID>                                   <Text>COMBAT_OPTIONS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OPTIONS</LocID>                                   <Text>DIALOG_OPTIONS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OPTIONS</LocID>                              <Text>EXPLORATION_OPTIONS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GRAPHICS_OPTIONS</LocID>                                 <Text>GRAPHICS_OPTIONS</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>LANGUAGES</LocID>                                        <Text>LANGUAGES</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>OPTION_COMBAT_ANIMATION_SPEED</LocID>                    <Text>OPTION_COMBAT_ANIMATION_SPEED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_COMBAT_ANIMATION_SPEED_AI</LocID>                 <Text>OPTION_COMBAT_ANIMATION_SPEED_AI</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_COMBAT_SHOW_ALL_HEXES</LocID>                     <Text>OPTION_COMBAT_SHOW_ALL_HEXES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_COMBAT_SHOW_LOG</LocID>                           <Text>OPTION_COMBAT_SHOW_LOG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_COMBAT_SHOW_UNIT_HP</LocID>                       <Text>OPTION_COMBAT_SHOW_UNIT_HP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_COMBAT_OUTLINE_WIDTH</LocID>                      <Text>OPTION_COMBAT_OUTLINE_WIDTH</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_DISABLE_SCREEN_SHAKE_FLASHING</LocID>             <Text>OPTION_DISABLE_SCREEN_SHAKE_FLASHING</Text>  </GameDBLocalizedString>
+
+            <!-- Developer only -->
+            <GameDBLocalizedString>         <LocID>OPTION_COMBAT_DISABLE_MORALE</LocID>                     <Text>OPTION_COMBAT_DISABLE_MORALE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_COMBAT_DISABLE_AI_RETREAT</LocID>                 <Text>OPTION_COMBAT_DISABLE_AI_RETREAT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_COMBAT_UNLIMITED_MOVEMENT</LocID>                 <Text>OPTION_COMBAT_UNLIMITED_MOVEMENT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_COMBAT_SHOW_COORDINATES</LocID>                   <Text>OPTION_COMBAT_SHOW_COORDINATES</Text>  </GameDBLocalizedString>
+
+            <!-- Map options -->
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_ANIMATION_SPEED</LocID>               <Text>OPTION_EXPLORATION_ANIMATION_SPEED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_ANIMATION_SPEED_AI</LocID>            <Text>OPTION_EXPLORATION_ANIMATION_SPEED_AI</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_AUTOSAVE_ENABLED</LocID>                          <Text>OPTION_AUTOSAVE_ENABLED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_SHOW_AI_COMBAT</LocID>                <Text>OPTION_EXPLORATION_SHOW_AI_COMBAT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_FORCE_SHOW_AI_TURNS</LocID>           <Text>OPTION_EXPLORATION_FORCE_SHOW_AI_TURNS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_SHOW_ALTERNATIVE_ROUTE</LocID>        <Text>OPTION_EXPLORATION_SHOW_ALTERNATIVE_ROUTE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_TOOLS</LocID>                         <Text>OPTION_EXPLORATION_TOOLS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_ASYNC_AI</LocID>                      <Text>OPTION_EXPLORATION_ASYNC_AI</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_DISABLE_AUTOSAVE</LocID>              <Text>OPTION_EXPLORATION_DISABLE_AUTOSAVE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EDGE_SCROLLING</LocID>                            <Text>OPTION_EDGE_SCROLLING</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_DEBUG_SHOW_TILE_COORDINATES</LocID>               <Text>OPTION_DEBUG_SHOW_TILE_COORDINATES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_DEBUG_SHOW_THREAT_LEVEL</LocID>                   <Text>OPTION_DEBUG_SHOW_THREAT_LEVEL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_DEBUG_SEND_STATISTICS</LocID>                     <Text>OPTION_DEBUG_SEND_STATISTICS</Text>  </GameDBLocalizedString>
+
+            <!-- Map editor options -->
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_SHOW_ACCESSIBILITY</LocID>             <Text>OPTION_MAP_EDITOR_SHOW_ACCESSIBILITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_ALWAYS_SHOW_GAMEPLAY_AREA</LocID>      <Text>OPTION_MAP_EDITOR_ALWAYS_SHOW_GAMEPLAY_AREA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_SHOW_MOVEMENT_RANGE</LocID>            <Text>OPTION_MAP_EDITOR_SHOW_MOVEMENT_RANGE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_SHOW_MOVEMENT_COST</LocID>             <Text>OPTION_MAP_EDITOR_SHOW_MOVEMENT_COST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_BRUSH_IMMEDIATE_GENERATION</LocID>     <Text>OPTION_MAP_EDITOR_BRUSH_IMMEDIATE_GENERATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_DISABLE_TEXTURE_VARIATION</LocID>      <Text>OPTION_MAP_EDITOR_DISABLE_TEXTURE_VARIATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_OPACITY_IN_TERRAIN_MODE</LocID>        <Text>OPTION_MAP_EDITOR_OPACITY_IN_TERRAIN_MODE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_OBJECT_CHUNK_CULLING</LocID>           <Text>OPTION_MAP_EDITOR_OBJECT_CHUNK_CULLING</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_ROADS_IGNORE_ROADS</LocID>             <Text>OPTION_MAP_EDITOR_ROADS_IGNORE_ROADS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_ROADS_IGNORE_ENVIRONMENT</LocID>       <Text>OPTION_MAP_EDITOR_ROADS_IGNORE_ENVIRONMENT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_EDITOR_ROADS_IGNORE_DYNAMIC_OBJECTS</LocID>   <Text>OPTION_MAP_EDITOR_ROADS_IGNORE_DYNAMIC_OBJECTS</Text>  </GameDBLocalizedString>
+
+            <!-- Map generator options -->
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_GENERATOR_MAP_WIDTH</LocID>                   <Text>OPTION_MAP_GENERATOR_MAP_WIDTH</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_GENERATOR_MAP_HEIGHT</LocID>                  <Text>OPTION_MAP_GENERATOR_MAP_HEIGHT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_GENERATOR_GENERATE_TERRAIN</LocID>            <Text>OPTION_MAP_GENERATOR_GENERATE_TERRAIN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_GENERATOR_TERRAIN_DENSITY</LocID>             <Text>OPTION_MAP_GENERATOR_TERRAIN_DENSITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_GENERATOR_TERRAIN_SMOOTHNESS</LocID>          <Text>OPTION_MAP_GENERATOR_TERRAIN_SMOOTHNESS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_GENERATOR_NUMBER_OF_POIS</LocID>              <Text>OPTION_MAP_GENERATOR_NUMBER_OF_POIS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_GENERATOR_NUMBER_OF_TREASURES</LocID>         <Text>OPTION_MAP_GENERATOR_NUMBER_OF_TREASURES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_GENERATOR_GENERATE_BUILDINGS</LocID>          <Text>OPTION_MAP_GENERATOR_GENERATE_BUILDINGS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_GENERATOR_NUMBER_OF_PLAYERS</LocID>           <Text>OPTION_MAP_GENERATOR_NUMBER_OF_PLAYERS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_MAP_GENERATOR_NUMBER_OF_BASES_PER_PLAYER</LocID>  <Text>OPTION_MAP_GENERATOR_NUMBER_OF_BASES_PER_PLAYER</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>AUDIO_OPTIONS</LocID>                                    <Text>AUDIO_OPTIONS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_AUDIO_MUSIC</LocID>                               <Text>OPTION_AUDIO_MUSIC</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_AUDIO_UI</LocID>                                  <Text>OPTION_AUDIO_UI</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>OPTION_SHOW_ITEM_PICKUP_DIALOG</LocID>                   <Text>OPTION_SHOW_ITEM_PICKUP_DIALOG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_SHOW_FUSION_CORE_PICKUP_DIALOG</LocID>            <Text>OPTION_SHOW_FUSION_CORE_PICKUP_DIALOG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_SHOW_CHEST_RESOURCE_DIALOG</LocID>                <Text>OPTION_SHOW_CHEST_RESOURCE_DIALOG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_SHOW_XP_NOTIFICATION</LocID>                      <Text>OPTION_SHOW_XP_NOTIFICATION</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>OPTION_SHOW_ACADEMY_ABILITY_LEARNED_DIALOG</LocID>       <Text>OPTION_SHOW_ACADEMY_ABILITY_LEARNED_DIALOG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_SHOW_END_TURN_ACTIONS_DIALOG</LocID>              <Text>OPTION_SHOW_END_TURN_ACTIONS_DIALOG</Text>  </GameDBLocalizedString>
+
+            <!-- Option choices -->
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_TEXTURES</LocID>                         <Text>OPTION_GRAPHICS_TEXTURES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TEXTURES_HD</LocID>                                      <Text>TEXTURES_HD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TEXTURES_4K</LocID>                                      <Text>TEXTURES_4K</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_ANTIALIASING</LocID>                     <Text>OPTION_GRAPHICS_ANTIALIASING</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ANTIALIASING_OFF</LocID>                                 <Text>ANTIALIASING_OFF</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ANTIALIASING_2X</LocID>                                  <Text>ANTIALIASING_2X</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ANTIALIASING_4X</LocID>                                  <Text>ANTIALIASING_4X</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_SHADOWS</LocID>                          <Text>OPTION_GRAPHICS_SHADOWS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SHADOWS_OFF</LocID>                                      <Text>SHADOWS_OFF</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SHADOWS_LOW</LocID>                                      <Text>SHADOWS_LOW</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SHADOWS_HIGH</LocID>                                     <Text>SHADOWS_HIGH</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_VSYNC</LocID>                            <Text>OPTION_GRAPHICS_VSYNC</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>VSYNC_OFF</LocID>                                        <Text>VSYNC_OFF</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>VSYNC_ON</LocID>                                         <Text>VSYNC_ON</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>VSYNC_LIMIT_60</LocID>                                   <Text>VSYNC_LIMIT_60</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_TERRAIN_QUALITY</LocID>                  <Text>OPTION_GRAPHICS_TERRAIN_QUALITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TERRAIN_QUALITY_LOW</LocID>                              <Text>TERRAIN_QUALITY_LOW</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TERRAIN_QUALITY_HIGH</LocID>                             <Text>TERRAIN_QUALITY_HIGH</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_UNIT_QUALITY</LocID>                     <Text>OPTION_GRAPHICS_UNIT_QUALITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_QUALITY_STATIC</LocID>                              <Text>UNIT_QUALITY_STATIC</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_QUALITY_ANIMATED</LocID>                            <Text>UNIT_QUALITY_ANIMATED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_BLOOM</LocID>                            <Text>OPTION_GRAPHICS_BLOOM</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BLOOM_OFF</LocID>                                        <Text>BLOOM_OFF</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BLOOM_ON</LocID>                                         <Text>BLOOM_ON</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_DOF</LocID>                              <Text>OPTION_GRAPHICS_DOF</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DOF_OFF</LocID>                                          <Text>DOF_OFF</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DOF_ON</LocID>                                           <Text>DOF_ON</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_CURSOR</LocID>                           <Text>OPTION_GRAPHICS_CURSOR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GRAPHICS_CURSOR_HARDWARE</LocID>                         <Text>GRAPHICS_CURSOR_HARDWARE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GRAPHICS_CURSOR_SOFTWARE</LocID>                         <Text>GRAPHICS_CURSOR_SOFTWARE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>GRAPHICS_OPTIONS_RESOLUTION</LocID>                      <Text>GRAPHICS_OPTIONS_RESOLUTION</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>OPTION_UI_SCALE</LocID>                                  <Text>OPTION_UI_SCALE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_UI_SCALE_SMALL</LocID>                            <Text>OPTION_UI_SCALE_SMALL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_UI_SCALE_NORMAL</LocID>                           <Text>OPTION_UI_SCALE_NORMAL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_UI_SCALE_LARGE</LocID>                            <Text>OPTION_UI_SCALE_LARGE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>RESET_OPTIONS</LocID>                                    <Text>RESET_OPTIONS</Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

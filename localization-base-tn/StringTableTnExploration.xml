@@ -1,0 +1,336 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_TN_EXPLORATION">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>         <LocID>DIALOG_CUSTOM_MESSAGE</LocID>                                 <Text>DIALOG_CUSTOM_MESSAGE</Text>  </GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>DIALOG_CUSTOM_MESSAGE_TEXT</LocID>                            <Text>DIALOG_CUSTOM_MESSAGE_TEXT</Text>  </GameDBLocalizedString> <!-- Currently needs to be empty -->
+
+            <GameDBLocalizedString>         <LocID>DIALOG_CAMPAIGN_MESSAGE</LocID>                               <Text>DIALOG_CAMPAIGN_MESSAGE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_CAMPAIGN_MESSAGE_TEXT</LocID>                          <Text>DIALOG_CAMPAIGN_MESSAGE_TEXT</Text>  </GameDBLocalizedString> <!-- Currently needs to be empty -->
+
+            <GameDBLocalizedString>         <LocID>DIALOG_CHEST</LocID>                                          <Text>DIALOG_CHEST</Text>  </GameDBLocalizedString><!-- The dialog shows the name of what's inside -->
+            <GameDBLocalizedString>         <LocID>DIALOG_HERO_MEETING</LocID>                                   <Text>DIALOG_HERO_MEETING</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_CHEST_RESOURCE</LocID>                                 <Text>DIALOG_CHEST_RESOURCE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_CHEST_DATAPAD</LocID>                                  <Text>DIALOG_CHEST_DATAPAD</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>DIALOG_CHEST_ITEM</LocID>                                     <Text>DIALOG_CHEST_ITEM</Text>  </GameDBLocalizedString><!-- The dialog shows the name of what's inside -->
+            <GameDBLocalizedString>         <LocID>DIALOG_ITEM_PICKUP</LocID>                                    <Text>DIALOG_ITEM_PICKUP</Text>  </GameDBLocalizedString><!-- The dialog shows the name of what's inside -->
+            <GameDBLocalizedString>         <LocID>DIALOG_EXPLORATION_CORPSE_PICKUP</LocID>                      <Text>DIALOG_EXPLORATION_CORPSE_PICKUP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_START_TURN</LocID>                                     <Text>DIALOG_START_TURN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_START_TURN_REPLAY</LocID>                              <Text>DIALOG_START_TURN_REPLAY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_START_TURN_REPLAYED</LocID>                            <Text>DIALOG_START_TURN_REPLAYED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_START_WEEK</LocID>                                     <Text>DIALOG_START_WEEK</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_PLAYER_LOST</LocID>                                    <Text>DIALOG_PLAYER_LOST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_PLAYER_LOST_YOU</LocID>                                <Text>DIALOG_PLAYER_LOST_YOU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_PLAYER_LOST_YOU_SOMEBODY_WON</LocID>                   <Text>DIALOG_PLAYER_LOST_YOU_SOMEBODY_WON</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_PLAYER_WON</LocID>                                     <Text>DIALOG_PLAYER_WON</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_PLAYER_WON_YOU</LocID>                                 <Text>DIALOG_PLAYER_WON_YOU</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_BREAKABLE_OBJECT</LocID>                               <Text>DIALOG_BREAKABLE_OBJECT</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_EMPTIED</LocID>                                 <Text>DIALOG_OBJECT_EMPTIED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_REVISITED</LocID>                               <Text>DIALOG_OBJECT_REVISITED</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_NEUTRAL_MONSTERS_FLEE</LocID>                          <Text>DIALOG_NEUTRAL_MONSTERS_FLEE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE</LocID>                                 <Text>DIALOG_OBJECT_UPGRADE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_CONSTRUCTION_UPGRADE</LocID>                    <Text>DIALOG_OBJECT_CONSTRUCTION_UPGRADE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_CONSTRUCTION_UPGRADE_TEXT</LocID>               <Text>DIALOG_OBJECT_CONSTRUCTION_UPGRADE_TEXT</Text>  </GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>DIALOG_CONSTRUCTION_ZONE</LocID>                              <Text>DIALOG_CONSTRUCTION_ZONE</Text>  </GameDBLocalizedString> <!-- Note: needs to match the building zone map object -->
+            <GameDBLocalizedString>         <LocID>DIALOG_CONSTRUCTION_ZONE_TEXT</LocID>                         <Text>DIALOG_CONSTRUCTION_ZONE_TEXT</Text>  </GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE</LocID>                            <Text>DIALOG_OBJECT_MINING_PROBE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE_TEXT</LocID>                       <Text>DIALOG_OBJECT_MINING_PROBE_TEXT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE_EMPTY</LocID>                      <Text>DIALOG_OBJECT_MINING_PROBE_EMPTY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MINING_PROBE_EMPTY_TEXT</LocID>                 <Text>DIALOG_OBJECT_MINING_PROBE_EMPTY_TEXT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE</LocID>                         <Text>DIALOG_OBJECT_DECONSTRUCTABLE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_TEXT</LocID>                    <Text>DIALOG_OBJECT_DECONSTRUCTABLE_TEXT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY</LocID>                <Text>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY_TEXT</LocID>           <Text>DIALOG_OBJECT_DECONSTRUCTABLE_NO_MONEY_TEXT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_WITH_ARMY</LocID>                       <Text>DIALOG_OBJECT_UPGRADE_WITH_ARMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_LEARN_ABILITY</LocID>                                  <Text>DIALOG_LEARN_ABILITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_LEARN_ABILITY_TEXT</LocID>                             <Text><![CDATA[DIALOG_LEARN_ABILITY_TEXT]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_LEARN_ABILITY_TEXT_DETAILS</LocID>                     <Text><![CDATA[DIALOG_LEARN_ABILITY_TEXT_DETAILS]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_EVACUATION_ABILITY</LocID>                             <Text>DIALOG_EVACUATION_ABILITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_EVACUATION_ABILITY_TEXT</LocID>                        <Text>DIALOG_EVACUATION_ABILITY_TEXT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_FIELD_RESEARCH_HERO_LEARNED_ABILITY</LocID>            <Text>DIALOG_FIELD_RESEARCH_HERO_LEARNED_ABILITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_FIELD_RESEARCH_HERO_LEARNED_ABILITY_TEXT</LocID>       <Text>DIALOG_FIELD_RESEARCH_HERO_LEARNED_ABILITY_TEXT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_VEIN</LocID>                                    <Text>DIALOG_OBJECT_VEIN</Text></GameDBLocalizedString><!-- The dialog shows the name of what's inside -->
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_SMUGGLERS_DEN</LocID>                           <Text>DIALOG_OBJECT_SMUGGLERS_DEN</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_SLAVE_CAMP</LocID>                              <Text>DIALOG_OBJECT_SLAVE_CAMP</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_HERO_EQUIPMENT_INVENTORY_SLOT_INCREASE</LocID>         <Text>DIALOG_HERO_EQUIPMENT_INVENTORY_SLOT_INCREASE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_HERO_EQUIPMENT_INVENTORY_SLOT_INCREASE_TEXT</LocID>    <Text><![CDATA[DIALOG_HERO_EQUIPMENT_INVENTORY_SLOT_INCREASE_TEXT]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_HERO_ARTIFACT_INVENTORY_SLOT_INCREASE</LocID>          <Text>DIALOG_HERO_ARTIFACT_INVENTORY_SLOT_INCREASE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_HERO_ARTIFACT_INVENTORY_SLOT_INCREASE_TEXT</LocID>     <Text><![CDATA[DIALOG_HERO_ARTIFACT_INVENTORY_SLOT_INCREASE_TEXT]]></Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>DIALOG_BUILD_BRIDGE</LocID>                                   <Text>DIALOG_BUILD_BRIDGE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_BUILD_BRIDGE_TEXT</LocID>                              <Text>DIALOG_BUILD_BRIDGE_TEXT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_BUILD_BRIDGE</LocID>                              <Text>EXPLORATION_BUILD_BRIDGE</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_CAN_NOT_BUILD_BRIDGE</LocID>                           <Text>DIALOG_CAN_NOT_BUILD_BRIDGE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_CAN_NOT_BUILD_BRIDGE_TEXT</LocID>                      <Text>DIALOG_CAN_NOT_BUILD_BRIDGE_TEXT</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_END_TURN_ACTIONS</LocID>                               <Text>DIALOG_END_TURN_ACTIONS</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_END_TURN_ACTIONS_TEXT</LocID>                          <Text>DIALOG_END_TURN_ACTIONS_TEXT</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_VEIN_TEXT</LocID>                               <Text>DIALOG_OBJECT_VEIN_TEXT</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_CORPSE_PICKUP</LocID>                             <Text>EXPLORATION_CORPSE_PICKUP</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_DONT_SHOW_AGAIN</LocID>                                <Text>DIALOG_DONT_SHOW_AGAIN</Text>  </GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>DIALOG_CONFIRM_DISMISS_HERO</LocID>                           <Text>DIALOG_CONFIRM_DISMISS_HERO</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_CONFIRM_DISMISS_HERO_TEXT</LocID>                      <Text>DIALOG_CONFIRM_DISMISS_HERO_TEXT</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_DISMISS</LocID>                                   <Text>EXPLORATION_DISMISS</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_CHEST_RESOURCE_TEXT</LocID>                       <Text>EXPLORATION_CHEST_RESOURCE_TEXT</Text></GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_CHEST_DATAPAD_TEXT</LocID>                        <Text><![CDATA[EXPLORATION_CHEST_DATAPAD_TEXT]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_DATAPAD_CONSUME</LocID>                           <Text>EXPLORATION_DATAPAD_CONSUME</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_DATAPAD_CONSUME_INFO_TEXT</LocID>                 <Text><![CDATA[EXPLORATION_DATAPAD_CONSUME_INFO_TEXT]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_DATAPAD_SELL</LocID>                              <Text>EXPLORATION_DATAPAD_SELL</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_DATAPAD_SELL_INFO_TEXT</LocID>                    <Text><![CDATA[EXPLORATION_DATAPAD_SELL_INFO_TEXT]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_DATAPAD_KEEP</LocID>                              <Text>EXPLORATION_DATAPAD_KEEP</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_SMUGGLERS_DEN_TEXT</LocID>                      <Text>DIALOG_OBJECT_SMUGGLERS_DEN_TEXT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_SLAVE_CAMP_TEXT</LocID>                         <Text>DIALOG_OBJECT_SLAVE_CAMP_TEXT</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_ATTACK_UNKNOWN_TEXT</LocID>                       <Text><![CDATA[EXPLORATION_ATTACK_UNKNOWN_TEXT]]></Text></GameDBLocalizedString>
+                                                                                                                
+            <GameDBLocalizedString>         <LocID>EXPLORATION_START_TURN</LocID>                                <Text>EXPLORATION_START_TURN</Text></GameDBLocalizedString> <!-- Parameter {1} is color/name, so "Red player's turn etc." -->
+            <GameDBLocalizedString>         <LocID>EXPLORATION_START_ONLY</LocID>                                <Text>EXPLORATION_START_ONLY</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_START_WEEK</LocID>                                <Text><![CDATA[EXPLORATION_START_WEEK]]></Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_PLAYER_DEFEATED</LocID>                           <Text>EXPLORATION_PLAYER_DEFEATED</Text></GameDBLocalizedString> <!-- Parameter {1} is full name -->
+            <GameDBLocalizedString>         <LocID>EXPLORATION_PLAYER_DEFEATED_YOU</LocID>                       <Text>EXPLORATION_PLAYER_DEFEATED_YOU</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_PLAYER_WON</LocID>                                <Text>EXPLORATION_PLAYER_WON</Text></GameDBLocalizedString> <!-- Parameter {1} is name -->
+            <GameDBLocalizedString>         <LocID>EXPLORATION_PLAYER_WON_YOU</LocID>                            <Text>EXPLORATION_PLAYER_WON_YOU</Text></GameDBLocalizedString>
+                                                                                                                
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OK</LocID>                                        <Text>EXPLORATION_OK</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_QUIT</LocID>                                      <Text>EXPLORATION_QUIT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_SPECTATE</LocID>                                  <Text>EXPLORATION_SPECTATE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_BREAK</LocID>                                     <Text>EXPLORATION_BREAK</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_DISABLE</LocID>                                   <Text>EXPLORATION_DISABLE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_LEAVE_UNTOUCHED</LocID>                           <Text>EXPLORATION_LEAVE_UNTOUCHED</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_CLOSE</LocID>                                     <Text>EXPLORATION_CLOSE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_COLLECT</LocID>                                   <Text>EXPLORATION_COLLECT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_PASS</LocID>                                      <Text>EXPLORATION_PASS</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_DISMANTLE</LocID>                                 <Text>EXPLORATION_DISMANTLE</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_DIALOG_BREAKABLE_OBJECT_TEXT</LocID>              <Text>EXPLORATION_DIALOG_BREAKABLE_OBJECT_TEXT</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISITED_STATE</LocID>                      <Text><![CDATA[EXPLORATION_OBJECT_VISITED_STATE]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISITED</LocID>                            <Text><![CDATA[EXPLORATION_OBJECT_VISITED]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_NOT_VISITED</LocID>                        <Text><![CDATA[EXPLORATION_OBJECT_NOT_VISITED]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISIT_WAIT_PHASE</LocID>                   <Text>EXPLORATION_OBJECT_VISIT_WAIT_PHASE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISIT_WAIT_CYCLE</LocID>                   <Text>EXPLORATION_OBJECT_VISIT_WAIT_CYCLE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISIT_HERO</LocID>                         <Text>EXPLORATION_OBJECT_VISIT_HERO</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_DISABLED</LocID>                           <Text><![CDATA[EXPLORATION_OBJECT_DISABLED]]></Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_EMPTIED</LocID>                             <Text><![CDATA[EXPLORATION_OBJECT_EMPTIED]]></Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_DISABLED_WAIT_CYCLE</LocID>                <Text>EXPLORATION_OBJECT_DISABLED_WAIT_CYCLE</Text></GameDBLocalizedString>
+                                                                                                                
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_TELEPORT_SELECTION</LocID>                 <Text>EXPLORATION_OBJECT_TELEPORT_SELECTION</Text></GameDBLocalizedString>
+                                                                                                                
+            <GameDBLocalizedString>         <LocID>EXPLORATION_NEUTRAL_MONSTERS_FLEE</LocID>                     <Text>EXPLORATION_NEUTRAL_MONSTERS_FLEE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_NEGOTIATION</LocID>                               <Text>EXPLORATION_NEGOTIATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_NEUTRAL_MONSTERS_NEGOTIATION</LocID>              <Text>EXPLORATION_NEUTRAL_MONSTERS_NEGOTIATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_BACK_TO_HERO</LocID>                              <Text>EXPLORATION_BACK_TO_HERO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_NEAREST_OUTPOST</LocID>                           <Text>EXPLORATION_NEAREST_OUTPOST</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_NEUTRAL_MONSTERS_NEGOTIATION_FLEE</LocID>         <Text>EXPLORATION_NEUTRAL_MONSTERS_NEGOTIATION_FLEE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_LET_FLEE</LocID>                                  <Text>EXPLORATION_LET_FLEE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_FIGHT</LocID>                                     <Text>EXPLORATION_FIGHT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_FIGHT_REST</LocID>                                <Text>EXPLORATION_FIGHT_REST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_FINISH_NEGOTIATION</LocID>                        <Text>EXPLORATION_FINISH_NEGOTIATION</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>NEUTRAL_ARMY_WANTS_TO_JOIN_HEADING</LocID>                    <Text>NEUTRAL_ARMY_WANTS_TO_JOIN_HEADING</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NEUTRAL_ARMY_WANTS_TO_JOIN</LocID>                            <Text>NEUTRAL_ARMY_WANTS_TO_JOIN</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NEUTRAL_ARMY_EXTRA_UNITS</LocID>                              <Text>NEUTRAL_ARMY_EXTRA_UNITS</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_BOOT_CAMP_TRAIN_ALL</LocID>                       <Text>EXPLORATION_BOOT_CAMP_TRAIN_ALL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_BOOT_CAMP_UPGRADE_ALL</LocID>                     <Text>EXPLORATION_BOOT_CAMP_UPGRADE_ALL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_CAN_TRAIN_ALL_TEXT</LocID>                            <Text>TOOLTIP_CAN_TRAIN_ALL_TEXT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_CAN_TRAIN_ALL_INFO</LocID>                            <Text>TOOLTIP_CAN_TRAIN_ALL_INFO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_TRAIN_LOST_ALL</LocID>                                <Text><![CDATA[TOOLTIP_TRAIN_LOST_ALL]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>UNITS_UPGRADE_ALL_HEADING</LocID>                             <Text>UNITS_UPGRADE_ALL_HEADING</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_UPGRADE_ALL</LocID>                                     <Text>UNITS_UPGRADE_ALL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_CAN_NOT_UPGRADE_ALL</LocID>                             <Text>UNITS_CAN_NOT_UPGRADE_ALL</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_FINISH_NEGOTIATION_BOUGHT</LocID>                 <Text>EXPLORATION_FINISH_NEGOTIATION_BOUGHT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_FINISH_NEGOTIATION_DESTROYED</LocID>              <Text>EXPLORATION_FINISH_NEGOTIATION_DESTROYED</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_SLAVE_CAMP_NEGOTIATION</LocID>                    <Text>EXPLORATION_SLAVE_CAMP_NEGOTIATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_SLAVE_CAMP_LIBERATION</LocID>                     <Text>EXPLORATION_SLAVE_CAMP_LIBERATION</Text>  </GameDBLocalizedString>
+                                                                                                                
+            <GameDBLocalizedString>         <LocID>EXPLORATION_JOIN</LocID>                                      <Text>EXPLORATION_JOIN</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_NO_ABILITY_TO_LEARN</LocID>                       <Text>EXPLORATION_NO_ABILITY_TO_LEARN</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_NO_SKILL_TO_LEARN</LocID>                         <Text>EXPLORATION_NO_SKILL_TO_LEARN</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_NOTHING_TO_FORGET</LocID>                         <Text>EXPLORATION_NOTHING_TO_FORGET</Text></GameDBLocalizedString>
+                                                                                                                
+            <GameDBLocalizedString>         <LocID>EXPLORATION_BUILD_COST</LocID>                                <Text>EXPLORATION_BUILD_COST</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_MINING_PROBE_EMPTY</LocID>                        <Text><![CDATA[EXPLORATION_MINING_PROBE_EMPTY]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_ACADEMY_FORGET_SKILL_TEXT</LocID>                 <Text>EXPLORATION_ACADEMY_FORGET_SKILL_TEXT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_ACADEMY_LEARN_SKILL_TEXT</LocID>                  <Text>EXPLORATION_ACADEMY_LEARN_SKILL_TEXT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_ACADEMY_LEARN_ABILITY_TEXT</LocID>                <Text>EXPLORATION_ACADEMY_LEARN_ABILITY_TEXT</Text>  </GameDBLocalizedString>
+            
+            <!--Map objects dialogs-->
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_TEXT</LocID>                            <Text>DIALOG_OBJECT_UPGRADE_TEXT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_WITH_ARMY_TEXT</LocID>                  <Text>DIALOG_OBJECT_UPGRADE_WITH_ARMY_TEXT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_AVAILABLE_UPGRADES</LocID>                      <Text><![CDATA[DIALOG_OBJECT_AVAILABLE_UPGRADES]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_BUILD</LocID>                           <Text>DIALOG_OBJECT_UPGRADE_BUILD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_COSTS</LocID>                           <Text>DIALOG_OBJECT_UPGRADE_COSTS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_UPGRADE_GENERATES</LocID>                       <Text>DIALOG_OBJECT_UPGRADE_GENERATES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_WATCHTOWER</LocID>                              <Text>DIALOG_OBJECT_WATCHTOWER</Text>  </GameDBLocalizedString> <!-- Object name is used in the dialog heading -->
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_WATCHTOWER_TEXT</LocID>                         <Text>DIALOG_OBJECT_WATCHTOWER_TEXT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_EVACUATE</LocID>                                <Text>DIALOG_OBJECT_EVACUATE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_VEIN_BUILD</LocID>                              <Text>DIALOG_OBJECT_VEIN_BUILD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_BUILDABLE_OBJECT_NAME</LocID>                          <Text>DIALOG_BUILDABLE_OBJECT_NAME</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_STRUCTURE_ATTACK</LocID>                        <Text>DIALOG_OBJECT_STRUCTURE_ATTACK</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_SMUGGLERS_DEN_REWARD</LocID>                    <Text>DIALOG_OBJECT_SMUGGLERS_DEN_REWARD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_SLAVE_CAMP_NEGOTIATE</LocID>                    <Text>DIALOG_OBJECT_SLAVE_CAMP_NEGOTIATE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNDISCOVERED</LocID>                                          <Text>UNDISCOVERED</Text></GameDBLocalizedString>
+            
+            <!-- Status effects -->                                                                              
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MOVE_POINTS_REDUCTION</LocID>                   <Text><![CDATA[STATUS_EFFECT_MOVE_POINTS_REDUCTION]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MOVE_POINTS_INCREASE</LocID>                    <Text><![CDATA[STATUS_EFFECT_MOVE_POINTS_INCREASE]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_RUSH_ABILITY_MOVE_POINTS_INCREASE</LocID>       <Text><![CDATA[STATUS_EFFECT_RUSH_ABILITY_MOVE_POINTS_INCREASE]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_EAGLE_EYE_ABILITY_RANGE_INCREASE</LocID>        <Text>STATUS_EFFECT_EAGLE_EYE_ABILITY_RANGE_INCREASE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_BARBARIAN_HORDE_2</LocID>                       <Text>STATUS_EFFECT_BARBARIAN_HORDE_2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_EASY_PREY_2</LocID>                             <Text>STATUS_EFFECT_EASY_PREY_2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MORALE_BOOST</LocID>                            <Text><![CDATA[STATUS_EFFECT_MORALE_BOOST]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_COMBAT_POWER_BOOST</LocID>                      <Text><![CDATA[STATUS_EFFECT_COMBAT_POWER_BOOST]]></Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_TRAP_COMMANDER</LocID>                          <Text><![CDATA[STATUS_EFFECT_TRAP_COMMANDER]]></Text>  </GameDBLocalizedString>
+            
+            <!-- Tooltips -->                                                                                    
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_ARMY_STRENGTH</LocID>                     <Text>EXPLORATION_TOOLTIP_ARMY_STRENGTH</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_PREDICTED_LOSSES</LocID>                  <Text>EXPLORATION_TOOLTIP_PREDICTED_LOSSES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_ARMY_COUNT</LocID>                        <Text>EXPLORATION_TOOLTIP_ARMY_COUNT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_HERO_STATUS_EFFECTS</LocID>               <Text><![CDATA[EXPLORATION_TOOLTIP_HERO_STATUS_EFFECTS]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_HERO_STATS</LocID>                        <Text><![CDATA[EXPLORATION_TOOLTIP_HERO_STATS]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_HERO_ATTRIBUTES</LocID>                   <Text>EXPLORATION_TOOLTIP_HERO_ATTRIBUTES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_HERO_SKILLS</LocID>                       <Text>EXPLORATION_TOOLTIP_HERO_SKILLS</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_HERO_ABILITIES</LocID>                    <Text>EXPLORATION_TOOLTIP_HERO_ABILITIES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_NONE</LocID>                              <Text>EXPLORATION_TOOLTIP_NONE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_MONSTER_ARMY</LocID>                      <Text><![CDATA[EXPLORATION_TOOLTIP_MONSTER_ARMY]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_MONSTER_ARMY_CHANGES</LocID>              <Text><![CDATA[EXPLORATION_TOOLTIP_MONSTER_ARMY_CHANGES]]></Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_NOT_IN_RANGE</LocID>                      <Text>EXPLORATION_TOOLTIP_NOT_IN_RANGE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_SEEN_BY</LocID>                           <Text>EXPLORATION_TOOLTIP_SEEN_BY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_BASE_NO_ARMY</LocID>                      <Text>EXPLORATION_TOOLTIP_BASE_NO_ARMY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_CYCLE</LocID>                             <Text>EXPLORATION_TOOLTIP_CYCLE</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP</LocID>                                        <Text>EXPLORATION_XP</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_UNKNOWN</LocID>                               <Text>LOSS_PREDICTION_UNKNOWN</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_0</LocID>                                     <Text>LOSS_PREDICTION_0</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_1</LocID>                                     <Text>LOSS_PREDICTION_1</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_2</LocID>                                     <Text>LOSS_PREDICTION_2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_3</LocID>                                     <Text>LOSS_PREDICTION_3</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_4</LocID>                                     <Text>LOSS_PREDICTION_4</Text></GameDBLocalizedString>                        
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_5</LocID>                                     <Text>LOSS_PREDICTION_5</Text></GameDBLocalizedString>   
+            
+            <!--Exploration XP-->
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_NONE</LocID>                                   <Text>EXPLORATION_XP_NONE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_COMBAT</LocID>                                 <Text>EXPLORATION_XP_COMBAT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_MOVEMENT</LocID>                               <Text>EXPLORATION_XP_MOVEMENT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_FOG_OF_WAR</LocID>                             <Text>EXPLORATION_XP_FOG_OF_WAR</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_CASTING</LocID>                                <Text>EXPLORATION_XP_CASTING</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_TAKING_OVER_BUILDING</LocID>                   <Text>EXPLORATION_XP_TAKING_OVER_BUILDING</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_DISABLING_BUILDING</LocID>                     <Text>EXPLORATION_XP_DISABLING_BUILDING</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_BUILDING_VISIT</LocID>                         <Text>EXPLORATION_XP_BUILDING_VISIT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_USING_CONSUMABLE</LocID>                       <Text>EXPLORATION_XP_USING_CONSUMABLE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_BUILDING_UPGRADE</LocID>                       <Text>EXPLORATION_XP_BUILDING_UPGRADE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_ITEM_PICK_UP</LocID>                           <Text>EXPLORATION_XP_ITEM_PICK_UP</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_ITEM_EQUIP</LocID>                             <Text>EXPLORATION_XP_ITEM_EQUIP</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_SHORTCUT_CREATION</LocID>                      <Text>EXPLORATION_XP_SHORTCUT_CREATION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_TRAINING</LocID>                               <Text>EXPLORATION_XP_TRAINING</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_OTHER</LocID>                                  <Text>EXPLORATION_XP_OTHER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_DEBUG</LocID>                                  <Text>EXPLORATION_XP_DEBUG</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>FORGET</LocID>                                                <Text>FORGET</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_ACADEMY_HERO_LEARNED_ABILITY</LocID>                   <Text>DIALOG_ACADEMY_HERO_LEARNED_ABILITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_ACADEMY_HERO_LEARNED_ABILITY_TEXT</LocID>              <Text>DIALOG_ACADEMY_HERO_LEARNED_ABILITY_TEXT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_WIN_TOOLTIP_MODIFIED_XP</LocID>                 <Text>DIALOG_COMBAT_WIN_TOOLTIP_MODIFIED_XP</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_WIN_TOOLTIP_MAX_LEVEL_REACHED</LocID>           <Text>DIALOG_COMBAT_WIN_TOOLTIP_MAX_LEVEL_REACHED</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_CONSUMABLE_USE</LocID>                                 <Text>DIALOG_CONSUMABLE_USE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_EQUIPMENT_EQUIP</LocID>                                <Text>DIALOG_EQUIPMENT_EQUIP</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>CONSUMABLE_RECHARGE_CELL_DIALOG_INFO</LocID>                  <Text><![CDATA[CONSUMABLE_RECHARGE_CELL_DIALOG_INFO]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CONSUMABLE_DATA_FRAGMENT_DIALOG_INFO</LocID>                  <Text><![CDATA[CONSUMABLE_DATA_FRAGMENT_DIALOG_INFO]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CONSUMABLE_FUEL_STOCK_DIALOG_INFO</LocID>                     <Text><![CDATA[CONSUMABLE_FUEL_STOCK_DIALOG_INFO]]></Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_GOTO</LocID>                                      <Text>EXPLORATION_GOTO</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_ABILITY_ACADEMY</LocID>                    <Text>MAPOBJ_EXPLORATION_ABILITY_ACADEMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_ABILITY_ACADEMY_DESCRIPTION</LocID>        <Text><![CDATA[MAPOBJ_EXPLORATION_ABILITY_ACADEMY_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_BUY_ABILITY</LocID>                              <Text>ACADEMY_HINT_BUY_ABILITY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_HAS_BOUGHT_ABILITY</LocID>                       <Text>ACADEMY_HINT_HAS_BOUGHT_ABILITY</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MORALE_REDUCTION</LocID>                        <Text>STATUS_EFFECT_MORALE_REDUCTION</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_FUSION_CORE</LocID>                                    <Text>DIALOG_FUSION_CORE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_FUSION_CORE_TEXT</LocID>                          <Text><![CDATA[EXPLORATION_FUSION_CORE_TEXT]]></Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_1</LocID>                          <Text>DIALOG_OBJECT_BATTLE_ARENA_1</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_2</LocID>                          <Text>DIALOG_OBJECT_BATTLE_ARENA_2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_3</LocID>                          <Text>DIALOG_OBJECT_BATTLE_ARENA_3</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_VICTORY</LocID>                    <Text>DIALOG_OBJECT_BATTLE_ARENA_VICTORY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_TEXT</LocID>                       <Text><![CDATA[DIALOG_OBJECT_BATTLE_ARENA_TEXT]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_VICTORY_TEXT</LocID>               <Text>DIALOG_OBJECT_BATTLE_ARENA_VICTORY_TEXT</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_TRAINING_GROUND</LocID>                         <Text>DIALOG_OBJECT_TRAINING_GROUND</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_TRAINING_GROUND_TEXT</LocID>                    <Text><![CDATA[DIALOG_OBJECT_TRAINING_GROUND_TEXT]]></Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_RANDOM_ARMY</LocID>                             <Text>DIALOG_OBJECT_RANDOM_ARMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MIRROR_ARMY</LocID>                             <Text>DIALOG_OBJECT_MIRROR_ARMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_ROUND_1</LocID>                    <Text>DIALOG_OBJECT_BATTLE_ARENA_ROUND_1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_ROUND_2</LocID>                    <Text>DIALOG_OBJECT_BATTLE_ARENA_ROUND_2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_ROUND_3</LocID>                    <Text>DIALOG_OBJECT_BATTLE_ARENA_ROUND_3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_VICTORY_BUTTON</LocID>             <Text>DIALOG_OBJECT_BATTLE_ARENA_VICTORY_BUTTON</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISITED_ROUND</LocID>                      <Text>EXPLORATION_OBJECT_VISITED_ROUND</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_CONQUERED</LocID>                          <Text><![CDATA[EXPLORATION_OBJECT_CONQUERED]]></Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MORALE_BOOST_BATTLE_ARENA</LocID>               <Text>STATUS_EFFECT_MORALE_BOOST_BATTLE_ARENA</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXPLORATION_START_WITH_REPLAY</LocID>                         <Text>EXPLORATION_START_WITH_REPLAY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_START_TURN_REPLAYED</LocID>                       <Text>EXPLORATION_START_TURN_REPLAYED</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_START_REPLAY_AGAIN</LocID>                        <Text>EXPLORATION_START_REPLAY_AGAIN</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>MAP_STATS</LocID>                                             <Text>MAP_STATS</Text></GameDBLocalizedString>
+         
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_NORMAL</LocID>                                    <Text>CYCLE_RULES_NORMAL</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_NORMAL_DESCIPTION</LocID>                         <Text>CYCLE_RULES_NORMAL_DESCIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_UNITS</LocID>                               <Text>CYCLE_RULES_EXTRA_UNITS</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_UNITS_DESCRIPTION</LocID>                   <Text>CYCLE_RULES_EXTRA_UNITS_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_LESS_UNITS</LocID>                                <Text>CYCLE_RULES_LESS_UNITS</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_LESS_UNITS_DESCRIPTION</LocID>                    <Text>CYCLE_RULES_LESS_UNITS_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION</LocID>                          <Text>CYCLE_RULES_EXTRA_PRODUCTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION_DESCRIPTION</LocID>              <Text>CYCLE_RULES_EXTRA_PRODUCTION_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION</LocID>                        <Text>CYCLE_RULES_REDUCED_PRODUCTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION_DESCRIPTION</LocID>            <Text>CYCLE_RULES_REDUCED_PRODUCTION_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_BAD_VISIBILITY</LocID>                            <Text>CYCLE_RULES_BAD_VISIBILITY</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_BAD_VISIBILITY_DESCRIPTION</LocID>                <Text>CYCLE_RULES_BAD_VISIBILITY_DESCRIPTION</Text></GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

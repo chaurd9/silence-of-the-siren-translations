@@ -1,0 +1,191 @@
+<Database>
+    <GameDBStringTable ID="LOC_TN_BASES">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>         <LocID>UNITS_AVAILABLE</LocID>                                  <Text>UNITS_AVAILABLE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>BASE_STRUCTURES</LocID>                                  <Text>BASE_STRUCTURES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILD_FOR</LocID>                                        <Text>BUILD_FOR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HIRE</LocID>                                             <Text>HIRE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HIRE_BUTTON</LocID>                                      <Text>HIRE_BUTTON</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TAKE_BUTTON</LocID>                                      <Text>TAKE_BUTTON</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NO_SPACE_IN_YOUR_ARMY</LocID>                            <Text>NO_SPACE_IN_YOUR_ARMY</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>RECRUITMENT_CENTER</LocID>                               <Text>RECRUITMENT_CENTER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HIRE_MAX</LocID>                                         <Text>HIRE_MAX</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HIRE_ALL</LocID>                                         <Text>HIRE_ALL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TAKE_ALL</LocID>                                         <Text>TAKE_ALL</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HIRE_UNIT_PANEL</LocID>                                  <Text>HIRE_UNIT_PANEL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HIRE_UNIT_PANEL_CUSTOM</LocID>                           <Text>HIRE_UNIT_PANEL_CUSTOM</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HIRE_UNIT_PANEL_ALL</LocID>                              <Text>HIRE_UNIT_PANEL_ALL</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>ARMY_WONT_FIT</LocID>                                    <Text>ARMY_WONT_FIT</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>UNITS_GROW</LocID>                                       <Text>UNITS_GROW</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EXIT_BASE</LocID>                                        <Text>EXIT_BASE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SHOW_HIDE_UI</LocID>                                     <Text>SHOW_HIDE_UI</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>RESOURCE_CASH_GENERATION</LocID>                         <Text><![CDATA[<color=SOTS_COLOR_GOLD>RESOURCE_CASH_GENERATION</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_A_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>RESOURCE_A_GENERATION</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_B_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_ALLOYS>RESOURCE_B_GENERATION</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_C_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_BIOMASS>RESOURCE_C_GENERATION</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_D_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_RADIANT>RESOURCE_D_GENERATION</color>]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>STATISTICS_HEADING</LocID>                               <Text>STATISTICS_HEADING</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>PLAYER_STATISTIC_ARMY_STRENGTH</LocID>                   <Text>PLAYER_STATISTIC_ARMY_STRENGTH</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_STATISTIC_NUMBER_OF_BASES</LocID>                 <Text>PLAYER_STATISTIC_NUMBER_OF_BASES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_STATISTIC_NUMBER_OF_HEROES</LocID>                <Text>PLAYER_STATISTIC_NUMBER_OF_HEROES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_STATISTIC_NUMBER_OF_MINES</LocID>                 <Text>PLAYER_STATISTIC_NUMBER_OF_MINES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_STATISTIC_CASH</LocID>                            <Text>PLAYER_STATISTIC_CASH</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_STATISTIC_CASH_INCOME</LocID>                     <Text>PLAYER_STATISTIC_CASH_INCOME</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_STATISTIC_RESOURCES</LocID>                       <Text>PLAYER_STATISTIC_RESOURCES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_STATISTIC_RESOURCE_INCOME</LocID>                 <Text>PLAYER_STATISTIC_RESOURCE_INCOME</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>GATEWAY_BUTTON</LocID>                                   <Text>GATEWAY_BUTTON</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_TRAVEL_FOR</LocID>                               <Text>GATEWAY_TRAVEL_FOR</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_ARMY_WONT_FIT</LocID>                            <Text>GATEWAY_ARMY_WONT_FIT</Text></GameDBLocalizedString>
+            <!--GameDBLocalizedString>         <LocID>GATEWAY_NO_GATEWAY</LocID>                               <Text>No Gateway</Text></GameDBLocalizedString-->
+            <GameDBLocalizedString>         <LocID>GATEWAY_NOT_ENOUGH_RESOURCES</LocID>                     <Text>GATEWAY_NOT_ENOUGH_RESOURCES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TRAVEL</LocID>                                           <Text>TRAVEL</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SEND</LocID>                                             <Text>SEND</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>HEADING_TRANSMOGRIFIER</LocID>                           <Text>HEADING_TRANSMOGRIFIER</Text></GameDBLocalizedString> <!-- TODO building name in the panel instead -->
+            <GameDBLocalizedString>         <LocID>TRANSMOGRIFY_BUTTON</LocID>                              <Text>TRANSMOGRIFY_BUTTON</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>ACADEMY_HEADING</LocID>                                  <Text>ACADEMY_HEADING</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_ABILITIES</LocID>                                <Text>ACADEMY_ABILITIES</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_REMOTE_LEARNING</LocID>                          <Text>ACADEMY_REMOTE_LEARNING</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_BUY_ABILITIES</LocID>                            <Text>ACADEMY_BUY_ABILITIES</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HEADING_BASES</LocID>                                    <Text>HEADING_BASES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_CONTROLS</LocID>                                 <Text>HEADING_CONTROLS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_MINIMAP</LocID>                                  <Text>HEADING_MINIMAP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_AI_TURN</LocID>                                  <Text><![CDATA[<b>HEADING_AI_TURN</b>]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILD_UPGRADE_TO_HAVE_THREE_HEROES</LocID>               <Text>BUILD_UPGRADE_TO_HAVE_THREE_HEROES</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TOOLTIP_HEADING_UPGRADE</LocID>                          <Text>TOOLTIP_HEADING_UPGRADE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_CAN_UPGRADE</LocID>                              <Text>TOOLTIP_CAN_UPGRADE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_UPGRADE_ONLY_RESOURCES_FOR</LocID>          <Text>TOOLTIP_UNIT_UPGRADE_ONLY_RESOURCES_FOR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_UPGRADE_NO_BUILDING</LocID>                 <Text>TOOLTIP_UNIT_UPGRADE_NO_BUILDING</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_INFO_SPLIT</LocID>                          <Text>TOOLTIP_UNIT_INFO_SPLIT</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>HEADING_BASE_HIRE_HEROES</LocID>                         <Text>HEADING_BASE_HIRE_HEROES</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BASE_CORE</LocID>                                        <Text>BASE_CORE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_BUILD</LocID>                               <Text>TOOLTIP_BASE_BUILD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_UNITS</LocID>                          <Text>TOOLTIP_BASE_HIRE_UNITS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_HEROES</LocID>                         <Text>TOOLTIP_BASE_HIRE_HEROES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRADE</LocID>                               <Text>TOOLTIP_BASE_TRADE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_ACADEMY</LocID>                             <Text>TOOLTIP_BASE_ACADEMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_STATISTICS</LocID>                          <Text>TOOLTIP_BASE_STATISTICS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_GATEWAY</LocID>                             <Text>TOOLTIP_BASE_GATEWAY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_GATEWAY_NO_HERO</LocID>                     <Text>TOOLTIP_BASE_GATEWAY_NO_HERO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRANSMOGRIFY</LocID>                        <Text>TOOLTIP_BASE_TRANSMOGRIFY</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BASE_BUILD</LocID>                                       <Text>BASE_BUILD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_UPGRADE</LocID>                                     <Text>BASE_UPGRADE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>TOOLTIP_HERO_MEETING</LocID>                             <Text>TOOLTIP_HERO_MEETING</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_HERO_CARD</LocID>                                <Text>TOOLTIP_HERO_CARD</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_SWITCH_ARMIES</LocID>                            <Text>TOOLTIP_SWITCH_ARMIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_UP</LocID>                                 <Text>TOOLTIP_MERGE_UP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_DOWN</LocID>                               <Text>TOOLTIP_MERGE_DOWN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_MANIPULATION</LocID>                        <Text>TOOLTIP_UNIT_MANIPULATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_UNDO_ARMY_CHANGES</LocID>                        <Text>TOOLTIP_UNDO_ARMY_CHANGES</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>TOOLTIP_THIS_TURN</LocID>                                <Text>TOOLTIP_THIS_TURN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_OT_ENOUGH_RESOURCES</LocID>                      <Text>TOOLTIP_OT_ENOUGH_RESOURCES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MISING_DEPENDENCIES</LocID>                      <Text>TOOLTIP_MISING_DEPENDENCIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MISING</LocID>                                   <Text>TOOLTIP_MISING</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_NO_FREE_SLOT</LocID>                             <Text>TOOLTIP_NO_FREE_SLOT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_FORBIDDEN_BUILDING</LocID>                       <Text>TOOLTIP_FORBIDDEN_BUILDING</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TOOLTIP_GARRISONED_HERO</LocID>                          <Text>TOOLTIP_GARRISONED_HERO</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TOOLTIP_UPGRADED_UNIT</LocID>                            <Text>TOOLTIP_UPGRADED_UNIT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_SWITCH_UPGRADED_UNIT</LocID>                     <Text>TOOLTIP_SWITCH_UPGRADED_UNIT</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_UNIT_INFO</LocID>                           <Text>TOOLTIP_BASE_UNIT_INFO</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>BASE_PREREQUISITES</LocID>                               <Text>BASE_PREREQUISITES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_PREREQUISITES_COMPLETE</LocID>                      <Text>BASE_PREREQUISITES_COMPLETE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_REQUIRES_FULL_BASE</LocID>                          <Text>BASE_REQUIRES_FULL_BASE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_PREREQUISITES_FORBIDDEN</LocID>                     <Text>BASE_PREREQUISITES_FORBIDDEN</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>HEADING_TRADING</LocID>                                  <Text>HEADING_TRADING</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CONVERSION_RATE</LocID>                                  <Text>CONVERSION_RATE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>AMOUNT</LocID>                                           <Text>AMOUNT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUY</LocID>                                              <Text>BUY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SELL</LocID>                                             <Text>SELL</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNAVAILABLE_ABILITIES</LocID>                            <Text>UNAVAILABLE_ABILITIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>REMOTE_LEARNING_INFO</LocID>                             <Text>REMOTE_LEARNING_INFO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>REMOTE_LEARNING_NO_EFFECT</LocID>                        <Text>REMOTE_LEARNING_NO_EFFECT</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_RESOURCES</LocID>                          <Text>NOT_AVAILABLE_RESOURCES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_DEPENDENCIES</LocID>                       <Text>NOT_AVAILABLE_DEPENDENCIES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_THIS_ROUND</LocID>                         <Text>NOT_AVAILABLE_THIS_ROUND</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_ALREADY_BUILT</LocID>                      <Text>NOT_AVAILABLE_ALREADY_BUILT</Text>  </GameDBLocalizedString>
+            
+            <!-- Tooltips for base list in the right UI panel on the world map -->
+            <GameDBLocalizedString>         <LocID>BASE_CAN_BUILD</LocID>                                   <Text>BASE_CAN_BUILD</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_NOT_BUILD</LocID>                               <Text>BASE_CAN_NOT_BUILD</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_ALREADY_BUILT</LocID>                               <Text>BASE_ALREADY_BUILT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_COMPLETE</LocID>                                    <Text>BASE_COMPLETE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_RECRUIT</LocID>                                 <Text>BASE_CAN_RECRUIT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_NOT_RECRUIT</LocID>                             <Text>BASE_CAN_NOT_RECRUIT</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>TOOLTIP_ACADEMY_INFO</LocID>                             <Text>TOOLTIP_ACADEMY_INFO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_ABOUT_THE_ACADEMY</LocID>                        <Text>HEADING_ABOUT_THE_ACADEMY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_SKILLS</LocID>                              <Text><![CDATA[- ACADEMY_HINT_SKILLS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_SKILL_LEVELS</LocID>                        <Text><![CDATA[- ACADEMY_HINT_SKILL_LEVELS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_LEARNING</LocID>                            <Text><![CDATA[- ACADEMY_HINT_LEARNING]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_ABILITIES</LocID>                           <Text><![CDATA[- ACADEMY_HINT_ABILITIES]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>GATEWAY_HEROES_TO_BASES</LocID>                          <Text>GATEWAY_HEROES_TO_BASES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_UNITS_TO_OUTPOSTS</LocID>                        <Text>GATEWAY_UNITS_TO_OUTPOSTS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_WHO</LocID>                                      <Text>GATEWAY_WHO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_WHERE</LocID>                                    <Text>GATEWAY_WHERE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_NOBODY</LocID>                                   <Text>GATEWAY_NOBODY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_NOWHERE</LocID>                                  <Text>GATEWAY_NOWHERE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_PLACE_A_UNIT</LocID>                             <Text>GATEWAY_PLACE_A_UNIT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_OUTPOST</LocID>                                  <Text>GATEWAY_OUTPOST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_ONE_STACK_PER_ROUND</LocID>                      <Text>GATEWAY_ONE_STACK_PER_ROUND</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>NO_BASES</LocID>                                         <Text>NO_BASES</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>GATEWAY_TRAVEL_COST</LocID>                              <Text>GATEWAY_TRAVEL_COST</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>BUILT</LocID>                                            <Text>BUILT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILD_FOR_ONE_FUSION_CORE</LocID>                        <Text><![CDATA[BUILD_FOR_ONE_FUSION_CORE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILD_FOR_ONE_FUSION_CORE_CONFIRMATION</LocID>           <Text><![CDATA[BUILD_FOR_ONE_FUSION_CORE_CONFIRMATION]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNITS_HIRE_ALL_HEADING</LocID>                           <Text>UNITS_HIRE_ALL_HEADING</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_HIRE_ALL</LocID>                                   <Text>UNITS_HIRE_ALL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_NOTHING_TO_HIRE</LocID>                            <Text>UNITS_NOTHING_TO_HIRE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_CAN_NOT_HIRE_ALL</LocID>                           <Text>UNITS_CAN_NOT_HIRE_ALL</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNITS_HIRE_FROM_WEAKEST</LocID>                          <Text>UNITS_HIRE_FROM_WEAKEST</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_HIRE_FROM_STRONGEST</LocID>                        <Text>UNITS_HIRE_FROM_STRONGEST</Text>  </GameDBLocalizedString>
+
+            <!-- Updates before EA -->
+            <GameDBLocalizedString>         <LocID>BASE_HIRE_SLAVES</LocID>                                <Text>BASE_HIRE_SLAVES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_SLAVES</LocID>                        <Text>TOOLTIP_BASE_HIRE_SLAVES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_HERO_HAS_ALREADY_LEARNED_A_SKILL</LocID>           <Text>BASE_HERO_HAS_ALREADY_LEARNED_A_SKILL</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRADE_CONSUMABLES</LocID>                  <Text>TOOLTIP_BASE_TRADE_CONSUMABLES</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRADE_EQUIPMENT</LocID>                    <Text>TOOLTIP_BASE_TRADE_EQUIPMENT</Text>  </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
