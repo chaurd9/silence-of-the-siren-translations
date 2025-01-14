@@ -1,0 +1,100 @@
+<Database>
+    <GameDBStringTable ID="LOC_TC_PIRATES">
+
+        <LanguageRef>LANG_TC</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <GameDBLocalizedString>         <LocID>FACTION_PIRATES</LocID>                   <Text>FACTION_PIRATES</Text></GameDBLocalizedString> 
+
+            <!--Unit names-->
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_PARROT</LocID>              <Text>UNIT_PIRATES_PARROT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_PARROT_UPG</LocID>          <Text>UNIT_PIRATES_PARROT_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_PIRATE</LocID>              <Text>UNIT_PIRATES_PIRATE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_PIRATE_UPG</LocID>          <Text>UNIT_PIRATES_PIRATE_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CANNON</LocID>              <Text>UNIT_PIRATES_CANNON</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CANNON_UPG</LocID>          <Text>UNIT_PIRATES_CANNON_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CRAB</LocID>                <Text>UNIT_PIRATES_CRAB</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CRAB_UPG</LocID>            <Text>UNIT_PIRATES_CRAB_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_BOUNTYHUNTER</LocID>        <Text>UNIT_PIRATES_BOUNTYHUNTER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_BOUNTYHUNTER_UPG</LocID>    <Text>UNIT_PIRATES_BOUNTYHUNTER_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_FIRST_OFFICER</LocID>       <Text>UNIT_PIRATES_FIRST_OFFICER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_FIRST_OFFICER_UPG</LocID>   <Text>UNIT_PIRATES_FIRST_OFFICER_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CAPTAIN</LocID>             <Text>UNIT_PIRATES_CAPTAIN</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CAPTAIN_UPG</LocID>         <Text>UNIT_PIRATES_CAPTAIN_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CANNON_PROJECTILE</LocID>   <Text>UNIT_PIRATES_CANNON_PROJECTILE</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_WAR_MACHINE_HEALING_STATION</LocID> <Text>UNIT_PIRATES_WAR_MACHINE_HEALING_STATION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_WAR_MACHINE_HEALING_STATION_DESCRIPTION</LocID> <Text>UNIT_PIRATES_WAR_MACHINE_HEALING_STATION_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <!--Unit description-->
+            $1$2$4</GameDBLocalizedString> <!-- Imagine something like Edward Scissorhands shaping a hedge -->
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            
+
+            <!--Unit abilities-->
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_PARROT_INFO_DESCRIPTION</LocID>               <Text>UNIT_PIRATES_PARROT_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_PARROT_UPG_INFO_DESCRIPTION</LocID>           <Text>UNIT_PIRATES_PARROT_UPG_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_PIRATE_INFO_DESCRIPTION</LocID>               <Text>UNIT_PIRATES_PIRATE_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_PIRATE_UPG_INFO_DESCRIPTION</LocID>           <Text>UNIT_PIRATES_PIRATE_UPG_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_PIRATE_SPECIAL</LocID>                        <Text>ABILITY_UNIT_PIRATE_SPECIAL</Text></GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CRAB_INFO_DESCRIPTION</LocID>                 <Text>UNIT_PIRATES_CRAB_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CRAB_UPG_INFO_DESCRIPTION</LocID>             <Text>UNIT_PIRATES_CRAB_UPG_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_PIRATES_BOUNTYHUNTER_UPG_SPECIAL</LocID>      <Text>ABILITY_UNIT_PIRATES_BOUNTYHUNTER_UPG_SPECIAL</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_FIRST_OFFICER_INFO_DESCRIPTION</LocID>        <Text>UNIT_PIRATES_FIRST_OFFICER_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            $1$2$4</GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CAPTAIN_INFO_DESCRIPTION</LocID>              <Text>UNIT_PIRATES_CAPTAIN_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_PIRATES_CAPTAIN_UPG_INFO_DESCRIPTION</LocID>          <Text>UNIT_PIRATES_CAPTAIN_UPG_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_PIRATES_CAPTAIN_UPG_SPECIAL</LocID>           <Text>ABILITY_UNIT_PIRATES_CAPTAIN_UPG_SPECIAL</Text></GameDBLocalizedString>
+
+            <!--Hero names-->
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_1</LocID>            <Text>HERO_PIRATE_1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_2</LocID>            <Text>HERO_PIRATE_2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_3</LocID>            <Text>HERO_PIRATE_3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_4</LocID>            <Text>HERO_PIRATE_4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_5</LocID>            <Text>HERO_PIRATE_5</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_6</LocID>            <Text>HERO_PIRATE_6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_7</LocID>            <Text>HERO_PIRATE_7</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_8</LocID>            <Text>HERO_PIRATE_8</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_9</LocID>            <Text>HERO_PIRATE_9</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_10</LocID>           <Text>HERO_PIRATE_10</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_11</LocID>           <Text>HERO_PIRATE_11</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_12</LocID>           <Text>HERO_PIRATE_12</Text>  </GameDBLocalizedString>
+
+            <!--Hero description-->
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

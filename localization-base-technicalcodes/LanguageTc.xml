@@ -1,0 +1,15 @@
+<Database>
+    <GameDBLanguage ID="LANG_TC">
+        <LanguageCode>tc</LanguageCode>
+        <LanguageNameLocalized>Technical Codes</LanguageNameLocalized>
+
+        <FontResourceName>JosefinSansExt-Regular SDF</FontResourceName>
+        <FontResourceNameLight>JosefinSansExt-Regular SDF</FontResourceNameLight>
+        <FontResourceNameLightItalic>JosefinSansExt-Regular SDF</FontResourceNameLightItalic>
+        <FontResourceNameOutline>JosefinSansExt-Regular SDF_outline</FontResourceNameOutline>
+        <FontResourceName3D>JosefinSansExt-Regular SDF_3D</FontResourceName3D>
+        <HeroNameFontResourceName>JosefinSansExt-Regular SDF</HeroNameFontResourceName>
+        
+        <MainMenuTextSize>20</MainMenuTextSize>
+    </GameDBLanguage>
+</Database>
