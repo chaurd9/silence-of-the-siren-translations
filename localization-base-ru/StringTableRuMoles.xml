@@ -1,10 +1,10 @@
 ﻿<Database>
-    <GameDBStringTable ID="LOC_EN_MOLES">
+    <GameDBStringTable ID="LOC_RU_MOLES">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GNERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -80,7 +80,7 @@
             <GameDBLocalizedString>         <LocID>ABILITY_UNIT_MECH_SPECIAL</LocID>                   <Text>Fires poisonous projectiles in all directions.</Text>  </GameDBLocalizedString>
 
             <!--Commander's names-->
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_1</LocID>                                 <Text>Maj. Skaurov</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_1</LocID>                                 <Text>М-р Скауров</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_2</LocID>                                 <Text>Commissar Snif</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_3</LocID>                                 <Text>Hak "the Rat"</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_4</LocID>                                 <Text>Agent Molsson</Text>  </GameDBLocalizedString>

@@ -1,10 +1,10 @@
 ﻿<Database>
-    <GameDBStringTable ID="LOC_EN_BASIC">
+    <GameDBStringTable ID="LOC_RU_BASIC">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_RU</LanguageRef>
         
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GMERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -79,10 +79,10 @@
             <GameDBLocalizedString>         <LocID>SHOW_SPACE</LocID>                                               <Text>Show orbit</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SHOW_DUNGEON</LocID>                                             <Text>Show underground</Text></GameDBLocalizedString>
       
-            <GameDBLocalizedString>         <LocID>DIFFICULTY</LocID>                                               <Text>Difficulty</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIFFICULTY_EASY</LocID>                                          <Text>Easy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIFFICULTY_MEDIUM</LocID>                                        <Text>Medium</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIFFICULTY_HARD</LocID>                                          <Text>Hard</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIFFICULTY</LocID>                                               <Text>Сложность</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIFFICULTY_EASY</LocID>                                          <Text>Легкая</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIFFICULTY_MEDIUM</LocID>                                        <Text>Средняя</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIFFICULTY_HARD</LocID>                                          <Text>Тяжелая</Text>  </GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>
