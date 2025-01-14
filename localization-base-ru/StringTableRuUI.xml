@@ -214,7 +214,7 @@
             <GameDBLocalizedString>         <LocID>ZOOM_OUT</LocID>                                         <Text>Zoom out [Scroll wheel down]</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>CONTINUE</LocID>                                         <Text>Продолжить</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>FOSSORIAN_CAMPAIGN</LocID>                               <Text>Кампания Fossorian</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>FOSSORIAN_CAMPAIGN</LocID>                               <Text>Кампания Фоссориан</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>OBJECTIVE_COMPLETE</LocID>                               <Text>OBJECTIVE COMPLETE:</Text>  </GameDBLocalizedString>
         </LocalizedStrings>

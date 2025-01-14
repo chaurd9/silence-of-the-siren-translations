@@ -13,7 +13,7 @@
             
             <GameDBLocalizedString>        <LocID>ICON_UNIT_RESIST</LocID>                                              <Text>Resist</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>        <LocID>OPTION_GRAPHICS_RESOLUTION_SCALE</LocID>                              <Text>Масштаб разрешения (карта)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>OPTION_GRAPHICS_RESOLUTION_SCALE</LocID>                              <Text>Resolution scale (map)</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>        <LocID>HEADING_OBJECTIVES_CAMPAIGN</LocID>                                   <Text>What lies ahead:</Text>  </GameDBLocalizedString>
 
@@ -59,18 +59,18 @@
             <GameDBLocalizedString>         <LocID>OBJECTIVE_CRYING_RIVER_KEEPER1</LocID>                               <Text>Return to the Keeper for your reward.</Text>  </GameDBLocalizedString>
             
             <!--LOADING TIPS TEXTS-->
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_01</LocID>                                               <Text>Sometimes it is better to attack a stronger army (moderate or high hazard) rather than get stuck around your base.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_02</LocID>                                               <Text>It can pay off to secure sufficient income before investing in production of units.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_03</LocID>                                               <Text>In combat, you can use one Commander Ability each round, as long as you have enough energy.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_04</LocID>                                               <Text>Be careful when attacking with your limited range units! If you get too close, your unit will receive a counter-attack like a melee unit would.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_05</LocID>                                               <Text>Some objects on the exploration map create zones inflicting positive or negative effects in their vicinity. Watch your step!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_06</LocID>                                               <Text>Don't forget to use your consumables when the time is right! For example when you are one step away from catching your enemy.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_07</LocID>                                               <Text>Moving units between commanders costs move points, so plan your army mergers carefully!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_08</LocID>                                               <Text>All factions have a way to unlock fast travel between bases.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_09</LocID>                                               <Text>When you don't have access to one specific resource, you can always buy some of it at your trading post.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_10</LocID>                                               <Text>When fighting local fauna, make sure you're approaching the creatures at the right time when they are most vulnerable!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_11</LocID>                                               <Text>War machines that you can build at each base are expensive, but can become a game changer.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_12</LocID>                                               <Text>If weird things keep happening around you and some actions seem too easy, you probably have a special skill or an artifact.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_01</LocID>                                               <Text>Иногда лучше атаковать более сильную армию (с умеренной или высокой опасностью), чем застрять возле своей базы.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_02</LocID>                                               <Text>Может быть выгоднее обеспечить достаточный доход, прежде чем вкладываться в производство существ.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_03</LocID>                                               <Text>В бою вы можете использовать одну способность командира за раунд, если у вас достаточно энергии.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_04</LocID>                                               <Text>Будьте осторожны при атаке существами с ограниченным радиусов действий! Если вы подойдете слишком близко, ваш юнит получит контратаку, как если бы это был ближний бой.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_05</LocID>                                               <Text>Некоторые объекты на карте исследований создают зоны, оказывающие положительные или отрицательные эффекты в их окрестностях. Будьте осторожны!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_06</LocID>                                               <Text>Не забывайте использовать свои расходные материалы в нужный момент! Например, когда вы на шаг близки к поимке врага.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_07</LocID>                                               <Text>Перемещение существ между командирами требует очки перемещения, поэтому тщательно планируйте слияние армий!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_08</LocID>                                               <Text>Все фракции имеют способ разблокировать быстрое перемещение между базами.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_09</LocID>                                               <Text>Если у вас нет доступа к какому-либо определённому ресурсу, вы всегда можете купить его на торговом посту.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_10</LocID>                                               <Text>Сражаясь с местной фауной, убедитесь, что вы подходите к существам в подходящее время, когда они наиболее уязвимы!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_11</LocID>                                               <Text>Боевые машины, которые можно построить на каждой базе являются дорогими, но могут повлиять на ход игры.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_12</LocID>                                               <Text>Если вокруг вас продолжают происходить странные вещи, а некоторые действия кажутся слишком лёгкими, вероятно, у вас есть особая способность или артефакт.</Text>  </GameDBLocalizedString>
 
             <!--_______________EQUIPMENT__________________________-->
             <GameDBLocalizedString>         <LocID>EQUIPMENT_SUBDERMAL_ARMOR_DESCRIPTION_V2</LocID>                     <Text><![CDATA[Increases the <color=SOTS_COLOR_BLUE>Defense</color> of bio units, based on the unit's level.]]></Text>  </GameDBLocalizedString>
