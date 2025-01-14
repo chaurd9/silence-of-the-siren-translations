@@ -146,7 +146,7 @@
             <GameDBLocalizedString>         <LocID>BUTTON_AUTO_COMBAT</LocID>                               <Text>Auto combat</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_SKIP</LocID>                                      <Text>Pass turn [P] [Space]</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_WAIT</LocID>                                      <Text>Wait [W]</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUTTON_FAVOURITE_ABILITIES</LocID>                       <Text>Commander's quick access abilities panel</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUTTON_FAVOURITE_ABILITIES</LocID>                       <Text>Панель быстрого доступа к способностям командира</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_ABILITIES</LocID>                                 <Text>Commander's abilities are available!\n(Click on your commander's face)!\n[A]</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_ABILITIES_AI</LocID>                              <Text>This commander can still use their abilities this round!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_ABILITIES_INACTIVE</LocID>                        <Text>Commander's abilities are not available</Text></GameDBLocalizedString>

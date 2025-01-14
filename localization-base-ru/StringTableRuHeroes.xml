@@ -1,10 +1,10 @@
 <Database>
-    <GameDBStringTable ID="LOC_EN_HEROES">
+    <GameDBStringTable ID="LOC_RU_HEROES">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GMERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -86,10 +86,10 @@
             <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_ENGINEER</LocID>                  <Text>Rechage energy points.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_EXPLORER</LocID>                  <Text>Increase movement points.</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BUILD</LocID>                       <Text>Build Structure</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BOOK</LocID>                        <Text>Ability Book</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_VISIT</LocID>                       <Text>Revisit the building the commander is currently in\nDefault shortcut: [Spacebar]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_PARK_HERO</LocID>                   <Text>Set up a camp and let the army train.\n\nThe commander will get a defensive bonus at the start of their next turn and will receive XP for each turn their army spent training.\n\n No dialogs will be shown about available actions of this commander and the "next commander" button will skip them.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BUILD</LocID>                       <Text>Построить сооружение</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BOOK</LocID>                        <Text>Справочник умений</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_VISIT</LocID>                       <Text>Вернуться в здание, в котором находится командир\nКлавиша по умолчанию: [Spacebar]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_PARK_HERO</LocID>                   <Text>Разбить лагерь и позволить армии тренироваться.\n\nКомандир получит бонус к защите в начале своего следующего хода и будет получать опыт за каждый ход, в котором армия участвовала в тренировках.\n\nДиалоговые окна о доступных действиях этого командира показываться не будут, и кнопка "следующий командир" будет его пропускать.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_UNPARK_HERO</LocID>                 <Text>Cancel training and reactivate this commander.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>DISMISS_HERO</LocID>                                     <Text>Dismiss this commander!</Text>  </GameDBLocalizedString>

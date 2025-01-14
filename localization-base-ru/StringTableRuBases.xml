@@ -1,10 +1,10 @@
 <Database>
-    <GameDBStringTable ID="LOC_EN_BASES">
+    <GameDBStringTable ID="LOC_RU_BASES">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GMERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -97,7 +97,7 @@
             <GameDBLocalizedString>         <LocID>BASE_UPGRADE</LocID>                                     <Text>You can upgrade this building for:</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>TOOLTIP_HERO_MEETING</LocID>                             <Text>Open commander meeting panel to trade items.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_HERO_CARD</LocID>                                <Text>Open commander card with inventory and more info.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_HERO_CARD</LocID>                                <Text>Открыть карточку героя с инвентарем и информацией о прокачке.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_SWITCH_ARMIES</LocID>                            <Text>Switch Armies: Garrison/Ungarrison Commanders</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_UP</LocID>                                 <Text>Merge units into the top army. (Commanders stay in their slots.)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_DOWN</LocID>                               <Text>Merge units into the bottom army. (Commanders stay in their slots.)</Text>  </GameDBLocalizedString>
@@ -139,12 +139,12 @@
             <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_ALREADY_BUILT</LocID>                      <Text>Already built.</Text>  </GameDBLocalizedString>
             
             <!-- Tooltips for base list in the right UI panel on the world map -->
-            <GameDBLocalizedString>         <LocID>BASE_CAN_BUILD</LocID>                                   <Text>There are upgrades available.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_CAN_NOT_BUILD</LocID>                               <Text>You don't have enough resources to build anything here.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_ALREADY_BUILT</LocID>                               <Text>The base can't be upgraded at the moment.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_COMPLETE</LocID>                                    <Text>This base has been completed.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_CAN_RECRUIT</LocID>                                 <Text>Units here are available for recruitment.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_CAN_NOT_RECRUIT</LocID>                             <Text>No units can be recruited at the moment.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_BUILD</LocID>                                   <Text>Доступны улучшения.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_NOT_BUILD</LocID>                               <Text>У вас недостаточно ресурсов для строительства.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_ALREADY_BUILT</LocID>                               <Text>Сейчас базу нельзя улучшить.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_COMPLETE</LocID>                                    <Text>Эта база построена.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_RECRUIT</LocID>                                 <Text>Здесь можно нанять существ.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_NOT_RECRUIT</LocID>                             <Text>Сейчас набор юнитов недоступен.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>TOOLTIP_ACADEMY_INFO</LocID>                             <Text>Show tutorial window for the Academy.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_ABOUT_THE_ACADEMY</LocID>                        <Text>About the Academy</Text>  </GameDBLocalizedString>
