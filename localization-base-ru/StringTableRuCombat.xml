@@ -1,10 +1,10 @@
 <Database>
-    <GameDBStringTable ID="LOC_EN_COMBAT">
+    <GameDBStringTable ID="LOC_RU_COMBAT">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GNERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -42,7 +42,7 @@
             <GameDBLocalizedString>         <LocID>NEW_LEVEL</LocID>                                             <Text>New Level</Text></GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>COMBAT_OK</LocID>                                             <Text>OK</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>COMBAT_CLOSE</LocID>                                          <Text>Close</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_CLOSE</LocID>                                          <Text>Закрыть</Text></GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_SCAVENGER</LocID>                               <Text>Deadeaters Gotta Eat!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_SCAVENGER_TEXT</LocID>                          <Text>Your army has scavenged some resources.</Text></GameDBLocalizedString>
