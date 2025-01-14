@@ -110,13 +110,13 @@
 
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_PHASE_HEADING</LocID>                <Text>EXPLORATION_TOOLTIP_PHASE_HEADING</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_PHASE_DESCRIPTION</LocID>            <Text>EXPLORATION_TOOLTIP_PHASE_DESCRIPTION</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_CURRENT_PHASE</LocID>                <Text>EXPLORATION_TOOLTIP_CURRENT_PHASE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_CURRENT_PHASE</LocID>                <Text><![CDATA[<color=SOTS_COLOR_FUSION_CORE>EXPLORATION_TOOLTIP_CURRENT_PHASE</color>: ]]></Text>  </GameDBLocalizedString>
 
             <!--top panel hover tooltips, related: KEYBOARD_EXPLORATION -->
             <GameDBLocalizedString>         <LocID>BUTTON_MENU_EXPLORATION</LocID>                          <Text>BUTTON_MENU_EXPLORATION</Text></GameDBLocalizedString>
 
             <!-- Keyboard layout info -->
-            <GameDBLocalizedString>         <LocID>KEYBOARD_EXPLORATION</LocID>                             <Text>KEYBOARD_EXPLORATION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>KEYBOARD_EXPLORATION</LocID>                             <Text><![CDATA[KEYBOARD_EXPLORATION]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_CLOSE_PANELS</LocID>                            <Text>KEYBOARD_CLOSE_PANELS</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_MOVE_CAMERA</LocID>                             <Text>KEYBOARD_MOVE_CAMERA</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_HIGHLIGHT_INTERACTIVE_BUILDINGS</LocID>         <Text>KEYBOARD_HIGHLIGHT_INTERACTIVE_BUILDINGS</Text>  </GameDBLocalizedString>
@@ -124,7 +124,7 @@
             <GameDBLocalizedString>         <LocID>KEYBOARD_NEXT_HERO</LocID>                               <Text>KEYBOARD_NEXT_HERO</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_CONFIRM_DIALOG</LocID>                          <Text>KEYBOARD_CONFIRM_DIALOG</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>KEYBOARD_COMBAT</LocID>                                  <Text>KEYBOARD_COMBAT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>KEYBOARD_COMBAT</LocID>                                  <Text><![CDATA[KEYBOARD_COMBAT]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_COMBAT_WAIT</LocID>                             <Text>KEYBOARD_COMBAT_WAIT</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_COMBAT_SKIP</LocID>                             <Text>KEYBOARD_COMBAT_SKIP</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_COMBAT_ABILITY_BOOK</LocID>                     <Text>KEYBOARD_COMBAT_ABILITY_BOOK</Text>  </GameDBLocalizedString>
@@ -202,7 +202,7 @@
             <GameDBLocalizedString>         <LocID>HERO_CARD_NEGATIVE_EFFECTS</LocID>                       <Text>HERO_CARD_NEGATIVE_EFFECTS</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EFFECT_COMBAT_END_LOC</LocID>                            <Text>EFFECT_COMBAT_END_LOC</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CONSUMABLE_USAGE</LocID>                                 <Text>CONSUMABLE_USAGE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CONSUMABLE_USAGE</LocID>                                 <Text><![CDATA[<color=SOTS_COLOR_GOLD>CONSUMABLE_USAGE]]></Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>ALL_DONE</LocID>                                         <Text>ALL_DONE</Text>  </GameDBLocalizedString>
             
