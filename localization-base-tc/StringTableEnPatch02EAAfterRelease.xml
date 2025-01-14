@@ -1,0 +1,45 @@
+<Database>
+    <GameDBStringTable ID="LOC_TC_PATCH_02">
+
+        <LanguageRef>LANG_TC</LanguageRef>
+
+        <Contributors>
+            <Name>Oxymoron Games</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>        <LocID>HERO_MOLE_8_DESCRIPTION_V2</LocID>                                      <Text>HERO_MOLE_8_DESCRIPTION_V2</Text>  </GameDBLocalizedString>
+
+            <!--MAP Bridges too far - translate by google-->
+            <GameDBLocalizedString>         <LocID>MESSAGE_BRIDGES_TOO_FAR_BLOCKED_PATH</LocID>                         <Text>MESSAGE_BRIDGES_TOO_FAR_BLOCKED_PATH</Text>  </GameDBLocalizedString>
+            
+            <!--New descriptions with new IDs-->
+            <GameDBLocalizedString>         <LocID>CONSUMABLE_EXTRA_RATIONS_DESCRIPTION_V2</LocID>                      <Text><![CDATA[CONSUMABLE_EXTRA_RATIONS_DESCRIPTION_V2]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EASY_PREY_DESCRIPTION_V2</LocID>            <Text>ABILITY_HERO_EXPLORATION_EASY_PREY_DESCRIPTION_V2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EASY_PREY_DESCRIPTION_LVL2_V2</LocID>       <Text>ABILITY_HERO_EXPLORATION_EASY_PREY_DESCRIPTION_LVL2_V2</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_SWITCH_TO_RATLING_PROJECTS_V2</LocID>               <Text><![CDATA[TUTORIAL_01_BASE_SWITCH_TO_RATLING_PROJECTS_V2]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_OUT_OFF_RATLING_PROJECTS_V2</LocID>                 <Text><![CDATA[TUTORIAL_01_BASE_OUT_OFF_RATLING_PROJECTS_V2]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>ARTIFACT_BLOODTHIRSTY_SOUL_DESCRIPTION_V2</LocID>                    <Text>ARTIFACT_BLOODTHIRSTY_SOUL_DESCRIPTION_V2</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>DIALOG_ABILITY_REINFORCEMENT_TEXT_V2</LocID>                         <Text><![CDATA[DIALOG_ABILITY_REINFORCEMENT_TEXT_V2]]></Text>  </GameDBLocalizedString>
+            
+            <!-- Updated lines, can't change IDs here (we can delete the original lines after translation) -->
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_BARBARIAN_HORDE_3</LocID>                              <Text>STATUS_EFFECT_BARBARIAN_HORDE_3</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_EASY_PREY_3</LocID>                                    <Text>STATUS_EFFECT_EASY_PREY_3</Text></GameDBLocalizedString>
+
+            <!-- Shared names for common objects on all battlefields -->
+            <GameDBLocalizedString>         <LocID>COMBAT_TILE_OBJECT_GENERIC_LOOPHOLE</LocID>                          <Text>COMBAT_TILE_OBJECT_GENERIC_LOOPHOLE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_TILE_OBJECT_GENERIC_GATE</LocID>                              <Text>COMBAT_TILE_OBJECT_GENERIC_GATE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_TILE_OBJECT_GENERIC_WALL</LocID>                              <Text>COMBAT_TILE_OBJECT_GENERIC_WALL</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_TILE_OBJECT_GENERIC_WALL_UPG</LocID>                          <Text>COMBAT_TILE_OBJECT_GENERIC_WALL_UPG</Text></GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>AbilityAvailability_NO_FREE_PLAYER_BASE_ON_MAP_LAYER</LocID>         <Text>AbilityAvailability_NO_FREE_PLAYER_BASE_ON_MAP_LAYER</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EARLY_ACCESS_HEADING</LocID>                                         <Text>EARLY_ACCESS_HEADING</Text>  </GameDBLocalizedString>
+            
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

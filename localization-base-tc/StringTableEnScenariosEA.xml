@@ -1,0 +1,165 @@
+<Database>
+    <GameDBStringTable ID="LOC_TC_SCENARIOS_EA">
+
+        <LanguageRef>LANG_TC</LanguageRef>
+
+        <Contributors>
+            <Name>Oxymoron Games</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <!-- GENERAL OBJECTIVE(s)-->
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_GENERAL_SKIRMISH</LocID>                                   <Text>OBJECTIVE_GENERAL_SKIRMISH</Text>  </GameDBLocalizedString>
+            
+            <!--_______________CONFLUENCE__________________________-->
+            <GameDBLocalizedString>        <LocID>EA_CONFLUENCE_ID</LocID>                                              <Text>EA_CONFLUENCE_ID</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>EA_CONFLUENCE_DESCRIPTION</LocID>                                     <Text><![CDATA[EA_CONFLUENCE_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+           <GameDBLocalizedString>         <LocID>EA_CONFLUENCE_INTRO</LocID>                                           <Text>EA_CONFLUENCE_INTRO</Text>  </GameDBLocalizedString>
+           <GameDBLocalizedString>         <LocID>EA_CONFLUENCE_VICTORY</LocID>                                         <Text>EA_CONFLUENCE_VICTORY</Text>    </GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_KEEPER</LocID>                                    <Text>MESSAGE_CONFLUENCE_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_COMANDER</LocID>                                  <Text>MESSAGE_CONFLUENCE_COMANDER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_KEEPER1</LocID>                                   <Text>MESSAGE_CONFLUENCE_KEEPER1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_KEEPER2</LocID>                                   <Text>MESSAGE_CONFLUENCE_KEEPER2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_KEEPER3</LocID>                                   <Text>MESSAGE_CONFLUENCE_KEEPER3</Text>  </GameDBLocalizedString>
+          
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_KEEPER_NOT_DONE</LocID>                           <Text>MESSAGE_CONFLUENCE_KEEPER_NOT_DONE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_KEEPER_DONE</LocID>                               <Text>MESSAGE_CONFLUENCE_KEEPER_DONE</Text>  </GameDBLocalizedString>
+ 
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CONFLUENCE_KEEPER</LocID>                                  <Text>OBJECTIVE_CONFLUENCE_KEEPER</Text>  </GameDBLocalizedString>
+            
+            
+            <!--_____________AWAIT_______________________-->
+            <GameDBLocalizedString>         <LocID>EA_AWAIT_ID</LocID>                                                  <Text>EA_AWAIT_ID</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_AWAIT_DESCRIPTION</LocID>                                         <Text><![CDATA[EA_AWAIT_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_AWAIT_INTRO</LocID>                                               <Text>EA_AWAIT_INTRO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_AWAIT_VICTORY</LocID>                                             <Text>EA_AWAIT_VICTORY</Text>  </GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>MESSAGE_AWAIT_KEEPER</LocID>                                         <Text>MESSAGE_AWAIT_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_AWAIT_KEEPER1</LocID>                                        <Text>MESSAGE_AWAIT_KEEPER1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_AWAIT_KEEPER2</LocID>                                        <Text>MESSAGE_AWAIT_KEEPER2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_AWAIT_KEEPER4</LocID>                                        <Text>MESSAGE_AWAIT_KEEPER4</Text>  </GameDBLocalizedString>
+
+            
+            <!--_________________GOLD FEVER_______________________-->
+            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_ID</LocID>                                             <Text>EA_GOLD_FEVER_ID</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_DESCRIPTION</LocID>                                    <Text><![CDATA[EA_GOLD_FEVER_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_INTRO</LocID>                                          <Text>EA_GOLD_FEVER_INTRO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_VICTORY</LocID>                                        <Text>EA_GOLD_FEVER_VICTORY</Text>  </GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_KEEPER</LocID>                                    <Text>MESSAGE_GOLD_FEVER_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_KEEPER1</LocID>                                   <Text>MESSAGE_GOLD_FEVER_KEEPER1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_KEEPER2</LocID>                                   <Text>MESSAGE_GOLD_FEVER_KEEPER2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_KEEPER3</LocID>                                   <Text>MESSAGE_GOLD_FEVER_KEEPER3</Text>  </GameDBLocalizedString>
+         
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_KEEPER_NOT_DONE</LocID>                           <Text>MESSAGE_GOLD_FEVER_KEEPER_NOT_DONE</Text>  </GameDBLocalizedString>
+              
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_KEEPER_DONE</LocID>                               <Text>MESSAGE_GOLD_FEVER_KEEPER_DONE</Text>  </GameDBLocalizedString>
+                
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_DONE_DONE</LocID>                                 <Text>MESSAGE_GOLD_FEVER_DONE_DONE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_GOLD_FEVER_KEEPER</LocID>                                  <Text>OBJECTIVE_GOLD_FEVER_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_GOLD_FEVER_KEEPER1</LocID>                                 <Text>OBJECTIVE_GOLD_FEVER_KEEPER1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_GOLD_FEVER_KEEPER2</LocID>                                 <Text>OBJECTIVE_GOLD_FEVER_KEEPER2</Text>  </GameDBLocalizedString>
+
+
+            <!--_____________________ARCH_____________________________________________________-->
+            <GameDBLocalizedString>         <LocID>MAP_SCENARIO_EA_ARCH</LocID>                                         <Text>MAP_SCENARIO_EA_ARCH</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAP_SCENARIO_EA_ARCH_DESCRIPTION</LocID>                             <Text><![CDATA[MAP_SCENARIO_EA_ARCH_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAP_SCENARIO_EA_ARCH_INTRODUCTION</LocID>                            <Text>MAP_SCENARIO_EA_ARCH_INTRODUCTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAP_SCENARIO_EA_ARCH_VICTORY</LocID>                                 <Text>MAP_SCENARIO_EA_ARCH_VICTORY</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>MESSAGE_ARCH_KEEPER</LocID>                                          <Text>MESSAGE_ARCH_KEEPER</Text>  </GameDBLocalizedString>
+            
+            <!-- TODO the unit name -->
+            <GameDBLocalizedString>         <LocID>MESSAGE_ARCH_KEEPER1</LocID>                                         <Text>MESSAGE_ARCH_KEEPER1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_ARCH_KEEPER2</LocID>                                         <Text>MESSAGE_ARCH_KEEPER2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_ARCH_KEEPER_DONE</LocID>                                     <Text>MESSAGE_ARCH_KEEPER_DONE</Text>  </GameDBLocalizedString>
+
+            <!-- TODO the unit name -->
+            <GameDBLocalizedString>         <LocID>MESSAGE_ARCH_KEEPER_NOT_DONE</LocID>                                 <Text>MESSAGE_ARCH_KEEPER_NOT_DONE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_ARCH_DONE_DONE</LocID>                                       <Text>MESSAGE_ARCH_DONE_DONE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_ARCH_KEEPER</LocID>                                        <Text>OBJECTIVE_ARCH_KEEPER</Text>  </GameDBLocalizedString>
+
+
+            <!--_______________CRUMBS__________________________-->
+            <GameDBLocalizedString>         <LocID>EA_CRUMBS_ID</LocID>                                                 <Text>EA_CRUMBS_ID</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_CRUMBS_DESCRIPTION</LocID>                                        <Text><![CDATA[EA_CRUMBS_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_CRUMBS_INTRO</LocID>                                              <Text><![CDATA[EA_CRUMBS_INTRO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_CRUMBS_VICTORY</LocID>                                            <Text>EA_CRUMBS_VICTORY</Text>    </GameDBLocalizedString>
+   
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_10</LocID>                                            <Text><![CDATA[MESSAGE_CRUMBS_10]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_9</LocID>                                             <Text><![CDATA[MESSAGE_CRUMBS_9]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_8</LocID>                                             <Text><![CDATA[MESSAGE_CRUMBS_8]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_7</LocID>                                             <Text><![CDATA[MESSAGE_CRUMBS_7]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_6</LocID>                                             <Text><![CDATA[MESSAGE_CRUMBS_6]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_5</LocID>                                             <Text><![CDATA[MESSAGE_CRUMBS_5]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_4</LocID>                                             <Text><![CDATA[MESSAGE_CRUMBS_4]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_3</LocID>                                             <Text><![CDATA[MESSAGE_CRUMBS_3]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_2</LocID>                                             <Text><![CDATA[MESSAGE_CRUMBS_2]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_1</LocID>                                             <Text><![CDATA[MESSAGE_CRUMBS_1]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_0</LocID>                                             <Text><![CDATA[MESSAGE_CRUMBS_0]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_KEEPER</LocID>                                        <Text>MESSAGE_CRUMBS_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_KEEPER1</LocID>                                       <Text>MESSAGE_CRUMBS_KEEPER1</Text>  </GameDBLocalizedString>
+      
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_KEEPER2</LocID>                                       <Text>MESSAGE_CRUMBS_KEEPER2</Text>  </GameDBLocalizedString>
+          
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_KEEPER3</LocID>                                       <Text>MESSAGE_CRUMBS_KEEPER3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_KEEPER4</LocID>                                       <Text>MESSAGE_CRUMBS_KEEPER4</Text>  </GameDBLocalizedString>
+         
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_COMMANDER</LocID>                                     <Text>MESSAGE_CRUMBS_COMMANDER</Text>  </GameDBLocalizedString>
+     
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_DONE_DONE</LocID>                                     <Text>MESSAGE_CRUMBS_DONE_DONE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CRUMBS_KEEPER</LocID>                                      <Text>OBJECTIVE_CRUMBS_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CRUMBS_KEEPER1</LocID>                                     <Text>OBJECTIVE_CRUMBS_KEEPER1</Text>  </GameDBLocalizedString>
+
+            
+            <!--_______________RIFT__________________________-->
+            <GameDBLocalizedString>         <LocID>EA_RIFT_ID</LocID>                                                   <Text>EA_RIFT_ID</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_RIFT_DESCRIPTION</LocID>                                          <Text><![CDATA[EA_RIFT_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_RIFT_INTRO</LocID>                                                <Text>EA_RIFT_INTRO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_RIFT_VICTORY</LocID>                                              <Text>EA_RIFT_VICTORY</Text>    </GameDBLocalizedString>
+    
+    
+            <GameDBLocalizedString>         <LocID>MESSAGE_RIFT_TELEPORT</LocID>                                        <Text>MESSAGE_RIFT_TELEPORT</Text>  </GameDBLocalizedString>
+               
+            <GameDBLocalizedString>         <LocID>MESSAGE_RIFT_KEEPER</LocID>                                          <Text>MESSAGE_RIFT_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_RIFT_KEEPER1</LocID>                                         <Text>MESSAGE_RIFT_KEEPER1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_RIFT_KEEPER2</LocID>                                         <Text>MESSAGE_RIFT_KEEPER2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_RIFT_KEEPER3</LocID>                                         <Text>MESSAGE_RIFT_KEEPER3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_RIFT_KEEPER4</LocID>                                         <Text>MESSAGE_RIFT_KEEPER4</Text>  </GameDBLocalizedString>
+          
+            <GameDBLocalizedString>         <LocID>MESSAGE_RIFT_KEEPER5</LocID>                                         <Text>MESSAGE_RIFT_KEEPER5</Text>  </GameDBLocalizedString>
+
+                
+            <!--_______________TEAR__________________________-->
+            <GameDBLocalizedString>         <LocID>EA_TEAR_ID</LocID>                                                   <Text>EA_TEAR_ID</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_TEAR_DESCRIPTION</LocID>                                          <Text><![CDATA[EA_TEAR_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_TEAR_INTRO</LocID>                                                <Text>EA_TEAR_INTRO</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_TEAR_VICTORY</LocID>                                              <Text>EA_TEAR_VICTORY</Text>    </GameDBLocalizedString>
+        
+        
+            <GameDBLocalizedString>         <LocID>MESSAGE_TEAR_KEEPER</LocID>                                          <Text>MESSAGE_TEAR_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_TEAR_KEEPER1</LocID>                                         <Text>MESSAGE_TEAR_KEEPER1</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>MESSAGE_TEAR_KEEPER2</LocID>                                         <Text>MESSAGE_TEAR_KEEPER2</Text>  </GameDBLocalizedString>
+           
+            <GameDBLocalizedString>         <LocID>MESSAGE_TEAR_KEEPER3</LocID>                                         <Text>MESSAGE_TEAR_KEEPER3</Text>  </GameDBLocalizedString>
+          
+            <GameDBLocalizedString>         <LocID>MESSAGE_TEAR_KEEPER4</LocID>                                         <Text>MESSAGE_TEAR_KEEPER4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_TEAR_KEEPER5</LocID>                                         <Text>MESSAGE_TEAR_KEEPER5</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_TEAR_KEEPER6</LocID>                                         <Text>MESSAGE_TEAR_KEEPER6</Text>  </GameDBLocalizedString>
+                
+                
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_TEAR_KEEPER</LocID>                                        <Text>OBJECTIVE_TEAR_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_TEAR_KEEPER1</LocID>                                       <Text>OBJECTIVE_TEAR_KEEPER1</Text>  </GameDBLocalizedString>
+        
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

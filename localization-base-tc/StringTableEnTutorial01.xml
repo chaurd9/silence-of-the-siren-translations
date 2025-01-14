@@ -1,0 +1,151 @@
+<Database>
+    <GameDBStringTable ID="LOC_TC_TUTORIAL_01">
+
+        <LanguageRef>LANG_TC</LanguageRef>
+
+        <Contributors>
+            <Name>Oxymoron Games</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>         <LocID>NEXT_STEP</LocID>                                <Text>NEXT_STEP</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_PLAYER_NAME</LocID>                     <Text>TUTORIAL_PLAYER_NAME</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_TUTORIAL_WELCOME</LocID>             <Text>TUTORIAL_01_TUTORIAL_WELCOME</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_WELCOME</LocID>                      <Text><![CDATA[TUTORIAL_01_WELCOME]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_STEP_MOVE_CAMERA</LocID>             <Text><![CDATA[TUTORIAL_01_STEP_MOVE_CAMERA]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_STEP_ZOOM_CAMERA</LocID>             <Text><![CDATA[TUTORIAL_01_STEP_ZOOM_CAMERA]]></Text>  </GameDBLocalizedString><!--let's use the mouse wheel (or TODO buttons)-->
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_STEP_COMMANDERS</LocID>              <Text><![CDATA[TUTORIAL_01_STEP_COMMANDERS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_STEP_DISCOVER</LocID>                <Text><![CDATA[TUTORIAL_01_STEP_DISCOVER]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_CHEST</LocID>                        <Text><![CDATA[TUTORIAL_01_CHEST]]></Text>  </GameDBLocalizedString>
+           
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_ATTRIBUTES</LocID>                   <Text><![CDATA[TUTORIAL_01_ATTRIBUTES]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_SKILLS</LocID>                       <Text><![CDATA[TUTORIAL_01_SKILLS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_LEVEL_UP</LocID>                     <Text><![CDATA[TUTORIAL_01_LEVEL_UP]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_TURN_BASED_EXPLANATION</LocID>       <Text><![CDATA[TUTORIAL_01_TURN_BASED_EXPLANATION]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_RIGHT_PANEL_EXPLANATION</LocID>      <Text><![CDATA[TUTORIAL_01_RIGHT_PANEL_EXPLANATION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_CHEST_HOARD</LocID>                  <Text><![CDATA[TUTORIAL_01_CHEST_HOARD]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_END_TURN</LocID>                     <Text><![CDATA[TUTORIAL_01_END_TURN]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_CHEST_HOARD_PART_TWO</LocID>         <Text><![CDATA[TUTORIAL_01_CHEST_HOARD_PART_TWO]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_OPEN_HERO_CARD</LocID>               <Text><![CDATA[TUTORIAL_01_OPEN_HERO_CARD]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HERO_CARD_INFO</LocID>               <Text><![CDATA[TUTORIAL_01_HERO_CARD_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HERO_CARD_UNDER_PORTRAIT</LocID>     <Text><![CDATA[TUTORIAL_01_HERO_CARD_UNDER_PORTRAIT]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HERO_CARD_MOVE_AND_ENERGY_POINTS</LocID><Text><![CDATA[TUTORIAL_01_HERO_CARD_MOVE_AND_ENERGY_POINTS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HERO_CARD_MORALE</LocID>             <Text><![CDATA[TUTORIAL_01_HERO_CARD_MORALE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HERO_CARD_ARMY</LocID>               <Text><![CDATA[TUTORIAL_01_HERO_CARD_ARMY]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_CONSUMABLE</LocID>                   <Text><![CDATA[TUTORIAL_01_CONSUMABLE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_CLOSE_HERO_CARD</LocID>              <Text><![CDATA[TUTORIAL_01_CLOSE_HERO_CARD]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_ITEM_PICK_UP</LocID>                 <Text><![CDATA[TUTORIAL_01_ITEM_PICK_UP]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_INVENTORY_AGAIN</LocID>              <Text><![CDATA[TUTORIAL_01_INVENTORY_AGAIN]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_ITEMS_AND_ENERGY</LocID>             <Text><![CDATA[TUTORIAL_01_ITEMS_AND_ENERGY]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_ITEM_EQUIP</LocID>                   <Text><![CDATA[TUTORIAL_01_ITEM_EQUIP]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_CLOSE_HERO_CARD_RESOURCES</LocID>    <Text><![CDATA[TUTORIAL_01_CLOSE_HERO_CARD_RESOURCES]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_RESOURCES_EXPLANATION</LocID>        <Text><![CDATA[TUTORIAL_01_RESOURCES_EXPLANATION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_MINE_CAPTURE</LocID>                 <Text><![CDATA[TUTORIAL_01_MINE_CAPTURE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_MINE_EXIT</LocID>                    <Text><![CDATA[TUTORIAL_01_MINE_EXIT]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_MOVE_HERO_CLOSER_TO_BASE</LocID>     <Text><![CDATA[TUTORIAL_01_MOVE_HERO_CLOSER_TO_BASE]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HIGHLIGHT_EXPLAINED</LocID>          <Text><![CDATA[TUTORIAL_01_HIGHLIGHT_EXPLAINED]]></Text>  </GameDBLocalizedString>
+           
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_SELECT_BASE</LocID>                  <Text><![CDATA[TUTORIAL_01_SELECT_BASE]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_INTRODUCTION</LocID>                    <Text><![CDATA[TUTORIAL_01_BASE_INTRODUCTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_LIST_AND_MINIMAP</LocID>                <Text><![CDATA[TUTORIAL_01_BASE_LIST_AND_MINIMAP]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_BASE_DETAILS</LocID>                    <Text><![CDATA[TUTORIAL_01_BASE_BASE_DETAILS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_BASE_GO_TO_BUILDING</LocID>             <Text><![CDATA[TUTORIAL_01_BASE_BASE_GO_TO_BUILDING]]></Text>  </GameDBLocalizedString><!--main building (TODO outline), shortcut button (TODO arrow) -->
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_BASE_BUILDING_CATALOG</LocID>           <Text><![CDATA[TUTORIAL_01_BASE_BASE_BUILDING_CATALOG]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_BASE_BUILDING_CATALOG_ACADEMY</LocID>   <Text><![CDATA[TUTORIAL_01_BASE_BASE_BUILDING_CATALOG_ACADEMY]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_BUILDING_EXPLANATION</LocID>            <Text><![CDATA[TUTORIAL_01_BASE_BUILDING_EXPLANATION]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_SWITCH_TO_ACADEMY</LocID>           <Text><![CDATA[TUTORIAL_01_BASE_SWITCH_TO_ACADEMY]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_IN_ACADEMY</LocID>                  <Text><![CDATA[TUTORIAL_01_BASE_IN_ACADEMY]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_OUT_OFF_ACADEMY</LocID>             <Text><![CDATA[TUTORIAL_01_BASE_OUT_OFF_ACADEMY]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_SWITCH_TO_RATLING_PROJECTS_V2</LocID>  <Text><![CDATA[TUTORIAL_01_BASE_SWITCH_TO_RATLING_PROJECTS_V2]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_IN_RATLING_PROJECTS</LocID>         <Text><![CDATA[TUTORIAL_01_BASE_IN_RATLING_PROJECTS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_OUT_OFF_RATLING_PROJECTS_V2</LocID>    <Text><![CDATA[TUTORIAL_01_BASE_OUT_OFF_RATLING_PROJECTS_V2]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_IN_HIRING</LocID>                   <Text><![CDATA[TUTORIAL_01_BASE_IN_HIRING]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_HIRING_INFO</LocID>                 <Text><![CDATA[TUTORIAL_01_BASE_HIRING_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_HIRE_ALL</LocID>                    <Text><![CDATA[TUTORIAL_01_BASE_HIRE_ALL]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_HIRE_ALL_CLOSE</LocID>              <Text><![CDATA[TUTORIAL_01_BASE_HIRE_ALL_CLOSE]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_COMMANDERS</LocID>                  <Text><![CDATA[TUTORIAL_01_BASE_COMMANDERS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_HIRE_COMMANDERS_INFO</LocID>        <Text><![CDATA[TUTORIAL_01_BASE_HIRE_COMMANDERS_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_HIRE_COMMANDER</LocID>              <Text><![CDATA[TUTORIAL_01_BASE_HIRE_COMMANDER]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_ARMY_INFO</LocID>                   <Text><![CDATA[TUTORIAL_01_BASE_ARMY_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_UNIT_INFO</LocID>                   <Text><![CDATA[TUTORIAL_01_BASE_UNIT_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_UNIT_SPLIT</LocID>                  <Text><![CDATA[TUTORIAL_01_BASE_UNIT_SPLIT]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_UNIT_SPLIT_PLACE</LocID>            <Text><![CDATA[TUTORIAL_01_BASE_UNIT_SPLIT_PLACE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_UNIT_UPGRADE</LocID>                <Text><![CDATA[TUTORIAL_01_BASE_UNIT_UPGRADE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_ARMY_MERGE</LocID>                  <Text><![CDATA[TUTORIAL_01_BASE_ARMY_MERGE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BASE_EXIT_BASE</LocID>                   <Text><![CDATA[TUTORIAL_01_BASE_EXIT_BASE]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HERO_MEETING</LocID>                     <Text><![CDATA[TUTORIAL_01_HERO_MEETING]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HERO_MEETING_CARD</LocID>                <Text><![CDATA[TUTORIAL_01_HERO_MEETING_CARD]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HERO_MEETING_CARD_MOVE_ARMY</LocID>      <Text><![CDATA[TUTORIAL_01_HERO_MEETING_CARD_MOVE_ARMY]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HERO_MEETING_CARD_CLOSE</LocID>          <Text><![CDATA[TUTORIAL_01_HERO_MEETING_CARD_CLOSE]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_HERO_WEAK_ARMY_INFO</LocID>              <Text><![CDATA[TUTORIAL_01_HERO_WEAK_ARMY_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_GO_TO_COMBAT</LocID>                     <Text><![CDATA[TUTORIAL_01_GO_TO_COMBAT]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_LAYOUT</LocID>              <Text><![CDATA[TUTORIAL_01_START_COMBAT_LAYOUT]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_UNIT_OPEN_CARD</LocID>      <Text><![CDATA[TUTORIAL_01_START_COMBAT_UNIT_OPEN_CARD]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_UNIT_INFO</LocID>           <Text><![CDATA[TUTORIAL_01_START_COMBAT_UNIT_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_UNIT_RANGE</LocID>          <Text><![CDATA[TUTORIAL_01_START_COMBAT_UNIT_RANGE]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_BASIC_INFO</LocID>          <Text><![CDATA[TUTORIAL_01_START_COMBAT_BASIC_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_WAIT</LocID>                <Text><![CDATA[TUTORIAL_01_START_COMBAT_WAIT]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_SKIP</LocID>                <Text><![CDATA[TUTORIAL_01_START_COMBAT_SKIP]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_LOG_INFO</LocID>            <Text><![CDATA[TUTORIAL_01_START_COMBAT_LOG_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_AUTO_BATTLE_BUTTON</LocID>  <Text><![CDATA[TUTORIAL_01_START_COMBAT_AUTO_BATTLE_BUTTON]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_RETREAT_BUTTON</LocID>      <Text><![CDATA[TUTORIAL_01_START_COMBAT_RETREAT_BUTTON]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_SURRENDER_BUTTON</LocID>    <Text><![CDATA[TUTORIAL_01_START_COMBAT_SURRENDER_BUTTON]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_SPEED_BUTTONS</LocID>       <Text><![CDATA[TUTORIAL_01_START_COMBAT_SPEED_BUTTONS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_HEXES</LocID>               <Text><![CDATA[TUTORIAL_01_START_COMBAT_HEXES]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_RANGED_UNIT_SELECT</LocID>  <Text><![CDATA[TUTORIAL_01_START_COMBAT_RANGED_UNIT_SELECT]]></Text>  </GameDBLocalizedString><!-- Wait for the enemy to come into the range.--> <!--Wait with “Ratling gunner”.-->
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_RANGED_UNIT_SHOOT</LocID>   <Text><![CDATA[TUTORIAL_01_START_COMBAT_RANGED_UNIT_SHOOT]]></Text>  </GameDBLocalizedString><!-- Wait for the enemy to come into the range.--> <!--Wait with “Ratling gunner”.-->
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_HEX_ATTACKS</LocID>         <Text><![CDATA[TUTORIAL_01_START_COMBAT_HEX_ATTACKS]]></Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_RANGE_UNIT_AGAIN</LocID>    <Text><![CDATA[TUTORIAL_01_START_COMBAT_RANGE_UNIT_AGAIN]]></Text>  </GameDBLocalizedString><!--Try some melee attack. Aim on the border of hex under enemy units. -->
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_MELEE_UNIT</LocID>          <Text><![CDATA[TUTORIAL_01_START_COMBAT_MELEE_UNIT]]></Text>  </GameDBLocalizedString><!--Try some melee attack. Aim on the border of hex under enemy units. -->
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_WIN</LocID>                 <Text><![CDATA[TUTORIAL_01_START_COMBAT_WIN]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_FIRST_BATTLE_WON</LocID>           <Text><![CDATA[TUTORIAL_01_START_FIRST_BATTLE_WON]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_LEARN_SKILL_TECHIE</LocID>               <Text><![CDATA[TUTORIAL_01_LEARN_SKILL_TECHIE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_LEARN_ABILITY</LocID>                    <Text><![CDATA[TUTORIAL_01_LEARN_ABILITY]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_VISIT_DOJO</LocID>                       <Text><![CDATA[TUTORIAL_01_VISIT_DOJO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_LEARN_SKILL_CHESS_MASTER</LocID>         <Text><![CDATA[TUTORIAL_01_LEARN_SKILL_CHESS_MASTER]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_LEARN_SKILL_GLOBETROTTER</LocID>         <Text><![CDATA[TUTORIAL_01_LEARN_SKILL_GLOBETROTTER]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_LEARN_ABILITY_RUSH</LocID>               <Text><![CDATA[TUTORIAL_01_LEARN_ABILITY_RUSH]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_USE_EXPLORATION_ABILITY</LocID>          <Text><![CDATA[TUTORIAL_01_USE_EXPLORATION_ABILITY]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BUILDING_INFO</LocID>                    <Text><![CDATA[TUTORIAL_01_BUILDING_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_MOVE_TO_BUILD</LocID>                    <Text><![CDATA[TUTORIAL_01_MOVE_TO_BUILD]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_LEARN_PROBE_INFO</LocID>                 <Text><![CDATA[TUTORIAL_01_LEARN_PROBE_INFO]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BUILD_PROBE</LocID>                      <Text><![CDATA[TUTORIAL_01_BUILD_PROBE]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_BUILDER_SKILL</LocID>                    <Text><![CDATA[TUTORIAL_01_BUILDER_SKILL]]></Text>  </GameDBLocalizedString>
+           
+            <!-- Do we call it a book officially? :) -->
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_LAST_COMBAT</LocID>                      <Text><![CDATA[TUTORIAL_01_LAST_COMBAT]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_START_COMBAT_TACTICS</LocID>             <Text><![CDATA[TUTORIAL_01_START_COMBAT_TACTICS]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_USE_UNIT_SPECIAL_ABILITY</LocID>         <Text><![CDATA[TUTORIAL_01_USE_UNIT_SPECIAL_ABILITY]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_USE_COMBAT_ABILITY</LocID>               <Text><![CDATA[TUTORIAL_01_USE_COMBAT_ABILITY]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_LAST_BATTLE_WON</LocID>                  <Text><![CDATA[TUTORIAL_01_LAST_BATTLE_WON]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_TUTORIAL_COMPLETED</LocID>               <Text><![CDATA[TUTORIAL_01_TUTORIAL_COMPLETED]]></Text>  </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
