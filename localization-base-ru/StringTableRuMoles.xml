@@ -8,7 +8,7 @@
         </Contributors>
 
         <LocalizedStrings>
-            <GameDBLocalizedString>         <LocID>FACTION_MOLES</LocID>                               <Text>Fossorians</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>FACTION_MOLES</LocID>                               <Text>Фоссориане</Text></GameDBLocalizedString>
                                                                                                   
             <!--Unit names-->                                                                     
             <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT</LocID>                          <Text>Ratling Goon</Text></GameDBLocalizedString>
@@ -80,21 +80,21 @@
             <GameDBLocalizedString>         <LocID>ABILITY_UNIT_MECH_SPECIAL</LocID>                   <Text>Fires poisonous projectiles in all directions.</Text>  </GameDBLocalizedString>
 
             <!--Commander's names-->
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_1</LocID>                                 <Text>М-р Скауров</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_2</LocID>                                 <Text>Commissar Snif</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_3</LocID>                                 <Text>Hak "the Rat"</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_4</LocID>                                 <Text>Agent Molsson</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_5</LocID>                                 <Text>Sgt. Moltair</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_6</LocID>                                 <Text>Tax Collector Tott</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_7</LocID>                                 <Text>Lt. Moletoff</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_8</LocID>                                 <Text>Capt. Holester</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_9</LocID>                                 <Text>Gen. Truda </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_10</LocID>                                <Text>Bulletproof Beni</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_11</LocID>                                <Text>Long Molly</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_12</LocID>                                <Text>Supreme Leader</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_13</LocID>                                <Text>Cmdr. Muff</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_14</LocID>                                <Text>Gen. Furret</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_15</LocID>                                <Text>Relic</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_1</LocID>                                 <Text>М-р.СкауроВ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_2</LocID>                                 <Text>Комиссар Сниф</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_3</LocID>                                 <Text>Хак "Крыса"</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_4</LocID>                                 <Text>Агент Молссон</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_5</LocID>                                 <Text>С-т.Мольтеир</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_6</LocID>                                 <Text>Сборщик налогов Тотт</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_7</LocID>                                 <Text>Л-т.Молетов</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_8</LocID>                                 <Text>К-н.Холестер</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_9</LocID>                                 <Text>Ген.Труда</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_10</LocID>                                <Text>Пуленепробиваемый Бени</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_11</LocID>                                <Text>Долгая Молли</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_12</LocID>                                <Text>Верховный лидер</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_13</LocID>                                <Text>Командир Мафф</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_14</LocID>                                <Text>Ген.Фуррет</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_15</LocID>                                <Text>Релик</Text>  </GameDBLocalizedString>
 
             <!-- ======================== Commander's BIOs ======================== -->
             <GameDBLocalizedString>         <LocID>HERO_MOLE_1_DESCRIPTION</LocID>                     <Text>Skaurov's face looks like a battlefield. Terrifying scars silently testify to long and thorough torture. Some say he was the Supreme Leader's second, perhaps even a childhood friend during the revolution. Only one thing is known for sure. All the big names from the revolution were convicted of treason shortly after its success, except for Skaurov.</Text>  </GameDBLocalizedString>

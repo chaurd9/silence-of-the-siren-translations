@@ -1,10 +1,10 @@
 <Database>
-    <GameDBStringTable ID="LOC_EN_SCENARIOS_EA">
+    <GameDBStringTable ID="LOC_RU_SCENARIOS_EA">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GNERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -44,9 +44,9 @@
 
             
             <!--_________________GOLD FEVER_______________________-->
-            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_ID</LocID>                                             <Text>Gold fever</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_DESCRIPTION</LocID>                                    <Text><![CDATA[Gold fever sweeps the land after the intel about a rich Primal site spread! <b>Fossorians from the southwest</b> are seaking the quickest path to the center of the ruins. At the same time, <b>Children of the Source</b> rush from the northeast.</b> Remember, second place is just a different name for defeat here!]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_INTRO</LocID>                                          <Text>The Primal ruins in the central area lured some cockroaches. The illegal "golddiggers" smelted massive amounts of ancient technology for its high gold content! Aura coins are littered all over the place now! Get there as quickly as possible, confiscate the wealth, and use it for something that would make your ancestors proud... Or, in your case, less ashamed.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_ID</LocID>                                             <Text>Золотая лихорадка</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_DESCRIPTION</LocID>                                    <Text><![CDATA[Золотая лихорадка охватила землю после того, как информация о богатом древнем объекте распространилась! <b>Фоссориане с юго-запада</b> ищут самый быстрый путь к центру руин. В то же время <b>Дети Источника</b> спешат с северо-востока. <b>Помните, что второе место здесь — это просто другое название для поражения!]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_INTRO</LocID>                                          <Text>Древние руины в центральной части привлекли некоторых "тараканов". Незаконные золотодобытчики переплавляли огромное количество древних артефактов из-за высокого содержания в них золота! Теперь по всей местности разбросаны монеты Ауры! Доберитесь туда как можно быстрее, конфискуйте богатство и используйте его для того, чтобы сделать ваших предков гордыми... Или, в вашем случае, хотя бы менее стыдными.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_VICTORY</LocID>                                        <Text>Now that the dust has settled using all the wealth solely for military production is no longer necessary! Imagine what is possible now! Perhaps a golden statue, a luxury mansion, or a private solar yacht? And they say that wealth corrupts! Nonsense! </Text>  </GameDBLocalizedString>
 
 

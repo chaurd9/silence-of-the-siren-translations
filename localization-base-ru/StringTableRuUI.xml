@@ -53,7 +53,7 @@
             <GameDBLocalizedString>         <LocID>WAIT</LocID>                                             <Text>Wait</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>END_TURN_LOC</LocID>                                     <Text>End turn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXIT_LOC</LocID>                                         <Text>Exit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BACK</LocID>                                             <Text>Back</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BACK</LocID>                                             <Text>Назад</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDIT_FAST_CAST_COLLECTION</LocID>                        <Text>Edit fast cast collection</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_OBJECTIVES</LocID>                               <Text>Mission objectives:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_SECONDARY_OBJECTIVES</LocID>                     <Text>Secondary objectives:</Text>  </GameDBLocalizedString>
