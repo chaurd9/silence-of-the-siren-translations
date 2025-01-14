@@ -10,11 +10,11 @@
         <LocalizedStrings>
             <GameDBLocalizedString>         <LocID>COMBAT_DEFENDER</LocID>                                       <Text>Defender</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_WIN</LocID>                                     <Text>Hooray!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>COMBAT_WIN_TEXT</LocID>                                       <Text>Enemy has been defeated!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_WIN</LocID>                                     <Text>Ура!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_WIN_TEXT</LocID>                                       <Text>Враг повержен!</Text></GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_LOST_HERO</LocID>                               <Text>You lost!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>COMBAT_LOST_HERO_TEXT</LocID>                                 <Text>You suffered a bitter defeat, and the commander abandoned your cause.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_LOST_HERO</LocID>                               <Text>Вы проиграли!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_LOST_HERO_TEXT</LocID>                                 <Text>Вы потерпели сокрушительное поражение, и командир покинул ваше дело.</Text></GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT</LocID>                                 <Text>Retreat?</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT_TEXT</LocID>                            <Text>Run from the battle? Your commander will escape, but your army and any items that are not equipped will be left behind.</Text>  </GameDBLocalizedString><!-- From Chris - Will the army that's left behind perish or be captured? Would be worth explaining here -->
@@ -70,8 +70,8 @@
 
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_NEXT_ROUND</LocID>                             <Text>Раунд {int} начался.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MESSAGE_UNIT_SKIPPED</LocID>                                  <Text>{Stack} skipped their turn.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_UNIT_WAITED</LocID>                                   <Text>{Stack} is waiting.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_UNIT_SKIPPED</LocID>                                  <Text>{Stack} пропустил свой ход.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_UNIT_WAITED</LocID>                                   <Text>{Stack} ожидает.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_WON</LocID>                                    <Text>{Army} has won!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_EVERYONE_DEAD</LocID>                          <Text>Everyone died!</Text></GameDBLocalizedString>
@@ -214,7 +214,7 @@
             <GameDBLocalizedString>         <LocID>BUTTON_ALL_COMBAT_ABILITIES</LocID>                           <Text>Все Боевые Умения</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_EDIT_FAST_CAST</LocID>                                 <Text>Edit Fast Cast</Text>  </GameDBLocalizedString>
                      
-            <GameDBLocalizedString>         <LocID>COMBAT_NEXT_ROUND_STARTS</LocID>                              <Text>Next round begins!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_NEXT_ROUND_STARTS</LocID>                              <Text>Следующий раунд начинается!</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>DIALOG_BATTLE_ARENA_ROUND_1</LocID>                           <Text>Round 1 won!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_BATTLE_ARENA_ROUND_1_TEXT</LocID>                      <Text>You have managed to earn some resources:</Text></GameDBLocalizedString>
@@ -239,7 +239,7 @@
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_CAN_RETALIATE</LocID>                            <Text>This unit can still retaliate this round</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_CAN_RETALIATE_MORE</LocID>                       <Text>This unit can still retaliate (more than once) this round</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>RETRY_BATTLE</LocID>                                          <Text>Retry battle!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RETRY_BATTLE</LocID>                                          <Text>Повторить битву!</Text></GameDBLocalizedString>
             
         </LocalizedStrings>
     </GameDBStringTable>

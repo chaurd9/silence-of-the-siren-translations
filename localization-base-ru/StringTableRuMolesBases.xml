@@ -96,7 +96,7 @@
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7</LocID>                                  <Text>Ангар Освободителей</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_DESCRIPTION</LocID>                      <Text>Позволяет нанимать Освободителей.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_UPG</LocID>                              <Text>Конвейер Освободителей</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_UPG_DESCRIPTION</LocID>                  <Text>Позволяет нанимать Массу Освободителей.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_UPG_DESCRIPTION</LocID>                  <Text>Позволяет нанимать Усиленных Освободителей.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_CREATURE_PRODUCTION_UPGRADE_1</LocID>              <Text>Статуя Верховного Лидера</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_CREATURE_PRODUCTION_UPGRADE_1_DESCRIPTION</LocID>  <Text>Производит 4 дополнительных Хаммерита.</Text></GameDBLocalizedString>
 

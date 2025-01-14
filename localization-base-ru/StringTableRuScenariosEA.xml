@@ -31,9 +31,9 @@
             
             
             <!--_____________AWAIT_______________________-->
-            <GameDBLocalizedString>         <LocID>EA_AWAIT_ID</LocID>                                                  <Text>Await</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EA_AWAIT_DESCRIPTION</LocID>                                         <Text><![CDATA[Get your defenses ready before a powerful enemy reaches your base!\n\nDo you like the tower defense? Let's try the <b>Fossorian "defense"</b>!]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EA_AWAIT_INTRO</LocID>                                               <Text>Let's face it, we knew that those filthy Cyberbugs would eventually send their regards if we started a settlement in their borderlands. Nobody expected the Inquisition, though! The boys who built a base in the west went silent a couple of cycles ago. Let's check there. Maybe they left something to strengthen our defenses!   </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_AWAIT_ID</LocID>                                                  <Text>Долина Ожидания</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_AWAIT_DESCRIPTION</LocID>                                         <Text><![CDATA[Приготовьте защиту, прежде чем мощный враг достигнет вашей базы!\n\nНравится жанр Защита Башен? Попробуйте <b>"оборону" Фоссорианами</b>!]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_AWAIT_INTRO</LocID>                                               <Text>Признаем, мы знали, что эти мерзкие Кибержуки рано или поздно напомнят о себе, если мы начнем строить поселение на их границах. Но никто не ожидал Инквизиции! Ребята, построившие базу на западе, замолчали пару циклов назад. Давайте проверим там. Может, они оставили что-то для укрепления нашей обороны!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EA_AWAIT_VICTORY</LocID>                                             <Text>We must have stumbled onto something big! Maybe one of the artifacts we've discovered in the Primal ruins is really valued by those stupid Cyberbugs. Anyway, our position is too strong for them now. They will not dare to send any more of their precious inquisitors to die!</Text>  </GameDBLocalizedString>
 
 

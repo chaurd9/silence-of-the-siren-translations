@@ -1,10 +1,10 @@
 <Database>
-    <GameDBStringTable ID="LOC_EN_HERO_ABILITIES_COMBAT">
+    <GameDBStringTable ID="LOC_RU_HERO_ABILITIES_COMBAT">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GNERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -22,7 +22,7 @@
             <GameDBLocalizedString>         <LocID>AbilityAvailability_AVAILABLE</LocID>                            <Text>Available</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>AbilityAvailability_NOT_AVAILABLE</LocID>                        <Text>Not available</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>AbilityAvailability_NOT_A_COMBAT_ABILITY</LocID>                 <Text>Not a combat ability.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>AbilityAvailability_NOT_AN_EXPLORATION_ABILITY</LocID>           <Text>Not an exploration ability.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>AbilityAvailability_NOT_AN_EXPLORATION_ABILITY</LocID>           <Text>Не является исследовательским умением.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>AbilityAvailability_NOT_ENOUGH_ENERGY</LocID>                    <Text><![CDATA[Not enough <color=SOTS_COLOR_ENERGY> energy</color>]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>AbilityAvailability_USED_THIS_ROUND</LocID>                      <Text>Ability used this round.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>AbilityAvailability_NO_TARGETS</LocID>                           <Text>The ability will affect no one!</Text></GameDBLocalizedString>

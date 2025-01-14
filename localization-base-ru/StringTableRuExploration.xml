@@ -23,10 +23,10 @@
             <GameDBLocalizedString>         <LocID>DIALOG_CHEST_ITEM</LocID>                                     <Text></Text>  </GameDBLocalizedString><!-- The dialog shows the name of what's inside -->
             <GameDBLocalizedString>         <LocID>DIALOG_ITEM_PICKUP</LocID>                                    <Text></Text>  </GameDBLocalizedString><!-- The dialog shows the name of what's inside -->
             <GameDBLocalizedString>         <LocID>DIALOG_EXPLORATION_CORPSE_PICKUP</LocID>                      <Text>Fallen Warrior</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_START_TURN</LocID>                                     <Text>Next Round</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_START_TURN_REPLAY</LocID>                              <Text>Next Round</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_START_TURN_REPLAYED</LocID>                            <Text>Next Round</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_START_WEEK</LocID>                                     <Text>New Cycle</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_START_TURN</LocID>                                     <Text>След. ход</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_START_TURN_REPLAY</LocID>                              <Text>След. ход</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_START_TURN_REPLAYED</LocID>                            <Text>След. ход</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_START_WEEK</LocID>                                     <Text>Новый цикл</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_PLAYER_LOST</LocID>                                    <Text>Player has been defeated!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_PLAYER_LOST_YOU</LocID>                                <Text>Defeat!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_PLAYER_LOST_YOU_SOMEBODY_WON</LocID>                   <Text>Defeat!</Text>  </GameDBLocalizedString>
@@ -73,14 +73,14 @@
             <GameDBLocalizedString>         <LocID>DIALOG_CAN_NOT_BUILD_BRIDGE</LocID>                           <Text>A locked bridge</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_CAN_NOT_BUILD_BRIDGE_TEXT</LocID>                      <Text>This bridge can't be activated from here.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>DIALOG_END_TURN_ACTIONS</LocID>                               <Text>Actions still available!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_END_TURN_ACTIONS_TEXT</LocID>                          <Text>You can still upgrade your bases or move some commanders!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_END_TURN_ACTIONS</LocID>                               <Text>Еще есть доступные действия!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_END_TURN_ACTIONS_TEXT</LocID>                          <Text>Вы все еще можете улучшать свои базы или перемещать командиров!</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_VEIN_TEXT</LocID>                               <Text>A perfect place to build a mine to boost our production. Shall we?</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EXPLORATION_CORPSE_PICKUP</LocID>                             <Text>A corpse. I wonder what happened to him. I should at least bury him for his generosity.\n You found the following:</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>DIALOG_DONT_SHOW_AGAIN</LocID>                                <Text>Don't show this dialog again. Can be re-enabled in options.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_DONT_SHOW_AGAIN</LocID>                                <Text>Больше не показывать это окно. Можно снова включить в настройках.</Text>  </GameDBLocalizedString>
 
 
             <GameDBLocalizedString>         <LocID>DIALOG_CONFIRM_DISMISS_HERO</LocID>                           <Text>Dismiss a commander?</Text></GameDBLocalizedString>
@@ -101,10 +101,10 @@
             
             <GameDBLocalizedString>         <LocID>EXPLORATION_ATTACK_UNKNOWN_TEXT</LocID>                       <Text><![CDATA[HAZARD: <color=SOTS_COLOR_RED>UNKNOWN</color>]]></Text></GameDBLocalizedString>
                                                                                                                 
-            <GameDBLocalizedString>         <LocID>EXPLORATION_START_TURN</LocID>                                <Text>{1}'s turn.</Text></GameDBLocalizedString> <!-- Parameter {1} is color/name, so "Red player's turn etc." -->
-            <GameDBLocalizedString>         <LocID>EXPLORATION_START_ONLY</LocID>                                <Text>Begin</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_START_TURN</LocID>                                <Text>{1}</Text></GameDBLocalizedString> <!-- Parameter {1} is color/name, so "Red player's turn etc." -->
+            <GameDBLocalizedString>         <LocID>EXPLORATION_START_ONLY</LocID>                                <Text>Начать</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>EXPLORATION_START_WEEK</LocID>                                <Text><![CDATA[A new cycle has started.\n<color=SOTS_COLOR_GOLD>New recruits are available</color> to be hired at all bases and buildings with unit production!]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_START_WEEK</LocID>                                <Text><![CDATA[Начался новый цикл.\n<color=SOTS_COLOR_GOLD>Новые рекруты доступны</color> для найма на всех базах и в зданиях с производством существ!]]></Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>EXPLORATION_PLAYER_DEFEATED</LocID>                           <Text>{1} has been defeated</Text></GameDBLocalizedString> <!-- Parameter {1} is full name -->
             <GameDBLocalizedString>         <LocID>EXPLORATION_PLAYER_DEFEATED_YOU</LocID>                       <Text>You have been defeated!</Text></GameDBLocalizedString>
@@ -125,9 +125,9 @@
 
             <GameDBLocalizedString>         <LocID>EXPLORATION_DIALOG_BREAKABLE_OBJECT_TEXT</LocID>              <Text>Do you want to break through?</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISITED_STATE</LocID>                      <Text><![CDATA[<color=SOTS_COLOR_GOLD>Visited state:</color>]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISITED</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>Visited</color>]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_NOT_VISITED</LocID>                        <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Not visited</color>]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISITED_STATE</LocID>                      <Text><![CDATA[<color=SOTS_COLOR_GOLD>Статус посещения:</color>]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISITED</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>Посещено</color>]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_NOT_VISITED</LocID>                        <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Не посещено</color>]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISIT_WAIT_PHASE</LocID>                   <Text>Wait till the next phase.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISIT_WAIT_CYCLE</LocID>                   <Text>Wait till the next cycle.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISIT_HERO</LocID>                         <Text>Commander already visited. (Use another one.)</Text></GameDBLocalizedString>
@@ -218,7 +218,7 @@
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_TRAP_COMMANDER</LocID>                          <Text><![CDATA[<color=SOTS_COLOR_RED>Trapped!</color>]]></Text>  </GameDBLocalizedString>
             
             <!-- Tooltips -->                                                                                    
-            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_ARMY_STRENGTH</LocID>                     <Text>Hazard:</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_ARMY_STRENGTH</LocID>                     <Text>Опасность:</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_PREDICTED_LOSSES</LocID>                  <Text>Predicted Losses:</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_ARMY_COUNT</LocID>                        <Text>Army Count: </Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_HERO_STATUS_EFFECTS</LocID>               <Text><![CDATA[<b><i>Status Effects:</i></b>\n]]></Text></GameDBLocalizedString>
@@ -227,23 +227,23 @@
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_HERO_SKILLS</LocID>                       <Text>Skills</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_HERO_ABILITIES</LocID>                    <Text>Abilites</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_NONE</LocID>                              <Text>None</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_MONSTER_ARMY</LocID>                      <Text><![CDATA[<b>Monster Army</b>]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_MONSTER_ARMY</LocID>                      <Text><![CDATA[<b>Армия монстров</b>]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_MONSTER_ARMY_CHANGES</LocID>              <Text><![CDATA[<b>Monster Army</b>\n(Transforms according to light level!)]]></Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_NOT_IN_RANGE</LocID>                      <Text>Not in Range</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_SEEN_BY</LocID>                           <Text>Seen By:</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_BASE_NO_ARMY</LocID>                      <Text>Not Protected by Any Army</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_BASE_NO_ARMY</LocID>                      <Text>Не защищено никакой армией</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_CYCLE</LocID>                             <Text>Текущий цикл Дня/Ночи</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP</LocID>                                        <Text>XP</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_UNKNOWN</LocID>                               <Text>Unknown</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_0</LocID>                                     <Text>Negligible</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_1</LocID>                                     <Text>Low</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_2</LocID>                                     <Text>Moderate</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_3</LocID>                                     <Text>High</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_4</LocID>                                     <Text>Extreme</Text></GameDBLocalizedString>                        
-            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_5</LocID>                                     <Text>Not a chance!</Text></GameDBLocalizedString>   
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_UNKNOWN</LocID>                               <Text>Неизвестно</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_0</LocID>                                     <Text>Ничтожная</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_1</LocID>                                     <Text>Низкая</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_2</LocID>                                     <Text>Умеренная</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_3</LocID>                                     <Text>Высокая</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_4</LocID>                                     <Text>Экстремальная</Text></GameDBLocalizedString>                        
+            <GameDBLocalizedString>         <LocID>LOSS_PREDICTION_5</LocID>                                     <Text>Никаких шансов!</Text></GameDBLocalizedString>   
             
             <!--Exploration XP-->
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_NONE</LocID>                                   <Text>Execute various actions to gain experience.</Text></GameDBLocalizedString>
@@ -277,7 +277,7 @@
             <GameDBLocalizedString>         <LocID>CONSUMABLE_DATA_FRAGMENT_DIALOG_INFO</LocID>                  <Text><![CDATA[<color=SOTS_COLOR_XP>+500 XP</color>]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CONSUMABLE_FUEL_STOCK_DIALOG_INFO</LocID>                     <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>+{1} Movement Points</color>]]></Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>EXPLORATION_GOTO</LocID>                                      <Text>Go to</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_GOTO</LocID>                                      <Text>Продолжить</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_ABILITY_ACADEMY</LocID>                    <Text>Ability Academy</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_ABILITY_ACADEMY_DESCRIPTION</LocID>        <Text><![CDATA[Visiting commanders can <color=SOTS_COLOR_GOLD>learn an Ability of their choice</color>. Can be used <color=SOTS_COLOR_GOLD>once per commander</color>. <color=SOTS_COLOR_RED>Requires</color> the matching ability skill]]></Text>  </GameDBLocalizedString>

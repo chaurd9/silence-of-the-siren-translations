@@ -1,16 +1,16 @@
 ﻿<Database>
-    <GameDBStringTable ID="LOC_EN_EXPLORATION_MAP_OBJECTS">
+    <GameDBStringTable ID="LOC_RU_EXPLORATION_MAP_OBJECTS">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GNERWA LANG</Name>
         </Contributors>
         
         <LocalizedStrings>
             
-            <GameDBLocalizedString>         <LocID>MAPOBJ_BIOFARM_01</LocID>                                          <Text>Bio Farm</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_BIOFARM_01_DESCRIPTION</LocID>                              <Text><![CDATA[Produces <color=SOTS_COLOR_BIOMASS>1</color> (<color=SOTS_COLOR_BIOMASS>2</color> when upgraded) <color=SOTS_COLOR_BIOMASS>Biomass</color> per phase.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BIOFARM_01</LocID>                                          <Text>Биоферма</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_BIOFARM_01_DESCRIPTION</LocID>                              <Text><![CDATA[Производит <color=SOTS_COLOR_BIOMASS>1</color> (<color=SOTS_COLOR_BIOMASS>2</color> при улучшении) <color=SOTS_COLOR_BIOMASS>Биомассу</color> за фазу.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAPOBJ_FIBERALLOYMILL_LVL1</LocID>                                 <Text>Alloy Mill</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAPOBJ_FIBERALLOYMILL_LVL1_DESCRIPTION</LocID>                     <Text><![CDATA[Produces <color=SOTS_COLOR_ALLOYS>1</color> (<color=SOTS_COLOR_ALLOYS>2</color> when upgraded) <color=SOTS_COLOR_ALLOYS>Alloy</color> per phase.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAPOBJ_LIMERITMINE_LVL1</LocID>                                    <Text>Limerite Quarry</Text>  </GameDBLocalizedString>
@@ -29,8 +29,8 @@
             <GameDBLocalizedString>         <LocID>MAPOBJ_SMUGGLERS_DEN_DESCRIPTION</LocID>                           <Text><![CDATA[A visiting commander will receive a <color=SOTS_COLOR_GOLD>random reward</color>. Can be used once per cycle. <color=SOTS_COLOR_ATTACK>Attacking</color> gives you a <color=SOTS_COLOR_GOLD>bigger reward</color>, but will <color=SOTS_COLOR_GOLD>disable</color> the den for <color=SOTS_COLOR_GOLD>3 cycles</color>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAPOBJ_SLAVECAMP</LocID>                                           <Text>Slave Camp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAPOBJ_SLAVECAMP_DESCRIPTION</LocID>                               <Text><![CDATA[Heavily guarded by Mole units to protect their merchandise. Anyone <color=SOTS_COLOR_GOLD>can buy</color> what they see. What's on offer changes every phase, so do not hesitate if you see something you fancy. <color=SOTS_COLOR_ATTACK>Attacking</color> gives commanders <color=SOTS_COLOR_GOLD>more free enslaved units</color>, but will <color=SOTS_COLOR_GOLD>disable</color> the camp for <color=SOTS_COLOR_GOLD>3 cycles</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_DOJO</LocID>                                                <Text>Swordsman's Sanctuary</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_DOJO_DESCRIPTION</LocID>                                    <Text><![CDATA[A mojo restoring Dojo where commanders earn <color=SOTS_COLOR_XP>2000 experience points</color>. Each commander can use this building only once.]]></Text>  </GameDBLocalizedString> <!--Mojo restoring Dojo, that leads to -->
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DOJO</LocID>                                                <Text>Святилище Мечника</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DOJO_DESCRIPTION</LocID>                                    <Text><![CDATA[Додзё, восстанавливающее энергию, где командиры получают <color=SOTS_COLOR_XP>2000 очков опыта</color>. Каждый командир может использовать это здание только один раз.]]></Text>  </GameDBLocalizedString> <!--Mojo restoring Dojo, that leads to -->
             <GameDBLocalizedString>         <LocID>MAPOBJ_BROTHEL</LocID>                                             <Text>Bored? Hello!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAPOBJ_BROTHEL_DESCRIPTION</LocID>                                 <Text><![CDATA[This house of ill repute is well respected throughout the ranks and raises <color=SOTS_COLOR_GOLD>morale by 20</color> for one cycle. Each commander can use this building once per cycle.]]></Text>  </GameDBLocalizedString> <!--TODO put bac once brothel is fixed Each commander can use this building once per cycle.-->
             <GameDBLocalizedString>         <LocID>MAPOBJ_TOMB_OF_SWORDMASTER</LocID>                                 <Text>Tomb of a Swordmaster</Text>  </GameDBLocalizedString>
@@ -54,23 +54,23 @@
             <GameDBLocalizedString>         <LocID>MAPOBJ_WATCHTOWER_VISIBILITY_UPGRADE</LocID>                       <Text>Increases your visibility radius and provides extra info about enemies in range.</Text>  </GameDBLocalizedString>
                                                                                                                      
             <!-- Map objects - TREASURES  DEMO  revision -->                                                         
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST</LocID>                                               <Text>Container</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_DESCRIPTION</LocID>                                   <Text><![CDATA[Contains a <color=SOTS_COLOR_GOLD>Data Fragment</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_ITEM</LocID>                                          <Text>Cache</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_ITEM_DESCRIPTION</LocID>                              <Text><![CDATA[Contains a mysterious <color=SOTS_COLOR_GOLD>Item</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_RESOURCES</LocID>                                     <Text>Repository</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_RESOURCES_DESCRIPTION</LocID>                         <Text><![CDATA[Contains a hefty amount of <color=SOTS_COLOR_GOLD>Resources</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_A</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>Limerite</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_A_DESCRIPTION</LocID>                              <Text><![CDATA[A small amount of <color=SOTS_COLOR_LIMERITE>Limerite</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_B</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_ALLOYS>Alloy</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_B_DESCRIPTION</LocID>                              <Text><![CDATA[A small amount of <color=SOTS_COLOR_ALLOYS>Alloy</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_C</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_BIOMASS>Biomass</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_C_DESCRIPTION</LocID>                              <Text><![CDATA[A small amount of <color=SOTS_COLOR_BIOMASS>Biomass</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_D</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Radiant</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_D_DESCRIPTION</LocID>                              <Text><![CDATA[A small amount of <color=SOTS_COLOR_RADIANT>Radiant</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CASH</LocID>                                                <Text><![CDATA[<color=SOTS_COLOR_GOLD>Aura Coins</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CASH_DESCRIPTION</LocID>                                    <Text><![CDATA[A small amount of <color=SOTS_COLOR_GOLD>Aura Coins</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_FUSION_CORE</LocID>                                <Text><![CDATA[<color=SOTS_COLOR_FUSION_CORE>Fusion Core</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST</LocID>                                               <Text>Контейнер</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_DESCRIPTION</LocID>                                   <Text><![CDATA[Содержит <color=SOTS_COLOR_GOLD>Фрагмент данных</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_ITEM</LocID>                                          <Text>Тайник</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_ITEM_DESCRIPTION</LocID>                              <Text><![CDATA[Содержит загадочный <color=SOTS_COLOR_GOLD>Предмет</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_RESOURCES</LocID>                                     <Text>Хранилище</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CHEST_RESOURCES_DESCRIPTION</LocID>                         <Text><![CDATA[Содержит большое количество <color=SOTS_COLOR_GOLD>Ресурсов</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_A</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>Лимерит</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_A_DESCRIPTION</LocID>                              <Text><![CDATA[Небольшое количество <color=SOTS_COLOR_LIMERITE>Лимерита</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_B</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_ALLOYS>Сплавы</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_B_DESCRIPTION</LocID>                              <Text><![CDATA[Небольшое количество <color=SOTS_COLOR_ALLOYS>Сплава</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_C</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_BIOMASS>Биомасса</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_C_DESCRIPTION</LocID>                              <Text><![CDATA[Небольшое количество <color=SOTS_COLOR_BIOMASS>Биомассы</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_D</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Радиант</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_D_DESCRIPTION</LocID>                              <Text><![CDATA[Небольшое количество <color=SOTS_COLOR_RADIANT>Радианта</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CASH</LocID>                                                <Text><![CDATA[<color=SOTS_COLOR_GOLD>Ауры</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CASH_DESCRIPTION</LocID>                                    <Text><![CDATA[Небольшое количество <color=SOTS_COLOR_GOLD>Аур</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RESOURCE_FUSION_CORE</LocID>                                <Text><![CDATA[<color=SOTS_COLOR_FUSION_CORE>Ядро синтеза</color>]]></Text>  </GameDBLocalizedString>
 
             <!-- For Chris: texts ready for proofreading 2024-01 START -->
             <GameDBLocalizedString>         <LocID>MAPOBJ_SHUTTLE_WRECKAGE</LocID>                                    <Text>Shuttle Wreckage</Text>  </GameDBLocalizedString>

@@ -11,21 +11,21 @@
             <GameDBLocalizedString>         <LocID>FACTION_MOLES</LocID>                               <Text>Фоссориане</Text></GameDBLocalizedString>
                                                                                                   
             <!--Unit names-->                                                                     
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT</LocID>                          <Text>Ratling Goon</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG</LocID>                      <Text>Ratling Gunner</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER</LocID>                       <Text>Meatboy</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_UPG</LocID>                   <Text>Meatboy Shredder</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER</LocID>                           <Text>Hammerite</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_UPG</LocID>                       <Text>Hammerite Honor Guard</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO</LocID>                          <Text>Earthshaker</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG</LocID>                      <Text>Earthshaker MK II</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_PROJECTILE</LocID>               <Text>Earthshaker Torpedo</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM</LocID>                             <Text>Tunnel Worm</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG</LocID>                         <Text>Panzer Worm</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER</LocID>                      <Text>Commissar Cadet</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_UPG</LocID>                  <Text>Seasoned Commissar </Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH</LocID>                             <Text>Liberator</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG</LocID>                         <Text>Mass Liberator</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT</LocID>                          <Text>Головорез-Крысолюд</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG</LocID>                      <Text>Стрелок-Крысолюд</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER</LocID>                       <Text>Мясник</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_UPG</LocID>                   <Text>Мясник-Измельчитель</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER</LocID>                           <Text>Хаммерит</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_UPG</LocID>                       <Text>Почетный Страж Хаммеритов</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO</LocID>                          <Text>Землетряс</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG</LocID>                      <Text>Землетряс MK II</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_PROJECTILE</LocID>               <Text>Землетряс Торпедный</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM</LocID>                             <Text>Туннельный Червь</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG</LocID>                         <Text>Панцерный Червь</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER</LocID>                      <Text>Кадет-Комиссар</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_UPG</LocID>                  <Text>Опытный Комиссар</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH</LocID>                             <Text>Освободитель</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG</LocID>                         <Text>Усиленный Освободитель</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON</LocID>                 <Text>Blast wave cannon</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON_DESCRIPTION</LocID>     <Text><![CDATA[Shoots powerful blast wave once per round, dealing damage and pushing units away from epicenter. Very effective against structures.]]></Text></GameDBLocalizedString>

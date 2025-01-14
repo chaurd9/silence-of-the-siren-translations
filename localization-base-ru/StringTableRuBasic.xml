@@ -34,7 +34,7 @@
 
             <GameDBLocalizedString>         <LocID>KEEP_COMMANDER_ALIVE</LocID>                                     <Text>Keep a commander alive: {1}</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>HERO_HAS_EARNED_XP</LocID>                                       <Text><![CDATA[Commander has earned<color=SOTS_COLOR_XP> {1} XP</color>!]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_HAS_EARNED_XP</LocID>                                       <Text><![CDATA[Командир получил <color=SOTS_COLOR_XP>{1} опыта</color>!]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_WOULD_HAVE_EARNED_XP</LocID>                                <Text><![CDATA[Would have earned<color=SOTS_COLOR_XP> {1} XP</color> in real battle!]]></Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>PLAYER_COLOR_RED</LocID>                                         <Text>Красный</Text></GameDBLocalizedString>

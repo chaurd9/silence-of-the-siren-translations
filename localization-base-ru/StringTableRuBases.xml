@@ -30,7 +30,7 @@
             
             <GameDBLocalizedString>         <LocID>UNITS_GROW</LocID>                                       <Text>UNITS (+GROWTH):</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>EXIT_BASE</LocID>                                        <Text>Вернуться на карту</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXIT_BASE</LocID>                                        <Text>На карту</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SHOW_HIDE_UI</LocID>                                     <Text>Show/Hide Baseholder UI</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>RESOURCE_CASH_GENERATION</LocID>                         <Text><![CDATA[<color=SOTS_COLOR_GOLD>Ауры</color> генерируются за фазу в этой базе.]]></Text>  </GameDBLocalizedString>
@@ -105,9 +105,9 @@
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNDO_ARMY_CHANGES</LocID>                        <Text>Undo army changes. Use when you accidentally spent more movement points on unit transfers than intended.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>TOOLTIP_THIS_TURN</LocID>                                <Text>You have already erected a building here this turn.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_OT_ENOUGH_RESOURCES</LocID>                      <Text>You don't have enough resources.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_OT_ENOUGH_RESOURCES</LocID>                      <Text>У вас недостаточно ресурсов.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_MISING_DEPENDENCIES</LocID>                      <Text>Missing the prerequisites for this building.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_MISING</LocID>                                   <Text>Requires</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MISING</LocID>                                   <Text>Требуется</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_NO_FREE_SLOT</LocID>                             <Text>No free slot.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_FORBIDDEN_BUILDING</LocID>                       <Text>This base can't build this structure.</Text>  </GameDBLocalizedString>
             

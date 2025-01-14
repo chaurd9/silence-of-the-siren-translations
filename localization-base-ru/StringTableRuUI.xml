@@ -26,7 +26,7 @@
             <GameDBLocalizedString>         <LocID>MANUAL</LocID>                                           <Text>Руководство + Планы</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ROADMAP</LocID>                                          <Text>Roadmap</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>NEXT</LocID>                                             <Text>Next player</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NEXT</LocID>                                             <Text>След. игрок</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EXPLORATION_QUIT_TO_MAIN_MENU</LocID>                    <Text>Quit to main menu</Text>  </GameDBLocalizedString>
 
@@ -73,7 +73,7 @@
             <GameDBLocalizedString>         <LocID>START_LOC</LocID>                                        <Text>Начать</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SCENARIOS_LOC</LocID>                                    <Text>Пользов. сценарии</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CONQUEST</LocID>                                         <Text>ПОТАСОВКА</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HEADING_PLAYERS</LocID>                                  <Text>Игроки</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_PLAYERS</LocID>                                  <Text>Фракция</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HUMAN</LocID>                                            <Text>Человек</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>COMPUTER</LocID>                                         <Text>Компьютер</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>INFO_PLAYER_CONFIGURATION</LocID>                        <Text><![CDATA[You can set custom player names and choose more than one human player for a <color=SOTS_COLOR_GOLD>hot seat</color> multiplayer.]]></Text>  </GameDBLocalizedString>
@@ -83,7 +83,7 @@
             <GameDBLocalizedString>         <LocID>QUIT_TO_MAIN_MENU</LocID>                                <Text>Выйти в гл.меню</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAIN_MENU</LocID>                                        <Text>Гл.меню</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>LOAD_AS_SCENARIO</LocID>                                 <Text>Пользов. сценарии</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PLAYERS_IN_SAVE</LocID>                                  <Text>Players in this save: </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYERS_IN_SAVE</LocID>                                  <Text>Игроков в этом сохранении: </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>REPORT_A_BUG</LocID>                                     <Text>Сообщить о баге</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>JOIN_THE_DISCORD</LocID>                                 <Text>Вступить в Discord!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SAVE_DIALOG_OPEN_FOLDER</LocID>                          <Text>Открыть папку</Text>  </GameDBLocalizedString>
@@ -103,7 +103,7 @@
             <GameDBLocalizedString>         <LocID>DEPENDECIES_LOC</LocID>                                  <Text>Dependencies: </Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>BASE</LocID>                                             <Text>Base</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ROUND</LocID>                                            <Text>Round </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ROUND</LocID>                                            <Text>Раунд </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>PER_DAY</LocID>                                          <Text> each turn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TILE</LocID>                                             <Text>TILE: </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>NEXT_PLAYER</LocID>                                      <Text>След:</Text>  </GameDBLocalizedString>
@@ -177,8 +177,8 @@
             <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_EVENING</LocID>                          <Text>Вечер</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_NIGHT</LocID>                            <Text>Ночь</Text></GameDBLocalizedString>
        
-            <GameDBLocalizedString>         <LocID>WINNER_LOSSES</LocID>                                    <Text>Winner's losses</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DEFEATED_LOSSES</LocID>                                  <Text>Defeated army's losses</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>WINNER_LOSSES</LocID>                                    <Text>Потери победителя</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DEFEATED_LOSSES</LocID>                                  <Text>Потери проигравшего</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>LOSSES_NONE</LocID>                                      <Text>None!</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>TOOLTIP_MELEE_UNIT</LocID>                               <Text>This is a melee unit</Text></GameDBLocalizedString>
