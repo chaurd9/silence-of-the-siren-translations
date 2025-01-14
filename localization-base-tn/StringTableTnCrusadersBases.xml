@@ -2,10 +2,10 @@
     <GameDBStringTable ID="LOC_TN_CRUSADERS_BASES">
 
         <LanguageRef>LANG_TN</LanguageRef>
-        <LanguageNameLocalized>Techinal Codes</LanguageNameLocalized>
+        <LanguageNameLocalized>Techinal Names</LanguageNameLocalized>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GNERWA TECH</Name>
         </Contributors>
 
         <LocalizedStrings>
