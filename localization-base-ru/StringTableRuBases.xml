@@ -10,7 +10,7 @@
         <LocalizedStrings>
             <GameDBLocalizedString>         <LocID>UNITS_AVAILABLE</LocID>                                  <Text>Available Units: </Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>BASE_STRUCTURES</LocID>                                  <Text>Structures</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_STRUCTURES</LocID>                                  <Text>Сооружения</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILD_FOR</LocID>                                        <Text>Build For </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HIRE</LocID>                                             <Text>Hire {1} For </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HIRE_BUTTON</LocID>                                      <Text>Hire</Text>  </GameDBLocalizedString>
@@ -30,14 +30,14 @@
             
             <GameDBLocalizedString>         <LocID>UNITS_GROW</LocID>                                       <Text>UNITS (+GROWTH):</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>EXIT_BASE</LocID>                                        <Text>Return to Map</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXIT_BASE</LocID>                                        <Text>Вернуться на карту</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SHOW_HIDE_UI</LocID>                                     <Text>Show/Hide Baseholder UI</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>RESOURCE_CASH_GENERATION</LocID>                         <Text><![CDATA[<color=SOTS_COLOR_GOLD>Aura Coins</color> generated per phase at this base.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_A_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>Limerite</color> generated per phase at this base.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_B_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_ALLOYS>Alloy</color> generated per phase at this base.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_C_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_BIOMASS>Biomass</color> generated per phase at this base.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_D_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Radiant</color> generated per phase at this base.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_CASH_GENERATION</LocID>                         <Text><![CDATA[<color=SOTS_COLOR_GOLD>Ауры</color> генерируются за фазу в этой базе.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_A_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>Лимерит</color> генерируется за фазу в этой базе.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_B_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_ALLOYS>Сплавы</color> генерируются за фазу в этой базе.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_C_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_BIOMASS>Биомасса</color> генерируется за фазу в этой базе.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_D_GENERATION</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Радианты</color> генерируются за фазу в этой базе.]]></Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>STATISTICS_HEADING</LocID>                               <Text>Player statistics</Text></GameDBLocalizedString>
 
@@ -83,24 +83,24 @@
 
             <GameDBLocalizedString>         <LocID>BASE_CORE</LocID>                                        <Text>Base core</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_BUILD</LocID>                               <Text>Build and Upgrade \nDefault shortcut: [B]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_UNITS</LocID>                          <Text>Hire Units \nDefault shortcut: [R]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_HEROES</LocID>                         <Text>Hire Commanders \nDefault shortcut: [C]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRADE</LocID>                               <Text>Trade Resources \nDefault shortcut: [T]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_ACADEMY</LocID>                             <Text>Academy \nDefault shortcut: [A]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_STATISTICS</LocID>                          <Text>Statistics \nDefault shortcut: [S]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_GATEWAY</LocID>                             <Text>Travel through the gateway. \nDefault shortcut: [G]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_GATEWAY_NO_HERO</LocID>                     <Text>There's no commander to travel through the gateway.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRANSMOGRIFY</LocID>                        <Text>Transform Units \nDefault shortcut: [X]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_BUILD</LocID>                               <Text>Строить и Улучшать \nКлавиша по умолчанию: [B]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_UNITS</LocID>                          <Text>Нанять Существ \nКлавиша по умолчанию: [R]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_HEROES</LocID>                         <Text>Нанять Командиров \nКлавиша по умолчанию: [C]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRADE</LocID>                               <Text>Обмен ресурсов \nКлавиша по умолчанию: [T]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_ACADEMY</LocID>                             <Text>Академия \nКлавиша по умолчанию: [A]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_STATISTICS</LocID>                          <Text>Статистика \nКлавиша по умолчанию: [S]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_GATEWAY</LocID>                             <Text>Переместиться через врата. \nКлавиша по умолчанию: [G]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_GATEWAY_NO_HERO</LocID>                     <Text>Нет командира, чтобы переместиться через врата.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRANSMOGRIFY</LocID>                        <Text>Преобразовать Существ \nКлавиша по умолчанию: [X]</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>BASE_BUILD</LocID>                                       <Text>You can construct this building for:</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_UPGRADE</LocID>                                     <Text>You can upgrade this building for:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_BUILD</LocID>                                       <Text>Вы можете построить это здание за:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_UPGRADE</LocID>                                     <Text>Вы можете улучшить это здание за:</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>TOOLTIP_HERO_MEETING</LocID>                             <Text>Open commander meeting panel to trade items.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_HERO_MEETING</LocID>                             <Text>Открыть панель встречи командиров для обмена предметами.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_HERO_CARD</LocID>                                <Text>Открыть карточку героя с инвентарем и информацией о прокачке.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_SWITCH_ARMIES</LocID>                            <Text>Switch Armies: Garrison/Ungarrison Commanders</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_UP</LocID>                                 <Text>Merge units into the top army. (Commanders stay in their slots.)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_DOWN</LocID>                               <Text>Merge units into the bottom army. (Commanders stay in their slots.)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_SWITCH_ARMIES</LocID>                            <Text>Переключение армий: Разместить/Вывести из гарнизона Командиров</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_UP</LocID>                                 <Text>Объединить существ в верхнюю армию. (Командиры остаются в своих слотах.)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_DOWN</LocID>                               <Text>Объединить существ в нижнюю армию. (Командиры остаются в своих слотах.)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_MANIPULATION</LocID>                        <Text>Щелкните, чтобы взять этот стек существ. Щелкните ПКМ, чтобы разделить его.\nПри перемещении стека щелкните ПКМ по соответствующему слоту, чтобы разместить существ по одному.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNDO_ARMY_CHANGES</LocID>                        <Text>Undo army changes. Use when you accidentally spent more movement points on unit transfers than intended.</Text>  </GameDBLocalizedString>
 
@@ -111,7 +111,7 @@
             <GameDBLocalizedString>         <LocID>TOOLTIP_NO_FREE_SLOT</LocID>                             <Text>No free slot.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_FORBIDDEN_BUILDING</LocID>                       <Text>This base can't build this structure.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>TOOLTIP_GARRISONED_HERO</LocID>                          <Text>There is a commander garrisoned at this base.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_GARRISONED_HERO</LocID>                          <Text>В этой базе размещен командир.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>TOOLTIP_UPGRADED_UNIT</LocID>                            <Text>This is an upgraded unit.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_SWITCH_UPGRADED_UNIT</LocID>                     <Text>Switch between basic and upgraded versions of this unit.</Text>  </GameDBLocalizedString>
@@ -136,7 +136,7 @@
             <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_RESOURCES</LocID>                          <Text>Missing resources</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_DEPENDENCIES</LocID>                       <Text>Missing dependencies</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_THIS_ROUND</LocID>                         <Text>Not this round</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_ALREADY_BUILT</LocID>                      <Text>Already built.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_ALREADY_BUILT</LocID>                      <Text>Уже построено.</Text>  </GameDBLocalizedString>
             
             <!-- Tooltips for base list in the right UI panel on the world map -->
             <GameDBLocalizedString>         <LocID>BASE_CAN_BUILD</LocID>                                   <Text>Доступны улучшения.</Text></GameDBLocalizedString>
@@ -181,7 +181,7 @@
 
             <!-- Updates before EA -->
             <GameDBLocalizedString>         <LocID>BASE_HIRE_SLAVES</LocID>                                <Text>Slave camp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_SLAVES</LocID>                        <Text>Hire extra units from slavers \nDefault shortcut: [X]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_SLAVES</LocID>                        <Text>Нанять дополнительных существ у работорговцев \nКлавиша по умолчанию: [X]</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BASE_HERO_HAS_ALREADY_LEARNED_A_SKILL</LocID>           <Text>This commander has already learned a skill here!</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRADE_CONSUMABLES</LocID>                  <Text>Trade Consumables</Text>  </GameDBLocalizedString>
