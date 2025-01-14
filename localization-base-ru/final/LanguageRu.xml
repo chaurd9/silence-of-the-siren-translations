@@ -1,16 +1,15 @@
 <Database>
     <GameDBLanguage ID="LANG_RU">
         <LanguageCode>ru</LanguageCode>
-        <LanguagRuameLocalized>Русский</LanguagRuameLocalized>
+        <LanguageNameLocalized>Русский</LanguageNameLocalized>
 
-        <FontResourcRuame>JosefinSansExt-Regular SDF</FontResourcRuame>
-        <FontResourcRuameLight>JosefinSansExt-Regular SDF</FontResourcRuameLight>
-        <FontResourcRuameLightItalic>JosefinSansExt-Regular SDF</FontResourcRuameLightItalic>
-        <FontResourcRuameOutline>JosefinSansExt-Regular SDF_outline</FontResourcRuameOutline>
-        <FontResourcRuame3D>JosefinSansExt-Regular SDF_3D</FontResourcRuame3D>
-        <HeroNameFontResourcRuame>JosefinSansExt-Regular SDF</HeroNameFontResourcRuame>
+        <FontResourceName>JosefinSansExt-Regular SDF</FontResourceName>
+        <FontResourceNameLight>JosefinSansExt-Regular SDF</FontResourceNameLight>
+        <FontResourceNameLightItalic>JosefinSansExt-Regular SDF</FontResourceNameLightItalic>
+        <FontResourceNameOutline>JosefinSansExt-Regular SDF_outline</FontResourceNameOutline>
+        <FontResourceName3D>JosefinSansExt-Regular SDF_3D</FontResourceName3D>
+        <HeroNameFontResourceName>JosefinSansExt-Regular SDF</HeroNameFontResourceName>
         
-        <MainMRuuTextSize>16</MainMRuuTextSize>
+        <MainMenuTextSize>20</MainMenuTextSize>
     </GameDBLanguage>
 </Database>
-

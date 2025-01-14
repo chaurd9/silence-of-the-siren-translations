@@ -1,0 +1,15 @@
+<Database>
+    <GameDBStringTable ID="LOC_RU_PLANETS">
+
+        <LanguageRef>LANG_RU</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA Team</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>        <LocID>PLANET_EA_ID</LocID>                                                  <Text>UNSC 4298d</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>PLANET_EA_DESCRIPTION</LocID>                                         <Text><![CDATA[Четвёртая планета системы Сирен — это каменистый мир с пригодной для дыхания атмосферой, но в то же время чрезвычайно опасное место, практически никем не контролируемое.\n\nОднако, она открывает множество возможностей для местных ополченцев и повстанцев, чтобы укрепить свои позиции.\n\nИз-за столкновения с блуждающей луной планета вращается очень быстро. Цикл дня и ночи состоит из четырех фаз.]]></Text>  </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
