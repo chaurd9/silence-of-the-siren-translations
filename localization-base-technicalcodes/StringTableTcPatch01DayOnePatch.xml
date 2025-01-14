@@ -1,0 +1,98 @@
+<Database>
+    <GameDBStringTable ID="LOC_TC_PATCH_01">
+
+        <LanguageRef>LANG_TC</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>        <LocID>FRIENDLY</LocID>                                                      <Text>FRIENDLY</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>WILL_NOT_NEGOTIATE</LocID>                                            <Text>WILL_NOT_NEGOTIATE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>        <LocID>ICON_UNIT_RESIST</LocID>                                              <Text>ICON_UNIT_RESIST</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>        <LocID>OPTION_GRAPHICS_RESOLUTION_SCALE</LocID>                              <Text>OPTION_GRAPHICS_RESOLUTION_SCALE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>        <LocID>HEADING_OBJECTIVES_CAMPAIGN</LocID>                                   <Text>HEADING_OBJECTIVES_CAMPAIGN</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>        <LocID>COOLDOWN</LocID>                                                      <Text>COOLDOWN</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>COOLDOWN_ROUNDS</LocID>                                               <Text>COOLDOWN_ROUNDS</Text>  </GameDBLocalizedString>
+            
+            $1$2$4  </GameDBLocalizedString>
+
+            <!--_______________MAP_BRIDGES_TOO_FAR__________________________-->
+            <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_ID</LocID>                                        <Text>EA_BRIDGES_TOO_FAR_ID</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4    </GameDBLocalizedString>
+
+
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_BRIDGES_TOO_FAR_KEEPER_4</LocID>                             <Text>MESSAGE_BRIDGES_TOO_FAR_KEEPER_4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_BRIDGES_TOO_FAR_KEEPER_5</LocID>                             <Text>MESSAGE_BRIDGES_TOO_FAR_KEEPER_5</Text>  </GameDBLocalizedString>
+
+
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_BRIDGES_TOO_FAR_KEEPER</LocID>                             <Text>OBJECTIVE_BRIDGES_TOO_FAR_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_BRIDGES_TOO_FAR_KEEPER1</LocID>                            <Text>OBJECTIVE_BRIDGES_TOO_FAR_KEEPER1</Text>  </GameDBLocalizedString>
+
+            <!--_______________MAP_CRYING_RIVER__________________________-->
+            <GameDBLocalizedString>         <LocID>EA_CRYING_RIVER_ID</LocID>                                           <Text>EA_CRYING_RIVER_ID</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4    </GameDBLocalizedString>
+                                                                                                                  
+                                                                                                                  
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRYING_RIVER_KEEPER_4</LocID>                                <Text>MESSAGE_CRYING_RIVER_KEEPER_4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRYING_RIVER_KEEPER_5</LocID>                                <Text>MESSAGE_CRYING_RIVER_KEEPER_5</Text>  </GameDBLocalizedString>
+                                                                                                                  
+                                                                                                                  
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CRYING_RIVER_KEEPER</LocID>                                <Text>OBJECTIVE_CRYING_RIVER_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CRYING_RIVER_KEEPER1</LocID>                               <Text>OBJECTIVE_CRYING_RIVER_KEEPER1</Text>  </GameDBLocalizedString>
+            
+            <!--LOADING TIPS TEXTS-->
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_08</LocID>                                               <Text>LOADING_TIP_08</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+
+            <!--_______________EQUIPMENT__________________________-->
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_CAMPAIGN_BEACON</LocID>                                    <Text>EQUIPMENT_CAMPAIGN_BEACON</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_CAMPAIGN_BEACON_II</LocID>                                 <Text>EQUIPMENT_CAMPAIGN_BEACON_II</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_CAMPAIGN_RELIC</LocID>                                     <Text>EQUIPMENT_CAMPAIGN_RELIC</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_CAMPAIGN_RELIC_DESCRIPTION</LocID>                         <Text>EQUIPMENT_CAMPAIGN_RELIC_DESCRIPTION</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+           
+            <!--_______________ABILITIES__________________________-->
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_HACK_DESCRIPTION_LVL2_V2</LocID>                 <Text>ABILITY_HERO_COMBAT_HACK_DESCRIPTION_LVL2_V2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_MIMICKING_TACTICS_DESCRIPTION_V2</LocID>         <Text>ABILITY_HERO_COMBAT_MIMICKING_TACTICS_DESCRIPTION_V2</Text></GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

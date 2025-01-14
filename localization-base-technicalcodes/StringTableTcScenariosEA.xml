@@ -1,0 +1,165 @@
+<Database>
+    <GameDBStringTable ID="LOC_TC_SCENARIOS_EA">
+
+        <LanguageRef>LANG_TC</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA TECH</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <!-- GENERAL OBJECTIVE(s)-->
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_GENERAL_SKIRMISH</LocID>                                   <Text>OBJECTIVE_GENERAL_SKIRMISH</Text>  </GameDBLocalizedString>
+            
+            <!--_______________CONFLUENCE__________________________-->
+            <GameDBLocalizedString>        <LocID>EA_CONFLUENCE_ID</LocID>                                              <Text>EA_CONFLUENCE_ID</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+           $1$2$4  </GameDBLocalizedString>
+           $1$2$4    </GameDBLocalizedString>
+
+
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_COMANDER</LocID>                                  <Text>MESSAGE_CONFLUENCE_COMANDER</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_KEEPER2</LocID>                                   <Text>MESSAGE_CONFLUENCE_KEEPER2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_KEEPER3</LocID>                                   <Text>MESSAGE_CONFLUENCE_KEEPER3</Text>  </GameDBLocalizedString>
+          
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_KEEPER_NOT_DONE</LocID>                           <Text>MESSAGE_CONFLUENCE_KEEPER_NOT_DONE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CONFLUENCE_KEEPER_DONE</LocID>                               <Text>MESSAGE_CONFLUENCE_KEEPER_DONE</Text>  </GameDBLocalizedString>
+ 
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CONFLUENCE_KEEPER</LocID>                                  <Text>OBJECTIVE_CONFLUENCE_KEEPER</Text>  </GameDBLocalizedString>
+            
+            
+            <!--_____________AWAIT_______________________-->
+            <GameDBLocalizedString>         <LocID>EA_AWAIT_ID</LocID>                                                  <Text>EA_AWAIT_ID</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+
+
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_AWAIT_KEEPER4</LocID>                                        <Text>MESSAGE_AWAIT_KEEPER4</Text>  </GameDBLocalizedString>
+
+            
+            <!--_________________GOLD FEVER_______________________-->
+            <GameDBLocalizedString>         <LocID>EA_GOLD_FEVER_ID</LocID>                                             <Text>EA_GOLD_FEVER_ID</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+
+
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_KEEPER1</LocID>                                   <Text>MESSAGE_GOLD_FEVER_KEEPER1</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_KEEPER3</LocID>                                   <Text>MESSAGE_GOLD_FEVER_KEEPER3</Text>  </GameDBLocalizedString>
+         
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_KEEPER_NOT_DONE</LocID>                           <Text>MESSAGE_GOLD_FEVER_KEEPER_NOT_DONE</Text>  </GameDBLocalizedString>
+              
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_KEEPER_DONE</LocID>                               <Text>MESSAGE_GOLD_FEVER_KEEPER_DONE</Text>  </GameDBLocalizedString>
+                
+            <GameDBLocalizedString>         <LocID>MESSAGE_GOLD_FEVER_DONE_DONE</LocID>                                 <Text>MESSAGE_GOLD_FEVER_DONE_DONE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_GOLD_FEVER_KEEPER</LocID>                                  <Text>OBJECTIVE_GOLD_FEVER_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_GOLD_FEVER_KEEPER1</LocID>                                 <Text>OBJECTIVE_GOLD_FEVER_KEEPER1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_GOLD_FEVER_KEEPER2</LocID>                                 <Text>OBJECTIVE_GOLD_FEVER_KEEPER2</Text>  </GameDBLocalizedString>
+
+
+            <!--_____________________ARCH_____________________________________________________-->
+            <GameDBLocalizedString>         <LocID>MAP_SCENARIO_EA_ARCH</LocID>                                         <Text>MAP_SCENARIO_EA_ARCH</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+
+            $1$2$4  </GameDBLocalizedString>
+            
+            <!-- TODO the unit name -->
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_ARCH_KEEPER2</LocID>                                         <Text>MESSAGE_ARCH_KEEPER2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_ARCH_KEEPER_DONE</LocID>                                     <Text>MESSAGE_ARCH_KEEPER_DONE</Text>  </GameDBLocalizedString>
+
+            <!-- TODO the unit name -->
+            <GameDBLocalizedString>         <LocID>MESSAGE_ARCH_KEEPER_NOT_DONE</LocID>                                 <Text>MESSAGE_ARCH_KEEPER_NOT_DONE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_ARCH_DONE_DONE</LocID>                                       <Text>MESSAGE_ARCH_DONE_DONE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_ARCH_KEEPER</LocID>                                        <Text>OBJECTIVE_ARCH_KEEPER</Text>  </GameDBLocalizedString>
+
+
+            <!--_______________CRUMBS__________________________-->
+            <GameDBLocalizedString>         <LocID>EA_CRUMBS_ID</LocID>                                                 <Text>EA_CRUMBS_ID</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4    </GameDBLocalizedString>
+   
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+      
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_KEEPER2</LocID>                                       <Text>MESSAGE_CRUMBS_KEEPER2</Text>  </GameDBLocalizedString>
+          
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_KEEPER4</LocID>                                       <Text>MESSAGE_CRUMBS_KEEPER4</Text>  </GameDBLocalizedString>
+         
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_COMMANDER</LocID>                                     <Text>MESSAGE_CRUMBS_COMMANDER</Text>  </GameDBLocalizedString>
+     
+            <GameDBLocalizedString>         <LocID>MESSAGE_CRUMBS_DONE_DONE</LocID>                                     <Text>MESSAGE_CRUMBS_DONE_DONE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CRUMBS_KEEPER</LocID>                                      <Text>OBJECTIVE_CRUMBS_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CRUMBS_KEEPER1</LocID>                                     <Text>OBJECTIVE_CRUMBS_KEEPER1</Text>  </GameDBLocalizedString>
+
+            
+            <!--_______________RIFT__________________________-->
+            <GameDBLocalizedString>         <LocID>EA_RIFT_ID</LocID>                                                   <Text>EA_RIFT_ID</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4    </GameDBLocalizedString>
+    
+    
+            <GameDBLocalizedString>         <LocID>MESSAGE_RIFT_TELEPORT</LocID>                                        <Text>MESSAGE_RIFT_TELEPORT</Text>  </GameDBLocalizedString>
+               
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+          
+            $1$2$4  </GameDBLocalizedString>
+
+                
+            <!--_______________TEAR__________________________-->
+            <GameDBLocalizedString>         <LocID>EA_TEAR_ID</LocID>                                                   <Text>EA_TEAR_ID</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4    </GameDBLocalizedString>
+        
+        
+            $1$2$4  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+            
+            $1$2$4  </GameDBLocalizedString>
+           
+            <GameDBLocalizedString>         <LocID>MESSAGE_TEAR_KEEPER3</LocID>                                         <Text>MESSAGE_TEAR_KEEPER3</Text>  </GameDBLocalizedString>
+          
+            $1$2$4  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_TEAR_KEEPER5</LocID>                                         <Text>MESSAGE_TEAR_KEEPER5</Text>  </GameDBLocalizedString>
+            $1$2$4  </GameDBLocalizedString>
+                
+                
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_TEAR_KEEPER</LocID>                                        <Text>OBJECTIVE_TEAR_KEEPER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_TEAR_KEEPER1</LocID>                                       <Text>OBJECTIVE_TEAR_KEEPER1</Text>  </GameDBLocalizedString>
+        
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
