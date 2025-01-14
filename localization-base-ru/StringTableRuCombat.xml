@@ -211,7 +211,7 @@
             <GameDBLocalizedString>         <LocID>FAST_CAST_HINT</LocID>                                        <Text>Click on abilities to add them to your fast cast panel:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_FAST_CAST</LocID>                                     <Text>This commander ability has been added to your Fast Cast panel.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>BUTTON_ALL_COMBAT_ABILITIES</LocID>                           <Text>All Combat Abilitites</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUTTON_ALL_COMBAT_ABILITIES</LocID>                           <Text>Все Боевые Умения</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_EDIT_FAST_CAST</LocID>                                 <Text>Edit Fast Cast</Text>  </GameDBLocalizedString>
                      
             <GameDBLocalizedString>         <LocID>COMBAT_NEXT_ROUND_STARTS</LocID>                              <Text>Next round begins!</Text>  </GameDBLocalizedString>

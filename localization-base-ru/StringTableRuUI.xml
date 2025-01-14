@@ -152,9 +152,9 @@
             <GameDBLocalizedString>         <LocID>BUTTON_ABILITIES_INACTIVE</LocID>                        <Text>Commander's abilities are not available</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_ABILITIES_COOLDOWN</LocID>                        <Text>Wait for your turn to use your commander's abilities</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>ICON_HERO_MORALE</LocID>                                 <Text>Morale</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ICON_HERO_MORALE</LocID>                                 <Text>Мораль</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>MORALE_HINT</LocID>                                      <Text>Good morale gives a chance to each unit to gain one extra move each turn. \n\nMorale increases if all units and their commander belong to the same race. Bonus from the Chess Master skill and effects from items and visited buildings also apply here.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MORALE_HINT</LocID>                                      <Text>Хорошая Мораль дает каждому существу шанс получить одно дополнительное перемещение за ход. \n\nМораль повышается, если все существа и их командир принадлежат к одной расе. Бонус от навыка Шахматный мастер и эффекты от предметов и посещенных зданий также учитываются.</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>ICON_UNIT_ATTACK</LocID>                                 <Text>Attack</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ICON_UNIT_DEFENSE</LocID>                                <Text>Defense</Text></GameDBLocalizedString>
@@ -164,7 +164,7 @@
             <GameDBLocalizedString>         <LocID>ICON_UNIT_CRITICAL</LocID>                               <Text>Critical</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ICON_UNIT_MOVE</LocID>                                   <Text>Move</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ICON_UNIT_INITIATIVE</LocID>                             <Text>Initiative</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ICON_UNIT_MORALE</LocID>                                 <Text>Morale</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ICON_UNIT_MORALE</LocID>                                 <Text>Мораль</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>ICON_UNIT_RACE</LocID>                                   <Text>Unit's race</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ICON_UNIT_LEVEL</LocID>                                  <Text>Unit's level</Text></GameDBLocalizedString>
@@ -193,8 +193,8 @@
             <GameDBLocalizedString>         <LocID>MAP_OBJECT_UPGRADED</LocID>                              <Text>Upgraded</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAP_OBJECT_BUY_UPGRADE</LocID>                           <Text>Buy</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>EQUIPMENT</LocID>                                        <Text>Equipment Slot</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ARTIFACT</LocID>                                         <Text>Artifact Slot</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT</LocID>                                        <Text>Слот Экипировки</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ARTIFACT</LocID>                                         <Text>Слот Артефакта</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>LEVEL_SHORT</LocID>                                      <Text>LVL</Text>  </GameDBLocalizedString>
 

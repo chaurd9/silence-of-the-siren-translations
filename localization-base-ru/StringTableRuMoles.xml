@@ -97,7 +97,7 @@
             <GameDBLocalizedString>         <LocID>HERO_MOLE_15</LocID>                                <Text>Релик</Text>  </GameDBLocalizedString>
 
             <!-- ======================== Commander's BIOs ======================== -->
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_1_DESCRIPTION</LocID>                     <Text>Skaurov's face looks like a battlefield. Terrifying scars silently testify to long and thorough torture. Some say he was the Supreme Leader's second, perhaps even a childhood friend during the revolution. Only one thing is known for sure. All the big names from the revolution were convicted of treason shortly after its success, except for Skaurov.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_1_DESCRIPTION</LocID>                     <Text>Лицо Скаурова похоже на поле боя. Жуткие шрамы безмолвно свидетельствуют о долгих и изощренных пытках. Некоторые говорят, что он был правой рукой Верховного Лидера, возможно, даже другом детства во время революции. Достоверно известно лишь одно. Все крупные фигуры революции были осуждены за измену вскоре после её успеха — кроме Скаурова.</Text>  </GameDBLocalizedString>
             
             <!-- For Chris: texts ready for proofreading 2024-01 START -->
             <GameDBLocalizedString>         <LocID>HERO_MOLE_2_DESCRIPTION</LocID>                     <Text>The self-appointed commander of special forces carries the smug of a rock 'n' roll star. In a perfectly tailored uniform and black glasses, he became the face of the propaganda posters sooner than they managed to get rid of him. In the present he is untouchable but he knows he's running on the very edge of the blade. </Text>  </GameDBLocalizedString>

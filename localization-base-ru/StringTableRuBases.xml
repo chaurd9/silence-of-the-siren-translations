@@ -77,7 +77,7 @@
             <GameDBLocalizedString>         <LocID>TOOLTIP_CAN_UPGRADE</LocID>                              <Text>Upgrade To {1}</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_UPGRADE_ONLY_RESOURCES_FOR</LocID>          <Text>You only have enough resources to upgrade</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_UPGRADE_NO_BUILDING</LocID>                 <Text>You must upgrade the Spawner building first.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_INFO_SPLIT</LocID>                          <Text>Split this unit stack and/or see unit details. Shortcut: Right-click on the unit slot.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_INFO_SPLIT</LocID>                          <Text>Разделить этот стек существ и/или просмотреть детали существ. Горячая клавиша: Щелкните ПКМ по слоту существ.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>HEADING_BASE_HIRE_HEROES</LocID>                         <Text>Hire Commanders</Text>  </GameDBLocalizedString>
 
@@ -101,7 +101,7 @@
             <GameDBLocalizedString>         <LocID>TOOLTIP_SWITCH_ARMIES</LocID>                            <Text>Switch Armies: Garrison/Ungarrison Commanders</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_UP</LocID>                                 <Text>Merge units into the top army. (Commanders stay in their slots.)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_DOWN</LocID>                               <Text>Merge units into the bottom army. (Commanders stay in their slots.)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_MANIPULATION</LocID>                        <Text>Click to pick up this unit stack. Right-click to split it.\nWhen moving a stack, right-click a matching slot to place the units one by one.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_MANIPULATION</LocID>                        <Text>Щелкните, чтобы взять этот стек существ. Щелкните ПКМ, чтобы разделить его.\nПри перемещении стека щелкните ПКМ по соответствующему слоту, чтобы разместить существ по одному.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNDO_ARMY_CHANGES</LocID>                        <Text>Undo army changes. Use when you accidentally spent more movement points on unit transfers than intended.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>TOOLTIP_THIS_TURN</LocID>                                <Text>You have already erected a building here this turn.</Text>  </GameDBLocalizedString>

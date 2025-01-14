@@ -248,15 +248,15 @@
             <!--Exploration XP-->
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_NONE</LocID>                                   <Text>Execute various actions to gain experience.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_COMBAT</LocID>                                 <Text>Combat</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_MOVEMENT</LocID>                               <Text>Movement</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_FOG_OF_WAR</LocID>                             <Text>Fog Of War</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_MOVEMENT</LocID>                               <Text>Перемещение</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_FOG_OF_WAR</LocID>                             <Text>Туман войны</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_CASTING</LocID>                                <Text>Using Abilities</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_TAKING_OVER_BUILDING</LocID>                   <Text>Structure(s) Taken</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_DISABLING_BUILDING</LocID>                     <Text>Structure(s) Disabled</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_BUILDING_VISIT</LocID>                         <Text>Structure(s) Visited</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_USING_CONSUMABLE</LocID>                       <Text>Using Consumables</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_BUILDING_UPGRADE</LocID>                       <Text>Upgrades</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_ITEM_PICK_UP</LocID>                           <Text>Pickables</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_XP_ITEM_PICK_UP</LocID>                           <Text>Собираемые предметы</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_ITEM_EQUIP</LocID>                             <Text>Items Equipped (with cost)</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_SHORTCUT_CREATION</LocID>                      <Text>Shortcuts</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP_TRAINING</LocID>                               <Text>Training</Text></GameDBLocalizedString>

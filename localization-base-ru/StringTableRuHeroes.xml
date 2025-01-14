@@ -10,51 +10,51 @@
         <LocalizedStrings>
             <!--Hero info shown in hero details panel-->
             <GameDBLocalizedString>         <LocID>HERO_LEVEL</LocID>                                       <Text>Level</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_XP</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_XP>Experience Points (XP)</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_XP</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_XP>Очки опыта (XP)</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT</LocID>                            <Text>Combat Power</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT</LocID>                            <Text>Боевая сила</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT_DESCRIPTION</LocID>                <Text><![CDATA[Each point of Combat power increases the <color=SOTS_COLOR_UPGRADE>DEFENSE</color> and <color=SOTS_COLOR_ATTACK>DAMAGE</color> of your units.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT_DESCRIPTION</LocID>                <Text><![CDATA[Каждый пункт боевой мощи увеличивает <color=SOTS_COLOR_UPGRADE>ЗАЩИТУ</color> и <color=SOTS_COLOR_ATTACK>УРОН</color> ваших существ.]]></Text>  </GameDBLocalizedString>
                                                                                                            
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_INTELLIGENCE</LocID>                      <Text>Ability Strength</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_INTELLIGENCE_DESCRIPTION</LocID>          <Text><![CDATA[Leveling up Ability Strength increases the commander's <color=SOTS_COLOR_ENERGY>Energy Buffer</color>, and makes their abilities more powerful.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_INTELLIGENCE</LocID>                      <Text>Сила умений</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_INTELLIGENCE_DESCRIPTION</LocID>          <Text><![CDATA[Повышение уровня Силы умений увеличивает <color=SOTS_COLOR_ENERGY>Энергетический запас</color> командира и делает его способности более мощными.]]></Text>  </GameDBLocalizedString>
                                                                                                            
             <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_VISION</LocID>                            <Text>Vision</Text>  </GameDBLocalizedString>
                                                                                                            
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT</LocID>                          <Text>Exploration Proficiency</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_DESCRIPTION</LocID>              <Text><![CDATA[Increases the number of <color=SOTS_COLOR_MOVEMENT>Movement Points</color>, and also improves the commander's visibility range.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT</LocID>                          <Text>Навык исследования</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_DESCRIPTION</LocID>              <Text><![CDATA[Увеличивает количество <color=SOTS_COLOR_MOVEMENT>очков перемещения</color>, а также улучшает дальность обзора командира.]]></Text>  </GameDBLocalizedString>
                                                                                                            
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MORALE</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_GOLD>Morale</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MAX_ENERGY</LocID>                        <Text><![CDATA[<color=SOTS_COLOR_ENERGY>Energy Points</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_ENERGY_REPLENISHED_BY_DAY</LocID>         <Text>Energy replenished each turn</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_POINTS</LocID>                   <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Movement Points</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MAX_MOVEMENT_POINTS</LocID>               <Text><![CDATA[Max <color=SOTS_COLOR_MOVEMENT>Movement Points</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MORALE</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_GOLD>Мораль</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MAX_ENERGY</LocID>                        <Text><![CDATA[<color=SOTS_COLOR_ENERGY>Очки энергии</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_ENERGY_REPLENISHED_BY_DAY</LocID>         <Text>Энергия восполняемая каждый ход</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_POINTS</LocID>                   <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Очки перемещения</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MAX_MOVEMENT_POINTS</LocID>               <Text><![CDATA[Max <color=SOTS_COLOR_MOVEMENT>Очки перемещения</color>]]></Text>  </GameDBLocalizedString>
                                                                                                            
             <GameDBLocalizedString>         <LocID>LEARN_SKILL</LocID>                                      <Text>Learn</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>HERO_PANEL_HERO_INFO</LocID>                             <Text>Commander</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_PANEL_ABILITIES</LocID>                             <Text>Abilities</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PANEL_HERO_INFO</LocID>                             <Text>Командир</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PANEL_ABILITIES</LocID>                             <Text>Умения</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_PANEL_BUFFS</LocID>                                 <Text>Buffs</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_PANEL_STATISTICS</LocID>                            <Text>Stats</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_NO_ABILITIES</LocID>                                <Text>This commander has not yet learned a skill that lets them learn special abilities.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_NO_ABILITIES</LocID>                                <Text>Этот командир еще не изучил навык, который позволяет ему изучать специальные способности.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_NO_BUFFS</LocID>                                    <Text>This commander does not have any buffs yet.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>HEADING_EQUIPMENT</LocID>                                <Text>Equipment</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HEADING_INVENTORY</LocID>                                <Text>Inventory</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HEADING_CONSUMABLES</LocID>                              <Text>Consumables</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HEADING_SKILLS</LocID>                                   <Text>Skills</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HEADING_ABILITIES</LocID>                                <Text>Abilities</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HEADING_ARMY</LocID>                                     <Text>Army</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_EQUIPMENT</LocID>                                <Text>Экипировка</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_INVENTORY</LocID>                                <Text>Инвентарь</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_CONSUMABLES</LocID>                              <Text>Расходники</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_SKILLS</LocID>                                   <Text>Навыки</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_ABILITIES</LocID>                                <Text>Умения</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_ARMY</LocID>                                     <Text>Армия</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_USE_ABILITIES</LocID>                            <Text>Use Abilities</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_HERO_BUFFS</LocID>                               <Text>Hero Buffs</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_ARMY_BUFFS</LocID>                               <Text>Army Buffs</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_MAP_BUFFS</LocID>                                <Text>Map Buffs</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_ARTIFACTS</LocID>                       <Text>Artifacts</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_EQUIPMENT</LocID>                       <Text>Equipment</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_CONSUMABLES</LocID>                     <Text>Consumables</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_ARTIFACTS</LocID>                       <Text>Артефакты</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_EQUIPMENT</LocID>                       <Text>Экипировка</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_CONSUMABLES</LocID>                     <Text>Расходники</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_EXPLORATION</LocID>                     <Text>Map Items</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_ALL</LocID>                             <Text>All Items</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_ALL</LocID>                             <Text>Все предметы</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>LEVEL_UP</LocID>                                         <Text>LEVEL UP!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>LEVEL_UP_ATTRIBUTE</LocID>                               <Text>Choose an attribute to LEVEL UP.</Text>  </GameDBLocalizedString>
@@ -144,7 +144,7 @@
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXTRA_MOVE_POINTS_FROM_CONSUMABLES</LocID>  <Text><![CDATA[Consumables restore {1}% more <color=SOTS_COLOR_MOVEMENT>movement</color>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_SCOUTING_BONUS</LocID>                      <Text>Scouting range +{1} tiles.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORATION_ABILITIES</LocID>                 <Text>Globetrotter</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORATION_ABILITIES</LocID>                 <Text>Путешествия</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORATION_ABILITIES_DESCRIPTION</LocID>     <Text><![CDATA[Learning or leveling up Globetrotter lets you learn a variety of <color=SOTS_COLOR_GOLD>Exploration Abilities</color>. After learning this skill, visit a base with an <color=SOTS_COLOR_GOLD>Academy</color> to learn more abilities.]]></Text>  </GameDBLocalizedString>
 
             <!--Combat skills-->

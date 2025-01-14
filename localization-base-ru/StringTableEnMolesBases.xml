@@ -1,10 +1,10 @@
 ﻿<Database>
-    <GameDBStringTable ID="LOC_EN_MOLES_BASES">
+    <GameDBStringTable ID="LOC_RU_MOLES_BASES">
 
-        <LanguageRef>LANG_EN</LanguageRef>
+        <LanguageRef>LANG_RU</LanguageRef>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>GNERWA LANG</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -183,7 +183,7 @@
             <!-- For Chris: texts ready for proofreading END -->
 
             <!-- For Chris: Feel free to suggest more dirt/hole/mole related base names :D -->
-            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_01</LocID>                                        <Text>Moleville</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_01</LocID>                                        <Text>Молвилл</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_02</LocID>                                        <Text>Pileburrow</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_03</LocID>                                        <Text>Upper Digging</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MOLES_BASE_NAME_04</LocID>                                        <Text>Little Digging</Text></GameDBLocalizedString>
