@@ -61,14 +61,14 @@
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_LOOT</LocID>                          <Text>Your Enemy Dropped Something!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_LOOT_TEXT</LocID>                     <Text>While retreating, your enemy left behind the following items:</Text></GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>COMBAT_ROUND_N</LocID>                                        <Text>Ход {1}</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_ROUND_N</LocID>                                        <Text>Раунд {1}</Text></GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>BUTTON_COMBAT_SPEED_1</LocID>                                 <Text>Combat Animation Speed: Normal</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_COMBAT_SPEED_2</LocID>                                 <Text>Combat Animation Speed: Faster</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_COMBAT_SPEED_3</LocID>                                 <Text>Combat Animation Speed: Fastest</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_SHOW_HEXES</LocID>                                     <Text>Show/Hide Hex Grid</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_NEXT_ROUND</LocID>                             <Text>Ход {int} начался.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_NEXT_ROUND</LocID>                             <Text>Раунд {int} начался.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>MESSAGE_UNIT_SKIPPED</LocID>                                  <Text>{Stack} skipped their turn.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_UNIT_WAITED</LocID>                                   <Text>{Stack} is waiting.</Text></GameDBLocalizedString>

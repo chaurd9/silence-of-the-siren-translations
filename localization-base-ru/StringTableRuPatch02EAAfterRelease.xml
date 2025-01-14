@@ -38,7 +38,7 @@
             
             <GameDBLocalizedString>         <LocID>AbilityAvailability_NO_FREE_PLAYER_BASE_ON_MAP_LAYER</LocID>         <Text>No base to evacuate to on this map layer.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>EARLY_ACCESS_HEADING</LocID>                                         <Text>Early Access</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EARLY_ACCESS_HEADING</LocID>                                         <Text>Ранний доступ</Text>  </GameDBLocalizedString>
             
         </LocalizedStrings>
     </GameDBStringTable>

@@ -41,9 +41,9 @@
             <GameDBLocalizedString>         <LocID>DISMISS_UNIT</LocID>                                     <Text>Dismiss these units</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HIRE_HERO</LocID>                                        <Text>Hire </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HIRE_RETREATED_HERO</LocID>                              <Text>Rehire this coward!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MOVE_HERO</LocID>                                        <Text>Continue commander's move\nDefault shortcut: [M]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>NEXT_HERO</LocID>                                        <Text>Next Commander</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HEADING_HERO_ACTION_SELECTOR</LocID>                     <Text>Open commander action menu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MOVE_HERO</LocID>                                        <Text>Продолжить перемещение командира\nКлавиша по умолчанию: [M]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NEXT_HERO</LocID>                                        <Text>След. Командир</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_HERO_ACTION_SELECTOR</LocID>                     <Text>Открыть меню действий командира</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SPLIT_ARMY</LocID>                                       <Text>Split army</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_GROWTH</LocID>                                      <Text>Growth</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILD</LocID>                                            <Text>Build</Text>  </GameDBLocalizedString>
@@ -51,13 +51,13 @@
             <GameDBLocalizedString>         <LocID>RESET_DEFAULT</LocID>                                    <Text>Reset default</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SKIP</LocID>                                             <Text>Skip</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>WAIT</LocID>                                             <Text>Wait</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>END_TURN_LOC</LocID>                                     <Text>End turn</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>END_TURN_LOC</LocID>                                     <Text>Завершить ход</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXIT_LOC</LocID>                                         <Text>Exit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BACK</LocID>                                             <Text>Назад</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDIT_FAST_CAST_COLLECTION</LocID>                        <Text>Edit fast cast collection</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HEADING_OBJECTIVES</LocID>                               <Text>Mission objectives:</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HEADING_SECONDARY_OBJECTIVES</LocID>                     <Text>Secondary objectives:</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SHOW_HIDE_OBJECTIVES</LocID>                             <Text>Show/hide the list of mission objectives</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_OBJECTIVES</LocID>                               <Text>Задания:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_SECONDARY_OBJECTIVES</LocID>                     <Text>Дополнительные задания:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SHOW_HIDE_OBJECTIVES</LocID>                             <Text>Показать/скрыть список заданий</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>NO_OBJECTIVES</LocID>                                    <Text>There are no active mission objectives</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>TRADING_HEADING</LocID>                                  <Text>TRADING</Text>  </GameDBLocalizedString>
@@ -106,17 +106,17 @@
             <GameDBLocalizedString>         <LocID>ROUND</LocID>                                            <Text>Round </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>PER_DAY</LocID>                                          <Text> each turn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TILE</LocID>                                             <Text>TILE: </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>NEXT_PLAYER</LocID>                                      <Text>Next:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NEXT_PLAYER</LocID>                                      <Text>След:</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_PHASE_HEADING</LocID>                <Text>Phase</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_PHASE_DESCRIPTION</LocID>            <Text>Cycle has 4 phases. All bases generate units at the start of the first phase.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_CURRENT_PHASE</LocID>                <Text><![CDATA[<color=SOTS_COLOR_FUSION_CORE>Current phase</color>: ]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_PHASE_HEADING</LocID>                <Text>Фаза</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_PHASE_DESCRIPTION</LocID>            <Text>Цикл состоит из 4 фаз. Все базы производят существ в начале первой фазы.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_CURRENT_PHASE</LocID>                <Text><![CDATA[<color=SOTS_COLOR_FUSION_CORE>Текущая фаза</color>: ]]></Text>  </GameDBLocalizedString>
 
             <!--top panel hover tooltips, related: KEYBOARD_EXPLORATION -->
-            <GameDBLocalizedString>         <LocID>BUTTON_MENU_EXPLORATION</LocID>                          <Text>Menu</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUTTON_MENU_EXPLORATION</LocID>                          <Text>Меню</Text></GameDBLocalizedString>
 
             <!-- Keyboard layout info -->
-            <GameDBLocalizedString>         <LocID>KEYBOARD_EXPLORATION</LocID>                             <Text><![CDATA[Default keyboard controls on the <b>world map</b>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>KEYBOARD_EXPLORATION</LocID>                             <Text><![CDATA[Стандартные клавиши управления на <b>карте мира</b>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_CLOSE_PANELS</LocID>                            <Text>Close active window, open menu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_MOVE_CAMERA</LocID>                             <Text>Move camera</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_HIGHLIGHT_INTERACTIVE_BUILDINGS</LocID>         <Text>Highlight interactive objects and buildings</Text>  </GameDBLocalizedString>
@@ -124,7 +124,7 @@
             <GameDBLocalizedString>         <LocID>KEYBOARD_NEXT_HERO</LocID>                               <Text>Switch to next commander</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_CONFIRM_DIALOG</LocID>                          <Text>Confirm default option in the active dialog</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>KEYBOARD_COMBAT</LocID>                                  <Text><![CDATA[Default keyboard controls in \n<b>combat</b>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>KEYBOARD_COMBAT</LocID>                                  <Text><![CDATA[Стандартные клавиши управления в \n<b>бою</b>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_COMBAT_WAIT</LocID>                             <Text>Wait</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_COMBAT_SKIP</LocID>                             <Text>Pass turn</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_COMBAT_ABILITY_BOOK</LocID>                     <Text>Open Ability Book</Text>  </GameDBLocalizedString>
@@ -170,12 +170,12 @@
             <GameDBLocalizedString>         <LocID>ICON_UNIT_LEVEL</LocID>                                  <Text>Unit's level</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>ICON_UNIT_SPECIAL_ABILTIY</LocID>                        <Text>Unit's special ability</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UI_ANIM_SPEED_BUTTON</LocID>                             <Text>Animation speed</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UI_ANIM_SPEED_BUTTON</LocID>                             <Text>Скорость анимаций</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_MORNING</LocID>                          <Text>Morning</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_NOON</LocID>                             <Text>Noon</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_EVENING</LocID>                          <Text>Evening</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_NIGHT</LocID>                            <Text>Night</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_MORNING</LocID>                          <Text>Утро</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_NOON</LocID>                             <Text>Полдень</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_EVENING</LocID>                          <Text>Вечер</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_NIGHT</LocID>                            <Text>Ночь</Text></GameDBLocalizedString>
        
             <GameDBLocalizedString>         <LocID>WINNER_LOSSES</LocID>                                    <Text>Winner's losses</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DEFEATED_LOSSES</LocID>                                  <Text>Defeated army's losses</Text></GameDBLocalizedString>
@@ -186,7 +186,7 @@
             <GameDBLocalizedString>         <LocID>TOOLTIP_BIO_UNIT</LocID>                                 <Text>This is a bio unit</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_TECH_UNIT</LocID>                                <Text>This is a tech unit</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>TOOLTIP_NEXT_HERO</LocID>                                <Text>Switch to next commander with available actions.\n[N]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_NEXT_HERO</LocID>                                <Text>Переключиться на следующего командира с доступными действиями.\n[N]</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>NEUTRAL_BASE</LocID>                                     <Text>A neutral base.</Text></GameDBLocalizedString>
             
@@ -204,19 +204,19 @@
             <GameDBLocalizedString>         <LocID>EFFECT_COMBAT_END_LOC</LocID>                            <Text>Until the end of the next battle</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CONSUMABLE_USAGE</LocID>                                 <Text><![CDATA[<color=SOTS_COLOR_GOLD>Consumable used</color>: ]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>ALL_DONE</LocID>                                         <Text>All done!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ALL_DONE</LocID>                                         <Text>Готово!</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>PLAYER</LocID>                                           <Text>Player</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER</LocID>                                           <Text>Игрок</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>CANCEL</LocID>                                           <Text>Cancel</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CANCEL</LocID>                                           <Text>Отмена</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>ZOOM_IN</LocID>                                          <Text>Zoom in [Scroll wheel up]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ZOOM_OUT</LocID>                                         <Text>Zoom out [Scroll wheel down]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ZOOM_IN</LocID>                                          <Text>Приблизить [Прокрутка колесиком вверх]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ZOOM_OUT</LocID>                                         <Text>Отдалить [Прокрутка колесиком вниз]</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>CONTINUE</LocID>                                         <Text>Продолжить</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>FOSSORIAN_CAMPAIGN</LocID>                               <Text>Кампания Фоссориан</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_COMPLETE</LocID>                               <Text>OBJECTIVE COMPLETE:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_COMPLETE</LocID>                               <Text>ВЫПОЛНЕННЫЕ ЗАДАНИЯ:</Text>  </GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>

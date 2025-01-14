@@ -9,7 +9,7 @@
 
         <LocalizedStrings>
             <!-- GENERAL OBJECTIVE(s)-->
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_GENERAL_SKIRMISH</LocID>                                   <Text>Defeat all enemies!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_GENERAL_SKIRMISH</LocID>                                   <Text>Устраните всех противников!</Text>  </GameDBLocalizedString>
             
             <!--_______________CONFLUENCE__________________________-->
             <GameDBLocalizedString>        <LocID>EA_CONFLUENCE_ID</LocID>                                              <Text>Confluence</Text>  </GameDBLocalizedString>

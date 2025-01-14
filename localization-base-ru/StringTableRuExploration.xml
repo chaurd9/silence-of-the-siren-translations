@@ -203,7 +203,7 @@
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_SMUGGLERS_DEN_REWARD</LocID>                    <Text>Get Reward</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_SLAVE_CAMP_NEGOTIATE</LocID>                    <Text>Buy Slaves</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNDISCOVERED</LocID>                                          <Text>Undiscovered Territory</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNDISCOVERED</LocID>                                          <Text>Неизведанная территория</Text></GameDBLocalizedString>
             
             <!-- Status effects -->                                                                              
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MOVE_POINTS_REDUCTION</LocID>                   <Text><![CDATA[<color=SOTS_COLOR_RED>Movement Point Reduction</color>]]></Text></GameDBLocalizedString>
@@ -233,7 +233,7 @@
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_NOT_IN_RANGE</LocID>                      <Text>Not in Range</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_SEEN_BY</LocID>                           <Text>Seen By:</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_BASE_NO_ARMY</LocID>                      <Text>Not Protected by Any Army</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_CYCLE</LocID>                             <Text>Current Day-Night Cycle Number</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_TOOLTIP_CYCLE</LocID>                             <Text>Текущий цикл Дня/Ночи</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>EXPLORATION_XP</LocID>                                        <Text>XP</Text></GameDBLocalizedString>
 
@@ -307,7 +307,7 @@
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_ROUND_3</LocID>                    <Text>Round 3/3</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_BATTLE_ARENA_VICTORY_BUTTON</LocID>             <Text>Victory</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISITED_ROUND</LocID>                      <Text>Round</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_VISITED_ROUND</LocID>                      <Text>Раунд</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_CONQUERED</LocID>                          <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>Conquered</color>]]></Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MORALE_BOOST_BATTLE_ARENA</LocID>               <Text>Battle Arena Morale Boost</Text></GameDBLocalizedString>
@@ -316,20 +316,20 @@
             <GameDBLocalizedString>         <LocID>EXPLORATION_START_TURN_REPLAYED</LocID>                       <Text>Replay complete! Ready to start?</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_START_REPLAY_AGAIN</LocID>                        <Text>Replay again</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>MAP_STATS</LocID>                                             <Text>Statistics</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAP_STATS</LocID>                                             <Text>Статистика</Text></GameDBLocalizedString>
          
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_NORMAL</LocID>                                    <Text>Normal cycle.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_NORMAL_DESCIPTION</LocID>                         <Text>Nothing unusual is happenning on the map today.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_UNITS</LocID>                               <Text>Superhabitability!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_UNITS_DESCRIPTION</LocID>                   <Text>More units for hire at all bases!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_LESS_UNITS</LocID>                                <Text>Pandemic!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_LESS_UNITS_DESCRIPTION</LocID>                    <Text>Less units for hire at all bases!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION</LocID>                          <Text>Stellar maximum!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION_DESCRIPTION</LocID>              <Text>All bases and structures produce more resources!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION</LocID>                        <Text>Stellar minimum!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION_DESCRIPTION</LocID>            <Text>All bases and structures produce less resources!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_BAD_VISIBILITY</LocID>                            <Text>Atmospheric interference!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_BAD_VISIBILITY_DESCRIPTION</LocID>                <Text>All commanders and structures have reduced visibility!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_NORMAL</LocID>                                    <Text>Обычный цикл.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_NORMAL_DESCIPTION</LocID>                         <Text>Сегодня на карте всё спокойно.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_UNITS</LocID>                               <Text>Суперобитаемость!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_UNITS_DESCRIPTION</LocID>                   <Text>На всех базах доступно больше существ для найма!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_LESS_UNITS</LocID>                                <Text>Пандемия!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_LESS_UNITS_DESCRIPTION</LocID>                    <Text>На всех базах доступно меньше существ для найма!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION</LocID>                          <Text>Звездный максимум!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_EXTRA_PRODUCTION_DESCRIPTION</LocID>              <Text>Все базы и сооружения производят больше ресурсов!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION</LocID>                        <Text>Звездный минимум!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_REDUCED_PRODUCTION_DESCRIPTION</LocID>            <Text>Все базы и сооружения производят меньше ресурсов!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_BAD_VISIBILITY</LocID>                            <Text>Атмосферные помехи!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_BAD_VISIBILITY_DESCRIPTION</LocID>                <Text>У всех командиров и сооружений снижена видимость!</Text></GameDBLocalizedString>
 
         </LocalizedStrings>
     </GameDBStringTable>

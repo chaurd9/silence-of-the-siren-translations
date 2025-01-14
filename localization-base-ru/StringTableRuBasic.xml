@@ -9,14 +9,14 @@
 
         <LocalizedStrings>
             <!-- Resources -->
-            <GameDBLocalizedString>         <LocID>RESOURCE_A</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>Limerite</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_B</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_ALLOYS>Alloy</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_C</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_BIOMASS>Biomass</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_D</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Radiant</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_EXPLORATION</LocID>                                     <Text><![CDATA[<color=SOTS_COLOR_FUSION_CORE>Fusion core</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_CASH</LocID>                                            <Text><![CDATA[<color=SOTS_COLOR_GOLD>Aura Coins</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_MOVEMENT_POINTS</LocID>                                 <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Movement points</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_ENERGY</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_ENERGY>Energy points</color>]]></Text>  </GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>RESOURCE_A</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>Лимерит</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_B</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_ALLOYS>Сплавы</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_C</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_BIOMASS>Биомасса</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_D</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Радианты</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_EXPLORATION</LocID>                                     <Text><![CDATA[<color=SOTS_COLOR_FUSION_CORE>Ядра синтеза</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_CASH</LocID>                                            <Text><![CDATA[<color=SOTS_COLOR_GOLD>Ауры</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_MOVEMENT_POINTS</LocID>                                 <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Очки перемещения</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_ENERGY</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_ENERGY>Очки энергии</color>]]></Text>  </GameDBLocalizedString>            
             
             <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_WIN_OTHER_PLAYERS_DEFEATED</LocID>             <Text>Defeat other players</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VICTORY_CONDITION_WIN_OTHER_PLAYERS_DEFEATED_MESSAGE</LocID>     <Text>Other players have been defeated</Text></GameDBLocalizedString>
@@ -37,16 +37,16 @@
             <GameDBLocalizedString>         <LocID>HERO_HAS_EARNED_XP</LocID>                                       <Text><![CDATA[Commander has earned<color=SOTS_COLOR_XP> {1} XP</color>!]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_WOULD_HAVE_EARNED_XP</LocID>                                <Text><![CDATA[Would have earned<color=SOTS_COLOR_XP> {1} XP</color> in real battle!]]></Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_RED</LocID>                                         <Text>Red</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_YELLOW</LocID>                                      <Text>Yellow</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_GREEN</LocID>                                       <Text>Green</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_TEAL</LocID>                                        <Text>Teal</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_BRONZE</LocID>                                      <Text>Bronze</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_BLUE</LocID>                                        <Text>Blue</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_INDIGO</LocID>                                      <Text>Indigo</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_TURQUOISE</LocID>                                   <Text>Turquoise</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_PINK</LocID>                                        <Text>Pink</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_NEUTRAL</LocID>                                     <Text>Neutral</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_RED</LocID>                                         <Text>Красный</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_YELLOW</LocID>                                      <Text>Желтый</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_GREEN</LocID>                                       <Text>Зеленый</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_TEAL</LocID>                                        <Text>Темно-бирюзовый</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_BRONZE</LocID>                                      <Text>Бронзовый</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_BLUE</LocID>                                        <Text>Синий</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_INDIGO</LocID>                                      <Text>Индиго</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_TURQUOISE</LocID>                                   <Text>Светло-бирюзовый</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_PINK</LocID>                                        <Text>Розовый</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PLAYER_COLOR_NEUTRAL</LocID>                                     <Text>Нейтральный</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>NEUTRAL_PLAYER</LocID>                                           <Text>Environment</Text></GameDBLocalizedString>
             

@@ -80,20 +80,20 @@
             <GameDBLocalizedString>         <LocID>ABILITY_UNIT_MECH_SPECIAL</LocID>                   <Text>Fires poisonous projectiles in all directions.</Text>  </GameDBLocalizedString>
 
             <!--Commander's names-->
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_1</LocID>                                 <Text>М-р.СкауроВ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_1</LocID>                                 <Text>Майор Скауров</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_2</LocID>                                 <Text>Комиссар Сниф</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_3</LocID>                                 <Text>Хак "Крыса"</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_4</LocID>                                 <Text>Агент Молссон</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_5</LocID>                                 <Text>С-т.Мольтеир</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_5</LocID>                                 <Text>Сержант Мольтеир</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_6</LocID>                                 <Text>Сборщик налогов Тотт</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_7</LocID>                                 <Text>Л-т.Молетов</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_8</LocID>                                 <Text>К-н.Холестер</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_9</LocID>                                 <Text>Ген.Труда</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_7</LocID>                                 <Text>Лейтенант Молетов</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_8</LocID>                                 <Text>Капитан Холестер</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_9</LocID>                                 <Text>Генерал Труда</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_10</LocID>                                <Text>Пуленепробиваемый Бени</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_11</LocID>                                <Text>Долгая Молли</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_12</LocID>                                <Text>Верховный лидер</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_13</LocID>                                <Text>Командир Мафф</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_MOLE_14</LocID>                                <Text>Ген.Фуррет</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_14</LocID>                                <Text>Генерал Фуррет</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_15</LocID>                                <Text>Релик</Text>  </GameDBLocalizedString>
 
             <!-- ======================== Commander's BIOs ======================== -->
