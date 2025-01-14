@@ -1,0 +1,61 @@
+﻿<Database>
+
+    <GameDBStringTable ID="LOC_TN_INVENTORY_ITEMS_COMBAT_EQUIPMENT">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>Oxymoron Games</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SIDEARM</LocID>                                <Text>EQUIPMENT_SIDEARM</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SIDEARM_DESCRIPTION</LocID>                    <Text><![CDATA[EQUIPMENT_SIDEARM_DESCRIPTION]]></Text>  </GameDBLocalizedString> <!--todo create proper description-->
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SIDEARM_LORE</LocID>                           <Text>EQUIPMENT_SIDEARM_LORE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SMARTGUN_AIMING_UNIT</LocID>                   <Text>EQUIPMENT_SMARTGUN_AIMING_UNIT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SMARTGUN_AIMING_UNIT_DESCRIPTION</LocID>       <Text><![CDATA[EQUIPMENT_SMARTGUN_AIMING_UNIT_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SMARTGUN_AIMING_UNIT_LORE</LocID>              <Text>EQUIPMENT_SMARTGUN_AIMING_UNIT_LORE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_MEDAL_OF_HONOR</LocID>                         <Text>EQUIPMENT_MEDAL_OF_HONOR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_MEDAL_OF_HONOR_DESCRIPTION</LocID>             <Text><![CDATA[EQUIPMENT_MEDAL_OF_HONOR_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_MEDAL_OF_HONOR_LORE</LocID>                    <Text>EQUIPMENT_MEDAL_OF_HONOR_LORE</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_TARGETING_SYSTEM</LocID>                       <Text>EQUIPMENT_TARGETING_SYSTEM</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_TARGETING_SYSTEM_DESCRIPTION</LocID>           <Text>EQUIPMENT_TARGETING_SYSTEM_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_TARGETING_SYSTEM_LORE</LocID>                  <Text>EQUIPMENT_TARGETING_SYSTEM_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_RAZOR_BEAM</LocID>                             <Text>EQUIPMENT_RAZOR_BEAM</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_RAZOR_BEAM_DESCRIPTION</LocID>                 <Text><![CDATA[EQUIPMENT_RAZOR_BEAM_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_RAZOR_BEAM_LORE</LocID>                        <Text>EQUIPMENT_RAZOR_BEAM_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_PANZER_BITING_PLASMA</LocID>                   <Text>EQUIPMENT_PANZER_BITING_PLASMA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_PANZER_BITING_PLASMA_DESCRIPTION</LocID>       <Text>EQUIPMENT_PANZER_BITING_PLASMA_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_PANZER_BITING_PLASMA_LORE</LocID>              <Text>EQUIPMENT_PANZER_BITING_PLASMA_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SUBDERMAL_ARMOR</LocID>                        <Text>EQUIPMENT_SUBDERMAL_ARMOR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SUBDERMAL_ARMOR_DESCRIPTION</LocID>            <Text>EQUIPMENT_SUBDERMAL_ARMOR_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SUBDERMAL_ARMOR_LORE</LocID>                   <Text>EQUIPMENT_SUBDERMAL_ARMOR_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SMART_BALLISTIC_PLATING</LocID>                <Text>EQUIPMENT_SMART_BALLISTIC_PLATING</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SMART_BALLISTIC_PLATING_DESCRIPTION</LocID>    <Text>EQUIPMENT_SMART_BALLISTIC_PLATING_DESCRIPTION</Text>  </GameDBLocalizedString> <!--todo create proper description-->
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_SMART_BALLISTIC_PLATING_LORE</LocID>           <Text>EQUIPMENT_SMART_BALLISTIC_PLATING_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BURN_PUNCHER</LocID>                           <Text>EQUIPMENT_BURN_PUNCHER</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BURN_PUNCHER_DESCRIPTION</LocID>               <Text>EQUIPMENT_BURN_PUNCHER_DESCRIPTION</Text>  </GameDBLocalizedString> <!--todo create proper description-->
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BURN_PUNCHER_LORE</LocID>                      <Text>EQUIPMENT_BURN_PUNCHER_LORE</Text>  </GameDBLocalizedString>
+             
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_CEREMONIAL_FLAG</LocID>                        <Text>EQUIPMENT_CEREMONIAL_FLAG</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_CEREMONIAL_FLAG_DESCRIPTION</LocID>            <Text>EQUIPMENT_CEREMONIAL_FLAG_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_CEREMONIAL_FLAG_LORE</LocID>                   <Text>EQUIPMENT_CEREMONIAL_FLAG_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_CROSS_OF_VALOR</LocID>                         <Text>EQUIPMENT_CROSS_OF_VALOR</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_CROSS_OF_VALOR_DESCRIPTION</LocID>             <Text>EQUIPMENT_CROSS_OF_VALOR_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_CROSS_OF_VALOR_LORE</LocID>                    <Text>EQUIPMENT_CROSS_OF_VALOR_LORE</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS</LocID>                         <Text>EQUIPMENT_BESIEGER_TOOLS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS_DESCRIPTION</LocID>             <Text>EQUIPMENT_BESIEGER_TOOLS_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS_LORE</LocID>                    <Text>EQUIPMENT_BESIEGER_TOOLS_LORE</Text>  </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

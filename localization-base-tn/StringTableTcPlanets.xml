@@ -1,0 +1,21 @@
+<Database>
+    <GameDBStringTable ID="LOC_TN_PLANETS">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>GNERWA</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>
+                <LocID>PLANET_EA_ID</LocID>
+                <Text>PLANET_EA_ID</Text>
+            </GameDBLocalizedString>
+            <GameDBLocalizedString>
+                <LocID>PLANET_EA_DESCRIPTION</LocID>
+                <Text><![CDATA[PLANET_EA_DESCRIPTION]]></Text>
+            </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

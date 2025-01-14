@@ -1,0 +1,26 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_TN_HIVE_MIND_EA">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>Oxymoron Games</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <GameDBLocalizedString>         <LocID>FACTION_HIVEMIND</LocID>             <Text>FACTION_HIVEMIND</Text></GameDBLocalizedString>
+
+            <!--Unit names-->
+            <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_BEHOLDER</LocID>       <Text>UNIT_HIVEMIND_BEHOLDER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_DRAGON</LocID>         <Text>UNIT_HIVEMIND_DRAGON</Text></GameDBLocalizedString>
+
+            <!--Unit description-->
+            <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_BEHOLDER_DESCRIPTION</LocID>              <Text>UNIT_HIVEMIND_BEHOLDER_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_DRAGON_DESCRIPTION</LocID>                <Text>UNIT_HIVEMIND_DRAGON_DESCRIPTION</Text></GameDBLocalizedString>
+            
+            <!--Unit abilities-->
+            <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_BEHOLDER_INFO_DESCRIPTION</LocID>         <Text>UNIT_HIVEMIND_BEHOLDER_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

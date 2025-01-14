@@ -1,0 +1,136 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_TN_MOLES">
+
+        <LanguageRef>LANG_TN</LanguageRef>
+
+        <Contributors>
+            <Name>Oxymoron Games</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <GameDBLocalizedString>         <LocID>FACTION_MOLES</LocID>                               <Text>FACTION_MOLES</Text></GameDBLocalizedString>
+                                                                                                  
+            <!--Unit names-->                                                                     
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT</LocID>                          <Text>UNIT_MOLES_MOLERAT</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG</LocID>                      <Text>UNIT_MOLES_MOLERAT_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER</LocID>                       <Text>UNIT_MOLES_BLINDPILER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_UPG</LocID>                   <Text>UNIT_MOLES_BLINDPILER_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER</LocID>                           <Text>UNIT_MOLES_HAMMER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_UPG</LocID>                       <Text>UNIT_MOLES_HAMMER_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO</LocID>                          <Text>UNIT_MOLES_TORPEDO</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG</LocID>                      <Text>UNIT_MOLES_TORPEDO_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_PROJECTILE</LocID>               <Text>UNIT_MOLES_TORPEDO_PROJECTILE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM</LocID>                             <Text>UNIT_MOLES_WORM</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG</LocID>                         <Text>UNIT_MOLES_WORM_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER</LocID>                      <Text>UNIT_MOLES_BEASTMASTER</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_UPG</LocID>                  <Text>UNIT_MOLES_BEASTMASTER_UPG</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH</LocID>                             <Text>UNIT_MOLES_MECH</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG</LocID>                         <Text>UNIT_MOLES_MECH_UPG</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON</LocID>                 <Text>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON_DESCRIPTION</LocID>     <Text><![CDATA[UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON_DESCRIPTION]]></Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_TORPEDO</LocID>                        <Text>ABILITY_UNIT_TORPEDO</Text></GameDBLocalizedString>
+
+            <!--Unit DESCRIPTIONs. These need to be in sync with descriptions of buildings that produce these units - see StringTableEnMolesBases.xml-->
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_DESCRIPTION</LocID>              <Text>UNIT_MOLES_MOLERAT_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG_DESCRIPTION</LocID>          <Text>UNIT_MOLES_MOLERAT_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_DESCRIPTION</LocID>           <Text>UNIT_MOLES_BLINDPILER_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_UPG_DESCRIPTION</LocID>       <Text>UNIT_MOLES_BLINDPILER_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_DESCRIPTION</LocID>               <Text>UNIT_MOLES_HAMMER_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_UPG_DESCRIPTION</LocID>           <Text>UNIT_MOLES_HAMMER_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_DESCRIPTION</LocID>              <Text>UNIT_MOLES_TORPEDO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG_DESCRIPTION</LocID>          <Text>UNIT_MOLES_TORPEDO_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <!-- Chris I've "edited" the next two but need clarification on the context. -->
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_DESCRIPTION</LocID>                 <Text>UNIT_MOLES_WORM_DESCRIPTION</Text></GameDBLocalizedString>
+            
+            <!-- JB: Chris accidentally deleted this, so still TODO :) -->
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG_DESCRIPTION</LocID>             <Text>UNIT_MOLES_WORM_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_DESCRIPTION</LocID>          <Text>UNIT_MOLES_BEASTMASTER_DESCRIPTION</Text></GameDBLocalizedString>
+            <!-- Chris I've "edited" the two above but need clarification on the context. -->       
+	        <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_UPG_DESCRIPTION</LocID>      <Text>UNIT_MOLES_BEASTMASTER_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_DESCRIPTION</LocID>                 <Text>UNIT_MOLES_MECH_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG_DESCRIPTION</LocID>             <Text>UNIT_MOLES_MECH_UPG_DESCRIPTION</Text></GameDBLocalizedString>
+            
+            <!--Unit special abilities-->
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG_PASSIVE_INFO_DESCRIPTION</LocID> <Text>UNIT_MOLES_MOLERAT_UPG_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>UNIT_MOLES_BLINDPILER_PASSIVE_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_BLINDPILER_SPECIAL</LocID>             <Text>ABILITY_UNIT_BLINDPILER_SPECIAL</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>UNIT_MOLES_HAMMER_PASSIVE_INFO_DESCRIPTION</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_HAMMER_SPECIAL</LocID>                 <Text>ABILITY_UNIT_HAMMER_SPECIAL</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_PASSIVE_INFO_DESCRIPTION</LocID>      <Text><![CDATA[UNIT_MOLES_TORPEDO_PASSIVE_INFO_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG_PASSIVE_INFO_DESCRIPTION</LocID>  <Text><![CDATA[UNIT_MOLES_TORPEDO_UPG_PASSIVE_INFO_DESCRIPTION]]></Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG_PASSIVE_INFO_DESCRIPTION</LocID>     <Text>UNIT_MOLES_WORM_UPG_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>UNIT_MOLES_BEASTMASTER_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_PASSIVE_INFO_DESCRIPTION</LocID>        <Text>UNIT_MOLES_MECH_PASSIVE_INFO_DESCRIPTION</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_BEASTMASTER_SPECIAL</LocID>            <Text>ABILITY_UNIT_BEASTMASTER_SPECIAL</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_MECH_SPECIAL</LocID>                   <Text>ABILITY_UNIT_MECH_SPECIAL</Text>  </GameDBLocalizedString>
+
+            <!--Commander's names-->
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_1</LocID>                                 <Text>HERO_MOLE_1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_2</LocID>                                 <Text>HERO_MOLE_2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_3</LocID>                                 <Text>HERO_MOLE_3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_4</LocID>                                 <Text>HERO_MOLE_4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_5</LocID>                                 <Text>HERO_MOLE_5</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_6</LocID>                                 <Text>HERO_MOLE_6</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_7</LocID>                                 <Text>HERO_MOLE_7</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_8</LocID>                                 <Text>HERO_MOLE_8</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_9</LocID>                                 <Text>HERO_MOLE_9</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_10</LocID>                                <Text>HERO_MOLE_10</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_11</LocID>                                <Text>HERO_MOLE_11</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_12</LocID>                                <Text>HERO_MOLE_12</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_13</LocID>                                <Text>HERO_MOLE_13</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_14</LocID>                                <Text>HERO_MOLE_14</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_15</LocID>                                <Text>HERO_MOLE_15</Text>  </GameDBLocalizedString>
+
+            <!-- ======================== Commander's BIOs ======================== -->
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_1_DESCRIPTION</LocID>                     <Text>HERO_MOLE_1_DESCRIPTION</Text>  </GameDBLocalizedString>
+            
+            <!-- For Chris: texts ready for proofreading 2024-01 START -->
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_2_DESCRIPTION</LocID>                     <Text>HERO_MOLE_2_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <!-- For Chris: texts ready for proofreading 2024-01 END -->
+            
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_3_DESCRIPTION</LocID>                     <Text>HERO_MOLE_3_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_4_DESCRIPTION</LocID>                     <Text>HERO_MOLE_4_DESCRIPTION</Text>  </GameDBLocalizedString>  
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_5_DESCRIPTION</LocID>                     <Text>HERO_MOLE_5_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_6_DESCRIPTION</LocID>                     <Text>HERO_MOLE_6_DESCRIPTION</Text></GameDBLocalizedString> <!-- In any other circumstance, he would be reported by some "true-hearted" party member, but it seems that all VIPs are regulars at his little banquets or just hopes that they will be soon invited and don't want to ruin their chances for the golden ticket by snitching. -->
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_7_DESCRIPTION</LocID>                     <Text>HERO_MOLE_7_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_8_DESCRIPTION</LocID>                     <Text>HERO_MOLE_8_DESCRIPTION</Text>  </GameDBLocalizedString>
+<!--            <GameDBLocalizedString>         <LocID>HERO_MOLE_8_DESCRIPTION</LocID>                     <Text>HERO_MOLE_8_DESCRIPTION</Text>  </GameDBLocalizedString>-->
+            
+            <!-- For Chris: texts ready for proofreading 2024-01 START -->
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_9_DESCRIPTION</LocID>                     <Text>HERO_MOLE_9_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <!-- For Chris: texts ready for proofreading 2024-01 END -->
+            
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_10_DESCRIPTION</LocID>                    <Text>HERO_MOLE_10_DESCRIPTION</Text>  </GameDBLocalizedString>
+
+            <!-- For Chris: texts ready for proofreading 2024-01 START -->
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_11_DESCRIPTION</LocID>                    <Text>HERO_MOLE_11_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_12_DESCRIPTION</LocID>                    <Text>HERO_MOLE_12_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <!-- For Chris: texts ready for proofreading 2024-01 END -->
+
+            <!-- For Chris: texts ready for proofreading 2024-03 START -->
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_13_DESCRIPTION</LocID>                    <Text>HERO_MOLE_13_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_MOLE_14_DESCRIPTION</LocID>                    <Text>HERO_MOLE_14_DESCRIPTION</Text>  </GameDBLocalizedString>
+            <!-- For Chris: texts ready for proofreading 2024-03 END -->
+            
+            <!--Single handedly kindled a Revolution at the old Fossoria and led the biggest mass exodus in the Fossorian history.-->
+            <!--Though carefuly watching her every step, Supreme Leader would be stupid to waste a sutch a gifted strategist.-->
+            <!--to keep appointed rank through all the way from the homeworld instead of being decorated in the hasty chaos of the escape from the Old Fossoria.-->
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
