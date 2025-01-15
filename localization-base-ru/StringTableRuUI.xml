@@ -76,7 +76,7 @@
             <GameDBLocalizedString>         <LocID>HEADING_PLAYERS</LocID>                                  <Text>Фракция</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HUMAN</LocID>                                            <Text>Человек</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>COMPUTER</LocID>                                         <Text>Компьютер</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>INFO_PLAYER_CONFIGURATION</LocID>                        <Text><![CDATA[You can set custom player names and choose more than one human player for a <color=SOTS_COLOR_GOLD>hot seat</color> multiplayer.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>INFO_PLAYER_CONFIGURATION</LocID>                        <Text><![CDATA[Вы можете задать имена игроков и выбрать более одного человека для <color=SOTS_COLOR_GOLD>многопользовательской игры на одном устройстве</color>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SWITCH_LOC</LocID>                                       <Text>Switch</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>QUIT_LOC</LocID>                                         <Text>ВЫЙТИ ИЗ ИГРЫ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>QUIT_LOC_SMALL</LocID>                                   <Text>Выйти из игры</Text>  </GameDBLocalizedString>

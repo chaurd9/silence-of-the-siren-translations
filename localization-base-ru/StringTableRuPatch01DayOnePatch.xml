@@ -24,9 +24,9 @@
 Мы благодарны за вашу поддержку игры до её полного релиза и надеемся, что вам понравится контент, который уже доступен.\n\nМы с нетерпением ждём ваших отзывов и отчётов о багах, усердно работаем над улучшением игры на основе обратной связи от сообщества.\n\nСсылки на раздел отчётов о багах на форуме Steam и наш Discord находятся ниже.</Text>  </GameDBLocalizedString>
 
             <!--_______________MAP_BRIDGES_TOO_FAR__________________________-->
-            <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_ID</LocID>                                        <Text>Bridges too far</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_DESCRIPTION</LocID>                               <Text><![CDATA[The last two bridges connect the divided landscape; will the <b>Fossorians</b> or the <b>Children of the Source</b> find them first?]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_INTRO</LocID>                                     <Text>Hello Commander, the line of contact with the enemy is permanently broken. Scouts are reporting that there are only two bridges left. Acquire at least one Fusion core, use it to activate any of the bridges, reach and defeat the enemy before they do the same to you.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_ID</LocID>                                        <Text>Мосты за гранью досягаемости</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_DESCRIPTION</LocID>                               <Text><![CDATA[Последние два моста соединяют разделенный ландшафт, смогут ли <b>Фоссориане</b> или <b>Дети Источника</b> найти их первыми?]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_INTRO</LocID>                                     <Text>Здравствуйте, Командир, линия контакта с врагом полностью разорвана. Разведчики сообщают, что осталось только два моста. Найдите хотя бы одно Ядро синтеза, используйте его для активации любого из мостов, доберитесь до врага и победите его, прежде чем он сделает то же самое с вами.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_VICTORY</LocID>                                   <Text>While bridges usually connect and unify, now a bridge has opened the path for destruction and devastation.</Text>    </GameDBLocalizedString>
 
 
